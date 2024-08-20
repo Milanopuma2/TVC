@@ -134,8 +134,8 @@
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 2",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 3",
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 4",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
@@ -229,8 +229,8 @@
                 "🇨🇦CA | 🔴 | vless | @DigiV2ray | 17",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 2",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
+                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 3",
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 4",
-                "🇨🇦CA | 🔴 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
@@ -572,21 +572,7 @@
             "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8080,
+            "server_port": 2052,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
@@ -597,10 +583,24 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=8080",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2052",
                 "headers": {
                     "Host": "www.speedtest.net"
                 }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
@@ -850,6 +850,27 @@
             }
         },
         {
+            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 3",
+            "type": "vless",
+            "server": "www.parspack.com",
+            "server_port": 2095,
+            "uuid": "94f51d56-204b-466b-b1d7-d397df9273d4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024",
+                "headers": {
+                    "Host": "www.parspack.com"
+                }
+            }
+        },
+        {
             "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "www.parspack.com",
@@ -861,27 +882,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxy_kafee | 5",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "biatoo--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
             }
         },
         {
@@ -2000,7 +2000,7 @@
             "type": "vless",
             "server": "188.114.97.141",
             "server_port": 80,
-            "uuid": "222d4f01-cce8-45c8-bdbe-c6a81488ce12",
+            "uuid": "99d92827-ee13-4ec2-b124-958ba38c15f1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
