@@ -122,7 +122,7 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 28",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 29",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 30",
-                "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 31",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 31",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 32",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 33",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 34",
@@ -185,7 +185,7 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 28",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 29",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 30",
-                "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 31",
+                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 31",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 32",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 33",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 34",
@@ -674,7 +674,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 31",
+            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 31",
             "type": "vmess",
             "server": "workers.dev",
             "server_port": 443,
