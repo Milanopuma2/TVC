@@ -120,7 +120,7 @@
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 15",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 16",
-                "🇹🇷TR | 🟢 | vmess | @DailyV2RY | 246",
+                "🇹🇷TR | 🟢 | vmess | @DailyV2RY | 266",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 0",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 1",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 10",
@@ -160,7 +160,7 @@
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 15",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 16",
-                "🇹🇷TR | 🟢 | vmess | @DailyV2RY | 246",
+                "🇹🇷TR | 🟢 | vmess | @DailyV2RY | 266",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 0",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 1",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 10",
@@ -533,7 +533,7 @@
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vmess | @DailyV2RY | 246",
+            "tag": "🇹🇷TR | 🟢 | vmess | @DailyV2RY | 266",
             "type": "vmess",
             "server": "irtr1.ngiftcard.com",
             "server_port": 80,
