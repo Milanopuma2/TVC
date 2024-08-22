@@ -138,7 +138,7 @@
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇨🇦CA | 🔴 | vless | @v2logy | 10",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 1",
@@ -151,8 +151,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "❔XX | 🔴 | vless | @customv2ray | 12",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 5",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
+                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 7",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 13",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 17",
@@ -191,8 +191,8 @@
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 3",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 4",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 15",
-                "🇸🇪SE | 🔴 | vless | @FreakConfig | 16",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 17",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇷🇺RU | 🟢 | ss | @iP_CF | 17",
@@ -249,7 +249,7 @@
                 "🇨🇦CA | 🔴 | vless | @proxy_kafee | 1",
                 "🇩🇪DE | 🔴 | vless | @proxy_kafee | 2",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇨🇦CA | 🔴 | vless | @v2logy | 10",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 1",
@@ -262,8 +262,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
                 "❔XX | 🔴 | vless | @customv2ray | 12",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 5",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
+                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 7",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 13",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 17",
@@ -302,8 +302,8 @@
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 3",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 4",
-                "🇺🇸US | 🔴 | vless | @FreakConfig | 15",
-                "🇸🇪SE | 🔴 | vless | @FreakConfig | 16",
+                "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
+                "🇸🇪SE | 🔴 | vless | @FreakConfig | 17",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇷🇺RU | 🟢 | ss | @iP_CF | 17",
@@ -952,7 +952,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2logy | 10",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 10",
             "type": "vless",
             "server": "ArV2ray.mAshtimji.IR",
             "server_port": 443,
@@ -1237,11 +1237,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
-            "uuid": "b7be6e8f-e2a2-494d-8686-a9535dc2f9a2",
+            "uuid": "230897ef-fb28-4881-be0d-01f5bfc882dd",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1258,11 +1258,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
+            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 7",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
-            "uuid": "230897ef-fb28-4881-be0d-01f5bfc882dd",
+            "uuid": "48514232-5325-46a0-84af-a0db683a5bc9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2133,7 +2133,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @FreakConfig | 16",
             "type": "vless",
             "server": "162.159.129.129",
             "server_port": 443,
@@ -2164,7 +2164,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 16",
+            "tag": "🇸🇪SE | 🔴 | vless | @FreakConfig | 17",
             "type": "vless",
             "server": "185.146.173.200",
             "server_port": 443,
