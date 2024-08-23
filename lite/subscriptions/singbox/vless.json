@@ -143,8 +143,8 @@
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 0",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
+                "🇨🇦CA | 🔴 | vless | @customv2ray | 11",
+                "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 6",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 7",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 13",
@@ -162,7 +162,8 @@
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 217",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 10",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 7",
@@ -234,8 +235,8 @@
                 "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 1",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 0",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 10",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 11",
-                "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
+                "🇨🇦CA | 🔴 | vless | @customv2ray | 11",
+                "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 6",
                 "🇺🇸US | 🔴 | vless | @UnlimitedDev | 7",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 12",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 13",
@@ -253,7 +254,8 @@
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 11",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 217",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 10",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 7",
@@ -1074,7 +1076,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @customv2ray | 11",
             "type": "vless",
             "server": "104.18.1.125",
             "server_port": 2086,
@@ -1088,7 +1090,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @UnlimitedDev | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @UnlimitedDev | 6",
             "type": "vless",
             "server": "www.parsvds.ir",
             "server_port": 8080,
@@ -1502,7 +1504,28 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 217",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 218",
+            "type": "vless",
+            "server": "104.26.12.255",
+            "server_port": 8080,
+            "uuid": "8dbcaf09-aa30-4367-9d8e-2762e66141d1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.26.12.255"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 219",
             "type": "vless",
             "server": "104.26.12.255",
             "server_port": 8080,
