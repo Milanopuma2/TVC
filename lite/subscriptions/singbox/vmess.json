@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
+                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 19",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 6",
                 "❔XX | 🟢 | vmess | @DailyV2RY | 218",
@@ -126,6 +127,7 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
+                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 19",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 6",
                 "❔XX | 🟢 | vmess | @DailyV2RY | 218",
@@ -189,6 +191,40 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 19",
+            "type": "vmess",
+            "server": "npmjs.com",
+            "server_port": 443,
+            "uuid": "6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hdfy1c2.freeairlaines.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/QvtvPdDXXIlSdZMqnuxG",
+                "headers": {
+                    "Host": "hdfy1c2.freeairlaines.com"
+                }
             }
         },
         {
