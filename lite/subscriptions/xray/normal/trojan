@@ -4,7 +4,7 @@
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
-trojan://telegram-id-privatevpns@13.39.204.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16
-trojan://telegram-id-privatevpns@15.236.27.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17
-trojan://telegram-id-directvpn@3.10.191.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 15
-trojan://telegram-id-directvpn@35.181.15.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 16
+trojan://telegram-id-privatevpns@13.42.168.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15
+trojan://telegram-id-privatevpns@18.171.199.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16
+trojan://telegram-id-directvpn@35.177.93.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 15
+trojan://telegram-id-directvpn@3.10.191.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 16
