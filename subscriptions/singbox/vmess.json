@@ -124,7 +124,7 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 6",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 198",
+                "❔XX | 🟢 | vmess | @DailyV2RY | 196",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 4",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 5",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -167,7 +167,7 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 6",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 198",
+                "❔XX | 🟢 | vmess | @DailyV2RY | 196",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 4",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 5",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -631,7 +631,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 198",
+            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 196",
             "type": "vmess",
             "server": null,
             "server_port": 0,
