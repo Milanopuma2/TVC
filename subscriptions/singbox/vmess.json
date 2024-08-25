@@ -116,8 +116,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 2",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 8",
+                "🇨🇾CY | 🟢 | vmess | @DeamNet_Proxy | 2",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 0",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 1",
@@ -126,7 +125,7 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 6",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 196",
+                "❔XX | 🟢 | vmess | @DailyV2RY | 198",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 4",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 5",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -161,8 +160,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 10",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 2",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 8",
+                "🇨🇾CY | 🟢 | vmess | @DeamNet_Proxy | 2",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 0",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 1",
@@ -171,7 +169,7 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇱🇺LU | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 6",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 196",
+                "❔XX | 🟢 | vmess | @DailyV2RY | 198",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 4",
                 "🚩CF | 🟢 | vmess | @proxystore11 | 5",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -427,11 +425,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 2",
+            "tag": "🇨🇾CY | 🟢 | vmess | @DeamNet_Proxy | 2",
             "type": "vmess",
-            "server": "172.67.70.167",
+            "server": "195.85.59.50",
             "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -444,7 +442,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "cake.capellare.com",
+                "server_name": "8wccc4a94-term-4a94.ketowil344.workers.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -454,43 +452,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/obdii.cfd\/linkws",
                 "headers": {
-                    "Host": "cake.capellare.com"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 8",
-            "type": "vmess",
-            "server": "188.114.97.6",
-            "server_port": 443,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "linde06.indiavideo.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "linde06.indiavideo.sbs"
+                    "Host": "8wccc4a94-term-4a94.ketowil344.workers.dev"
                 }
             }
         },
@@ -703,7 +667,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 196",
+            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 198",
             "type": "vmess",
             "server": null,
             "server_port": 0,
