@@ -116,8 +116,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 2",
-                "🇹🇷TR | 🟢 | vmess | @DeamNet_Proxy | 14",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 3",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 0",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 1",
@@ -163,8 +163,8 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 9",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 11",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 2",
-                "🇹🇷TR | 🟢 | vmess | @DeamNet_Proxy | 14",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 3",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🟢 | vmess | @customv2ray | 0",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 1",
@@ -431,10 +431,44 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 2",
+            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 3",
+            "type": "vmess",
+            "server": "cake.capellare.com",
+            "server_port": 443,
+            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cake.capellare.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkvws",
+                "headers": {
+                    "Host": "cake.capellare.com"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 18",
             "type": "vmess",
             "server": "104.16.60.8",
-            "server_port": 2095,
+            "server_port": 2052,
             "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
             "security": "auto",
             "alter_id": 0,
@@ -452,23 +486,6 @@
                 "headers": {
                     "Host": "104.16.60.8"
                 }
-            }
-        },
-        {
-            "tag": "🇹🇷TR | 🟢 | vmess | @DeamNet_Proxy | 14",
-            "type": "vmess",
-            "server": "45.89.52.114",
-            "server_port": 13701,
-            "uuid": "86a0c17d-1871-40e3-db65-2b9bf1a7650e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {

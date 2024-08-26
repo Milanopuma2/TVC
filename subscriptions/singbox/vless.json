@@ -622,8 +622,6 @@
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 17",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 19",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 20",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 21",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 22",
                 "❔XX | 🔴 | vless | @V2FETCH | 1",
                 "❔XX | 🔴 | vless | @V2FETCH | 3",
                 "❔XX | 🔴 | vless | @V2FETCH | 5",
@@ -1158,8 +1156,6 @@
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 17",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 19",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 20",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 21",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 22",
                 "❔XX | 🔴 | vless | @V2FETCH | 1",
                 "❔XX | 🔴 | vless | @V2FETCH | 3",
                 "❔XX | 🔴 | vless | @V2FETCH | 5",
@@ -12422,58 +12418,6 @@
             "server": "cpanel.com",
             "server_port": 443,
             "uuid": "e945a5ba-b3a1-4208-d069-e7177993c80d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.GozargahVPN.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed",
-                "headers": {
-                    "Host": "www.GozargahVPN.top"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @GozargahVPN | 21",
-            "type": "vless",
-            "server": "cpanel.com",
-            "server_port": 8080,
-            "uuid": "cedb2cca-5c53-467b-dbe1-53f4126f42d6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/GozaegahVPN\/ws\/",
-                "headers": {
-                    "Host": "cpanel.com"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @GozargahVPN | 22",
-            "type": "vless",
-            "server": "cpanel.com",
-            "server_port": 443,
-            "uuid": "34311ad1-9914-4523-be6a-3bc277e16577",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
