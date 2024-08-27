@@ -108,10 +108,8 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 17",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 18",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 198",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
@@ -126,10 +124,8 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 17",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 18",
-                "❔XX | 🟢 | vmess | @DailyV2RY | 198",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 1",
@@ -192,40 +188,6 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 18",
-            "type": "vmess",
-            "server": "104.16.60.8",
-            "server_port": 2096,
-            "uuid": "5f726fe3-d82e-4da5-a711-8af0cbb2b682",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "square-snowflake-486a.beshir-beisel.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/1a2d514b-37cf-499f-8d08-d017a92ab5bb.asoul-ava.top\/azumase.ren",
-                "headers": {
-                    "Host": "square-snowflake-486a.beshir-beisel.workers.dev"
-                }
-            }
-        },
-        {
             "tag": "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 17",
             "type": "vmess",
             "server": "23.162.200.182",
@@ -248,23 +210,6 @@
             "server": "45.89.52.114",
             "server_port": 13701,
             "uuid": "86a0c17d-1871-40e3-db65-2b9bf1a7650e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @DailyV2RY | 198",
-            "type": "vmess",
-            "server": null,
-            "server_port": 0,
-            "uuid": null,
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
