@@ -117,7 +117,6 @@
                 "🚩CF | 🔴 | vless | @EliV2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 14",
                 "🚩CF | 🔴 | vless | @EliV2ray | 15",
-                "🚩CF | 🔴 | vless | @EliV2ray | 16",
                 "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 3",
                 "❔XX | 🔴 | vless | @Parsashonam | 4",
@@ -479,8 +478,6 @@
                 "🚩CF | 🔴 | vless | @V2RayTz | 15",
                 "🚩CF | 🔴 | vless | @V2RayTz | 16",
                 "🚩CF | 🔴 | vless | @V2RayTz | 17",
-                "🚩CF | 🔴 | vless | @V2RayTz | 18",
-                "🚩CF | 🔴 | vless | @V2RayTz | 19",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 0",
                 "🇧🇭BH | 🟢 | ss | @VmessProtocol | 1",
                 "🇬🇧GB | 🟢 | ss | @VmessProtocol | 2",
@@ -741,7 +738,6 @@
                 "🚩CF | 🔴 | vless | @EliV2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 14",
                 "🚩CF | 🔴 | vless | @EliV2ray | 15",
-                "🚩CF | 🔴 | vless | @EliV2ray | 16",
                 "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 3",
                 "❔XX | 🔴 | vless | @Parsashonam | 4",
@@ -1103,8 +1099,6 @@
                 "🚩CF | 🔴 | vless | @V2RayTz | 15",
                 "🚩CF | 🔴 | vless | @V2RayTz | 16",
                 "🚩CF | 🔴 | vless | @V2RayTz | 17",
-                "🚩CF | 🔴 | vless | @V2RayTz | 18",
-                "🚩CF | 🔴 | vless | @V2RayTz | 19",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 0",
                 "🇧🇭BH | 🟢 | ss | @VmessProtocol | 1",
                 "🇬🇧GB | 🟢 | ss | @VmessProtocol | 2",
@@ -1576,20 +1570,6 @@
             "tag": "🚩CF | 🔴 | vless | @EliV2ray | 15",
             "type": "vless",
             "server": "172.67.199.19",
-            "server_port": 2086,
-            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @EliV2ray | 16",
-            "type": "vless",
-            "server": "104.18.1.125",
             "server_port": 2086,
             "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
             "flow": "",
@@ -9145,48 +9125,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @V2RayTz | 18",
-            "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 80,
-            "uuid": "177a5f59-2308-4aba-9961-8f756a7854a3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-@Shh_Proxy-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy,telegram-@Shh_Proxy?ed=2560",
-                "headers": {
-                    "Host": "104.17.148.22"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @V2RayTz | 19",
-            "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 8880,
-            "uuid": "409e8c11-ec75-4299-be33-4cff23cc3b63",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
-                "headers": {
-                    "Host": "104.17.148.22"
-                }
             }
         },
         {
