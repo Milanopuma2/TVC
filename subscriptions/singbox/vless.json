@@ -541,7 +541,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+                "🚩CF | 🔴 | vless | @nofiltering2 | 11",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
                 "🚩CF | 🔴 | vless | @proxy_mtm | 0",
                 "🚩CF | 🔴 | vless | @proxy_mtm | 1",
@@ -1039,7 +1039,7 @@
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
-                "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+                "🚩CF | 🔴 | vless | @nofiltering2 | 11",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 13",
                 "🚩CF | 🔴 | vless | @proxy_mtm | 0",
                 "🚩CF | 🔴 | vless | @proxy_mtm | 1",
@@ -10521,7 +10521,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 11",
+            "tag": "🚩CF | 🔴 | vless | @nofiltering2 | 11",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
