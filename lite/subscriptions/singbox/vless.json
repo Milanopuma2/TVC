@@ -146,8 +146,8 @@
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇬🇧GB | 🔴 | vless | @UnlimitedDev | 9",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 18",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 19",
+                "🇨🇦CA | 🔴 | vless | @vmessorg | 18",
+                "🇨🇦CA | 🔴 | vless | @vmessorg | 19",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 14",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 13",
@@ -177,7 +177,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 45",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
-                "🇸🇪SE | 🔴 | vless | @flyv2ray | 12",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
@@ -240,8 +240,8 @@
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 13",
                 "🇬🇧GB | 🔴 | vless | @UnlimitedDev | 9",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 18",
-                "🇺🇸US | 🔴 | vless | @vmessorg | 19",
+                "🇨🇦CA | 🔴 | vless | @vmessorg | 18",
+                "🇨🇦CA | 🔴 | vless | @vmessorg | 19",
                 "🇮🇷IR | 🔴 | vless | @v2rayNG_Matsuri | 14",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 13",
@@ -271,7 +271,7 @@
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 45",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 11",
-                "🇸🇪SE | 🔴 | vless | @flyv2ray | 12",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 5",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
@@ -1216,7 +1216,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @vmessorg | 18",
             "type": "vless",
             "server": "joinbedebe.vmessorg.community",
             "server_port": 8080,
@@ -1237,7 +1237,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vmessorg | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @vmessorg | 19",
             "type": "vless",
             "server": "104.17.93.85",
             "server_port": 8080,
@@ -1829,7 +1829,7 @@
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
-            "uuid": "ab7e8891-97de-4807-be40-43dd41d577ee",
+            "uuid": "251e61e3-f4db-4508-9e9d-2a80af4362b8",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1839,24 +1839,17 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @flyv2ray | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
             "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 8080,
-            "uuid": "dbee8546-0b7e-4b72-b409-48e63fb860ee",
+            "server": "www.parspack.com",
+            "server_port": 8880,
+            "uuid": "ab7e8891-97de-4807-be40-43dd41d577ee",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/servernett",
-                "headers": {
-                    "Host": "185.146.173.58"
-                }
             }
         },
         {
