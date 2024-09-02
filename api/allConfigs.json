@@ -1014,24 +1014,6 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/e7008fd7-093e-444d-9469-eef7e9b76a42@www.parspack.com:8880?type=httpupgrade&path=%2FSHHPROXY%3Fed%3D2048&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&security=none#🇺🇸US%20|%20🔴%20|%20vless%20|%20@shh_proxy%20|%2024"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/abf1befa-104b-4156-a8a0-841ffc8254ae@www.speedtest.net:80?security=&type=ws&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&encryption=none#🇺🇸US%20|%20🔴%20|%20vless%20|%20@shh_proxy%20|%2025"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
         "config": "vless:\/\/801033cb-b1c6-441b-aa4c-955e3f9bf2a0@www.speedtest.net:8880?path=%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%2F%40LOCKEY_VPN%3Fed%3D2048&security=none&encryption=none&host=Www.Speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.Ir.&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@Lockey_vpn%20|%200"
     },
     {
@@ -1473,7 +1455,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/14202ac6-fda1-525c-a359-58d69199f997@www.speedtest.net:8080?path=%2FTel-%40proxy_kafee-%40proxy_kafe-%2F%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.se1.vless.Sitespeedtest.net&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%200"
+        "config": "vless:\/\/7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?path=%2FTelegram-XV2ry2%3Fed%3D1080P&security=tls&encryption=none&host=wr.dev&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%201"
     },
     {
         "channel": {
@@ -1482,7 +1464,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/14202ac6-fda1-525c-a359-58d69199f997@www.parspack.com:2052?path=%2FTel-%40proxy_kafee-%40proxy_kafee-%2F%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.se1.vless.Sitespeedtest.net&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%201"
+        "config": "vless:\/\/14202ac6-fda1-525c-a359-58d69199f997@www.speedtest.net:8080?path=%2FTel-%40proxy_kafee-%40proxy_kafe-%2F%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.se1.vless.Sitespeedtest.net&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%202"
     },
     {
         "channel": {
@@ -1491,7 +1473,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Bia--ZEDMODEON@Www.speedtest.net:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.main3.zedmodeon.LAT&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%202"
+        "config": "vless:\/\/14202ac6-fda1-525c-a359-58d69199f997@www.parspack.com:2052?path=%2FTel-%40proxy_kafee-%40proxy_kafee-%2F%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.se1.vless.Sitespeedtest.net&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%203"
     },
     {
         "channel": {
@@ -1500,7 +1482,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Bia--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapptrip.com&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%204"
+        "config": "vless:\/\/Bia--ZEDMODEON@Www.speedtest.net:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.main3.zedmodeon.LAT&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%205"
     },
     {
         "channel": {
@@ -1509,7 +1491,16 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/e7008fd7-093e-444d-9469-eef7e9b76a42@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%205"
+        "config": "vless:\/\/Bia--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapptrip.com&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%206"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/e7008fd7-093e-444d-9469-eef7e9b76a42@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#🇺🇸US%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%207"
     },
     {
         "channel": {
@@ -1518,7 +1509,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/Bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=IfRGbxsU5A8Xec8y3hDccNrYG3_RJBChFl7wtb4cFXQ&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-BIA-ZEDMODEON&sni=eset.com&sid=7b65e82d#❔XX%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%206"
+        "config": "vless:\/\/Bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&security=reality&encryption=none&authority=&pbk=IfRGbxsU5A8Xec8y3hDccNrYG3_RJBChFl7wtb4cFXQ&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-BIA-ZEDMODEON&sni=eset.com&sid=7b65e82d#❔XX%20|%20🔴%20|%20vless%20|%20@proxy_kafee%20|%208"
     },
     {
         "channel": {
@@ -1833,7 +1824,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?type=tcp&encryption=none#❔XX%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%200"
+        "config": "vless:\/\/77aa2623-e6aa-4997-b829-d83a963a0581@172.67.138.69:2052?type=ws&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&path=%2F#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%200"
     },
     {
         "channel": {
@@ -1842,7 +1833,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/50d1c295-fc17-4545-e1c1-c816b5bb0f26@185.146.173.49:2095?type=ws&encryption=none&host=2.V2.e.www.Speedtest.net.Hopeserver.Xyz.&path=%2F#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%201"
+        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?type=tcp&encryption=none#❔XX%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%201"
     },
     {
         "channel": {
@@ -1851,7 +1842,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/1e8e2283-4c2d-11ef-ad7f-00505605a82d@104.26.10.137:443?type=ws&encryption=none&host=cdn-fr.brocdn.com&path=%2Fwebsocket&security=tls&sni=cdn-fr.brocdn.com#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%202"
+        "config": "vless:\/\/50d1c295-fc17-4545-e1c1-c816b5bb0f26@185.146.173.49:2095?type=ws&encryption=none&host=2.V2.e.www.Speedtest.net.Hopeserver.Xyz.&path=%2F#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%202"
     },
     {
         "channel": {
@@ -1860,7 +1851,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?type=ws&encryption=none&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%203"
+        "config": "vless:\/\/1e8e2283-4c2d-11ef-ad7f-00505605a82d@104.26.10.137:443?type=ws&encryption=none&host=cdn-fr.brocdn.com&path=%2Fwebsocket&security=tls&sni=cdn-fr.brocdn.com#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%203"
     },
     {
         "channel": {
@@ -1869,7 +1860,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.148.244:2053?type=ws&encryption=none&host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&path=%2F%3Fed&security=tls&sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV&alpn=http%2F1.1#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%204"
+        "config": "vless:\/\/f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?type=ws&encryption=none&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%204"
     },
     {
         "channel": {
@@ -1878,7 +1869,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/83c4cb63-c8af-4234-9e9d-6d9ac7361b17@104.17.147.22:8880?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws88.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%205"
+        "config": "vless:\/\/e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.148.244:2053?type=ws&encryption=none&host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&path=%2F%3Fed&security=tls&sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV&alpn=http%2F1.1#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%205"
     },
     {
         "channel": {
@@ -1887,7 +1878,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:16723?type=tcp&encryption=none#❔XX%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%206"
+        "config": "vless:\/\/83c4cb63-c8af-4234-9e9d-6d9ac7361b17@104.17.147.22:8880?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws88.awscloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%206"
     },
     {
         "channel": {
@@ -1896,7 +1887,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/cbeb450f-df92-46bf-9817-06d733118932@198.41.193.40:80?type=ws&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%208"
+        "config": "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:16723?type=tcp&encryption=none#❔XX%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%207"
     },
     {
         "channel": {
@@ -1905,7 +1896,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER@[2a04:4e42::731]:80?type=ws&encryption=none&host=Bd.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#❔XX%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%2010"
+        "config": "vless:\/\/cbeb450f-df92-46bf-9817-06d733118932@198.41.193.40:80?type=ws&encryption=none&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🚩CF%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%209"
     },
     {
         "channel": {
@@ -1914,7 +1905,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/7d043a1c-5417-491e-8c0a-d12f1dd8474a@87.107.146.77:8880?type=ws&encryption=none&host=aDmIn.SaNa-DoWnLoAd.Ir.&path=%2F#🇮🇷IR%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%2011"
+        "config": "vless:\/\/TELEGRAM-NUFiLTER@[2a04:4e42::731]:80?type=ws&encryption=none&host=Bd.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#❔XX%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%2011"
     },
     {
         "channel": {
@@ -1923,7 +1914,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.114.44:22222?type=ws&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#🇬🇧GB%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%2012"
+        "config": "vless:\/\/7d043a1c-5417-491e-8c0a-d12f1dd8474a@87.107.146.77:8880?type=ws&encryption=none&host=aDmIn.SaNa-DoWnLoAd.Ir.&path=%2F#🇮🇷IR%20|%20🔴%20|%20vless%20|%20@ProxyForOpeta%20|%2012"
     },
     {
         "channel": {
@@ -5324,8 +5315,17 @@
             "title": null,
             "logo": null
         },
+        "type": "vless",
+        "config": "vless:\/\/de92f018-2571-46ec-b84c-76cfea27c106@zula.ir:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%200"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
         "type": "reality",
-        "config": "vless:\/\/168f0561-480c-414c-880e-c2becf9ec0a3@neomci.orac.site:34725?path=sammobile.com&security=reality&encryption=none&pbk=nGvmIREOpAS7AP-bT5xe0XT3Xb_j7uLkAhJ5yWKN5Bc&host=sammobile.com&fp=chrome&spx=%2F&type=http&sni=sammobile.com&sid=78145c13#🇳🇱NL%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%200"
+        "config": "vless:\/\/168f0561-480c-414c-880e-c2becf9ec0a3@neomci.orac.site:34725?path=sammobile.com&security=reality&encryption=none&pbk=nGvmIREOpAS7AP-bT5xe0XT3Xb_j7uLkAhJ5yWKN5Bc&host=sammobile.com&fp=chrome&spx=%2F&type=http&sni=sammobile.com&sid=78145c13#🇳🇱NL%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%201"
     },
     {
         "channel": {
@@ -5334,7 +5334,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/f86f4df7-090c-496d-8be7-ad09a11bfa71@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%201"
+        "config": "vless:\/\/f86f4df7-090c-496d-8be7-ad09a11bfa71@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%202"
     },
     {
         "channel": {
@@ -5343,7 +5343,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/b14da791-0efc-431e-8dae-e6562c1f39fe@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%202"
+        "config": "vless:\/\/b14da791-0efc-431e-8dae-e6562c1f39fe@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%203"
     },
     {
         "channel": {
@@ -5352,7 +5352,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/56379451-2a78-4667-b4ee-e43521b0c9c1@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%203"
+        "config": "vless:\/\/56379451-2a78-4667-b4ee-e43521b0c9c1@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%204"
     },
     {
         "channel": {
@@ -5361,7 +5361,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Bia--Z%45%44MODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=snapptrip.com&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%204"
+        "config": "vless:\/\/Bia--Z%45%44MODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none%3D%2F%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran&host=snapptrip.com&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%205"
     },
     {
         "channel": {
@@ -5370,7 +5370,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/4d24ac70-5edb-46f3-9211-1caa3fb875f7@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%205"
+        "config": "vless:\/\/4d24ac70-5edb-46f3-9211-1caa3fb875f7@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@mehrosaboran%20|%206"
     },
     {
         "channel": {
