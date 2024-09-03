@@ -141,8 +141,8 @@
                 "🇨🇦CA | 🟢 | vless | @V2rayCollector | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 11",
-                "❔XX | 🔴 | vless | @ProxyForOpeta | 12",
+                "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 10",
+                "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 11",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 2",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 3",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
@@ -242,8 +242,8 @@
                 "🇨🇦CA | 🟢 | vless | @V2rayCollector | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 11",
-                "❔XX | 🔴 | vless | @ProxyForOpeta | 12",
+                "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 10",
+                "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 11",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 2",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 3",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
@@ -1102,11 +1102,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ProxyForOpeta | 11",
+            "tag": "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 10",
             "type": "vless",
-            "server": "104.18.18.37",
-            "server_port": 2053,
-            "uuid": "5e2a0dff-3392-476d-bbaa-c7b35380495e",
+            "server": "87.107.146.77",
+            "server_port": 8880,
+            "uuid": "7d043a1c-5417-491e-8c0a-d12f1dd8474a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1114,36 +1114,33 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "FrEeDOM2.paGES.dEV",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-proxy_mtm",
+                "path": "\/",
                 "headers": {
-                    "Host": "FrEeDOM2.paGES.dEV"
+                    "Host": "87.107.146.77"
                 }
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ProxyForOpeta | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 11",
             "type": "vless",
-            "server": "[2a01:4f8:c17:eaf8::1]",
-            "server_port": 16723,
-            "uuid": "TELEGRAM-ServerNett",
+            "server": "172.67.138.69",
+            "server_port": 2052,
+            "uuid": "77aa2623-e6aa-4997-b829-d83a963a0581",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "172.67.138.69"
+                }
             }
         },
         {
