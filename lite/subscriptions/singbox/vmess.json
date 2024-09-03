@@ -108,9 +108,8 @@
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 16",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "❔XX | 🟢 | vmess | @DailyV2RY | 191",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -128,9 +127,8 @@
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 15",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 16",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 7",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "❔XX | 🟢 | vmess | @DailyV2RY | 191",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
@@ -196,31 +194,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 16",
-            "type": "vmess",
-            "server": "mmhk01.micloud.buzz",
-            "server_port": 46001,
-            "uuid": "638501f6-0ba0-47cb-bcfe-200cc1169e81",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/zh-cn",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 6",
             "type": "vmess",
             "server": "172.67.219.194",
             "server_port": 443,
@@ -254,7 +228,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 7",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": "104.26.13.72",
             "server_port": 443,
