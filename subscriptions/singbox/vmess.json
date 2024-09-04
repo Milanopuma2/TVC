@@ -116,7 +116,6 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 14",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 1",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
@@ -154,7 +153,6 @@
                 "🚩CF | 🟢 | vmess | @v2Line | 4",
                 "🚩CF | 🟢 | vmess | @v2Line | 5",
                 "🚩CF | 🟢 | vmess | @v2Line | 6",
-                "🚩CF | 🟢 | vmess | @v2Line | 7",
                 "🇪🇸ES | 🟢 | vmess | @kingofilter | 7"
             ]
         },
@@ -172,7 +170,6 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 14",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 1",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
@@ -210,7 +207,6 @@
                 "🚩CF | 🟢 | vmess | @v2Line | 4",
                 "🚩CF | 🟢 | vmess | @v2Line | 5",
                 "🚩CF | 🟢 | vmess | @v2Line | 6",
-                "🚩CF | 🟢 | vmess | @v2Line | 7",
                 "🇪🇸ES | 🟢 | vmess | @kingofilter | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -445,40 +441,6 @@
                 "path": "\/video\/ibCT6z55",
                 "headers": {
                     "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-            "type": "vmess",
-            "server": "linde06.indiavideo.sbs",
-            "server_port": 443,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "linde06.indiavideo.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "linde06.indiavideo.sbs"
                 }
             }
         },
@@ -1473,30 +1435,6 @@
             "server": "104.26.15.148",
             "server_port": 80,
             "uuid": "f1fb28e5-e5b6-450c-972c-13235c94285c",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @v2Line | 7",
-            "type": "vmess",
-            "server": "104.26.15.148",
-            "server_port": 80,
-            "uuid": "2c4d6f66-2966-49c1-93aa-a7192ba8f8fc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
