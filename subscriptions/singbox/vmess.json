@@ -116,14 +116,13 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 14",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 13",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 14",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 1",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 2",
@@ -172,14 +171,13 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 14",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 13",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 14",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 1",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 3",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 6",
-                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 0",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 2",
@@ -449,11 +447,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 13",
+            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 14",
             "type": "vmess",
-            "server": "104.16.60.8",
+            "server": "104.16.61.8",
             "server_port": 2082,
-            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -466,9 +464,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/afrhms16v.bestxray.buzz\/linkws",
+                "path": "\/obdii.cfd\/linkws",
                 "headers": {
-                    "Host": "104.16.60.8"
+                    "Host": "104.16.61.8"
                 }
             }
         },
@@ -643,30 +641,6 @@
                 "path": "\/linkws",
                 "headers": {
                     "Host": "glweidf.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 7",
-            "type": "vmess",
-            "server": "172.64.155.209",
-            "server_port": 80,
-            "uuid": "947cb385-54b4-4453-ac92-63c95ef32a6a",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/V2LINE-TELEGRAM-CHANNEL-VMESS-WS",
-                "headers": {
-                    "Host": ""
                 }
             }
         },
