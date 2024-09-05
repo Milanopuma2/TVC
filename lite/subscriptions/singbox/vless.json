@@ -139,7 +139,8 @@
                 "🇨🇦CA | 🟢 | vless | @V2rayCollector | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 12",
+                "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 11",
+                "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 12",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
@@ -240,7 +241,8 @@
                 "🇨🇦CA | 🟢 | vless | @V2rayCollector | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 18",
                 "🇨🇦CA | 🔴 | vless | @V2rayCollectorDonate | 19",
-                "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 12",
+                "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 11",
+                "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 12",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 3",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 13",
@@ -1038,24 +1040,31 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 12",
+            "tag": "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 11",
             "type": "vless",
-            "server": "104.16.60.8",
-            "server_port": 2086,
-            "uuid": "962a733d-2614-0b9b-7ffe-9ac92ffea8eb",
+            "server": "193.107.48.54",
+            "server_port": 2052,
+            "uuid": "c581bfd8-c5ff-4c88-b256-3dbc995ee241",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ahmedquran19.xyz:443\/current_time",
-                "headers": {
-                    "Host": "104.16.60.8"
-                }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @ProxyForOpeta | 12",
+            "type": "vless",
+            "server": "193.151.149.161",
+            "server_port": 443,
+            "uuid": "6da18053-8c08-4349-b5fc-e18f8ac44732",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
