@@ -109,7 +109,7 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 19",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
@@ -129,7 +129,7 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 19",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 6",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 2",
@@ -220,11 +220,11 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 19",
+            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 17",
             "type": "vmess",
-            "server": "f.khilei.com",
+            "server": "slime-rhinestone-spy.glitch.me",
             "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "uuid": "83a5c82d-a047-418e-9ad9-6ce8c5aaba59",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -237,7 +237,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "f.khilei.com",
+                "server_name": "slime-rhinestone-spy.glitch.me",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -247,9 +247,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/linkvws",
+                "path": "\/83a5c82d-a047-418e-9ad9-6ce8c5aaba59-vmess",
                 "headers": {
-                    "Host": "f.khilei.com"
+                    "Host": "slime-rhinestone-spy.glitch.me"
                 }
             }
         },
