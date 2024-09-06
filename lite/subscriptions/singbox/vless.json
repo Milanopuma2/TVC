@@ -164,8 +164,8 @@
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 202",
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 203",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 0",
-                "🇺🇸US | 🔴 | vless | @lrnbymaa | 19",
-                "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
+                "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
+                "🇺🇸US | 🔴 | vless | @lrnbymaa | 22",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 11",
                 "🇺🇸US | 🔴 | vless | @polproxy | 5",
@@ -192,7 +192,8 @@
                 "🇺🇸US | 🔴 | vless | @Good_V2rayy | 4",
                 "❔XX | 🔴 | vless | @V2FETCH | 3",
                 "❔XX | 🔴 | vless | @VpnSkyy | 6",
-                "❔XX | 🔴 | vless | @VpnSkyy | 7"
+                "❔XX | 🔴 | vless | @VpnSkyy | 7",
+                "🇺🇸US | 🔴 | vless | @ROMAX_VPN | 0"
             ]
         },
         {
@@ -257,8 +258,8 @@
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 202",
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 203",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 0",
-                "🇺🇸US | 🔴 | vless | @lrnbymaa | 19",
-                "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
+                "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
+                "🇺🇸US | 🔴 | vless | @lrnbymaa | 22",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 11",
                 "🇺🇸US | 🔴 | vless | @polproxy | 5",
@@ -285,7 +286,8 @@
                 "🇺🇸US | 🔴 | vless | @Good_V2rayy | 4",
                 "❔XX | 🔴 | vless | @V2FETCH | 3",
                 "❔XX | 🔴 | vless | @VpnSkyy | 6",
-                "❔XX | 🔴 | vless | @VpnSkyy | 7"
+                "❔XX | 🔴 | vless | @VpnSkyy | 7",
+                "🇺🇸US | 🔴 | vless | @ROMAX_VPN | 0"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -1531,7 +1533,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lrnbymaa | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @lrnbymaa | 21",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 2095,
@@ -1552,7 +1554,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
+            "tag": "🇺🇸US | 🔴 | vless | @lrnbymaa | 22",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 2095,
@@ -2214,6 +2216,37 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ROMAX_VPN | 0",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 443,
+            "uuid": "494d65a9-f932-475c-a895-88eb985d49ea",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
             }
         }
     ],
