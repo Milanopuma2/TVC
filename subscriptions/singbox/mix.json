@@ -116,8 +116,6 @@
                 "🇸🇪SE | 🔴 | vless | @EliV2ray | 8",
                 "🚩CF | 🔴 | vless | @EliV2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 11",
-                "🚩CF | 🔴 | vless | @EliV2ray | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 0",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 1",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 2",
@@ -165,7 +163,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -284,7 +282,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @V2rayCollector | 0",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 1",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 2",
@@ -754,8 +752,6 @@
                 "🇸🇪SE | 🔴 | vless | @EliV2ray | 8",
                 "🚩CF | 🔴 | vless | @EliV2ray | 9",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 11",
-                "🚩CF | 🔴 | vless | @EliV2ray | 12",
                 "❔XX | 🔴 | vless | @Parsashonam | 0",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 1",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 2",
@@ -803,7 +799,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 2",
                 "🇨🇦CA | 🔴 | vless | @ipV2Ray | 3",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 6",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 7",
@@ -922,7 +918,7 @@
                 "🇸🇪SE | 🔴 | vless | @v2logy | 7",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
-                "❔XX | 🔴 | vless | @v2logy | 10",
+                "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "🇺🇸US | 🔴 | vless | @V2rayCollector | 0",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 1",
                 "🇺🇸US | 🟢 | vless | @V2rayCollector | 2",
@@ -1591,48 +1587,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 11",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "f99e4bcb-39f3-5188-96a1-08f56c7ecf16",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Tel-ELiV2ry-ELiV2ry-",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @EliV2ray | 12",
-            "type": "vless",
-            "server": "104.21.51.208",
-            "server_port": 2095,
-            "uuid": "f99e4bcb-39f3-5188-96a1-08f56c7ecf16",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Tel-ELiV2ry-ELiV2ry-",
-                "headers": {
-                    "Host": "104.21.51.208"
-                }
             }
         },
         {
@@ -2760,7 +2714,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5385,7 +5339,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2logy | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 10",
             "type": "vless",
             "server": "ArV2ray.mAshtimji.IR",
             "server_port": 443,
