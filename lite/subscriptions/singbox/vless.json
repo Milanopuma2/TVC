@@ -177,8 +177,8 @@
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 7",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 45",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
-                "🇬🇧GB | 🔴 | vless | @flyv2ray | 13",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
+                "🇬🇧GB | 🔴 | vless | @flyv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "❔XX | 🔴 | vless | @kiava | 8",
@@ -274,8 +274,8 @@
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 7",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 45",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
-                "🇬🇧GB | 🔴 | vless | @flyv2ray | 13",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
+                "🇬🇧GB | 🔴 | vless | @flyv2ray | 14",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "❔XX | 🔴 | vless | @kiava | 8",
@@ -1903,7 +1903,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1917,7 +1917,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @flyv2ray | 13",
+            "tag": "🇬🇧GB | 🔴 | vless | @flyv2ray | 14",
             "type": "vless",
             "server": "www.parspack.com",
             "server_port": 8880,
