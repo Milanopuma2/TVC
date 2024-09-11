@@ -109,7 +109,7 @@
                 "🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 8",
                 "🇺🇸US | 🟢 | ss | @VmessProtocol | 1",
                 "🇩🇪DE | 🟢 | ss | @VmessProtocol | 4",
-                "🇮🇸IS | 🟢 | ss | @OutlineVpnOfficial | 1",
+                "🇧🇩BD | 🟢 | ss | @OutlineVpnOfficial | 1",
                 "🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 2",
                 "🇨🇦CA | 🟢 | ss | @OutlineVpnOfficial | 4",
                 "🇦🇹AT | 🟢 | ss | @OutlineVpnOfficial | 5",
@@ -151,7 +151,7 @@
                 "🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 8",
                 "🇺🇸US | 🟢 | ss | @VmessProtocol | 1",
                 "🇩🇪DE | 🟢 | ss | @VmessProtocol | 4",
-                "🇮🇸IS | 🟢 | ss | @OutlineVpnOfficial | 1",
+                "🇧🇩BD | 🟢 | ss | @OutlineVpnOfficial | 1",
                 "🇭🇰HK | 🟢 | ss | @OutlineVpnOfficial | 2",
                 "🇨🇦CA | 🟢 | ss | @OutlineVpnOfficial | 4",
                 "🇦🇹AT | 🟢 | ss | @OutlineVpnOfficial | 5",
@@ -236,7 +236,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇮🇸IS | 🟢 | ss | @OutlineVpnOfficial | 1",
+            "tag": "🇧🇩BD | 🟢 | ss | @OutlineVpnOfficial | 1",
             "type": "shadowsocks",
             "server": "45.83.21.66",
             "server_port": 14783,
