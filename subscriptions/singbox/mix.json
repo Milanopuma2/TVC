@@ -164,9 +164,9 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 2",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 8",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 7",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 8",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 10",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 11",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 13",
@@ -371,8 +371,6 @@
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 10",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 16",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 1",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 2",
@@ -792,9 +790,9 @@
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 2",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 8",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 7",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 8",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 10",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 11",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 13",
@@ -999,8 +997,6 @@
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 10",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 16",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 17",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 1",
                 "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 2",
@@ -2772,7 +2768,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -2803,7 +2799,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 7",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -2834,7 +2830,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -7795,50 +7791,6 @@
                 "path": "\/ivideos.sbs\/linkws",
                 "headers": {
                     "Host": "ark-recipe-3410.sihef23297.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇪🇸ES | 🟢 | ss | @DeamNet_Proxy | 16",
-            "type": "shadowsocks",
-            "server": "194.87.45.189",
-            "server_port": 40076,
-            "method": "chacha20-ietf-poly1305",
-            "password": "usIVirricvBk3pRGNBdesX",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 17",
-            "type": "vmess",
-            "server": "104.16.61.8",
-            "server_port": 2096,
-            "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "7hss-butterfly-d4c3.fijetem432.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/afrhms07.xfixedfloat.cfd\/linkws",
-                "headers": {
-                    "Host": "7hss-butterfly-d4c3.fijetem432.workers.dev"
                 }
             }
         },
