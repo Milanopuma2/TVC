@@ -109,18 +109,16 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇺🇸US | 🟢 | vmess | @customv2ray | 15",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🇨🇦CA | 🟢 | vmess | @customv2ray | 15",
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 22",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 23",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 9",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 8"
             ]
@@ -132,18 +130,16 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 18",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 19",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
-                "🇺🇸US | 🟢 | vmess | @customv2ray | 15",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🇨🇦CA | 🟢 | vmess | @customv2ray | 15",
                 "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 22",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 23",
                 "🇮🇷IR | 🟢 | vmess | @proxystore11 | 2",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 9",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 8"
             ],
@@ -226,65 +222,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 12",
-            "type": "vmess",
-            "server": "104.16.60.8",
-            "server_port": 2086,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linde06.indiavideo.sbs\/linkws",
-                "headers": {
-                    "Host": "104.16.60.8"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-            "type": "vmess",
-            "server": "160.153.0.73",
-            "server_port": 443,
-            "uuid": "441da342-ce90-441e-bff9-d2ceb55e68ca",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ark-recipe-3410.sihef23297.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ivideos.sbs\/linkws",
-                "headers": {
-                    "Host": "ark-recipe-3410.sihef23297.workers.dev"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "www.visa.com.tw",
             "server_port": 443,
@@ -318,7 +256,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
+            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 5",
             "type": "vmess",
             "server": "air-de.nsde.date",
             "server_port": 2096,
@@ -352,7 +290,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @customv2ray | 15",
+            "tag": "🇨🇦CA | 🟢 | vmess | @customv2ray | 15",
             "type": "vmess",
             "server": "172.66.168.173",
             "server_port": 80,
@@ -492,11 +430,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "abbacca-baac-aacb-dbca-cbabacabcbac",
+            "server_port": 8080,
+            "uuid": "aabcbac-baca-caab-dcba-baccbacababc",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -509,11 +447,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 10",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
-            "server": "104.16.76.242",
+            "server": "104.16.67.38",
             "server_port": 2095,
-            "uuid": "3b8e69d8-1f1b-4b96-8754-2a8ec38e716f",
+            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -526,9 +464,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/linde06.indiavideo.sbs\/linkws",
                 "headers": {
-                    "Host": "104.16.76.242"
+                    "Host": "104.16.67.38"
                 }
             }
         },
