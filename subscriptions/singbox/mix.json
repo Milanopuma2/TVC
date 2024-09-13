@@ -321,39 +321,39 @@
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 1",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 2",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 3",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 3",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 4",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 5",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 6",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 7",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 8",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 9",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 10",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 11",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 11",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 14",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 0",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 1",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 2",
+                "🇺🇸US | 🟢 | trojan | @DirectVPN | 2",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 3",
-                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 4",
+                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 4",
                 "🇮🇪IE | 🟢 | trojan | @DirectVPN | 5",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 6",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 6",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 7",
-                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 8",
+                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 8",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 9",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 10",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 10",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 11",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 12",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 12",
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 13",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 14",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 14",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 1",
@@ -603,17 +603,16 @@
                 "🇺🇸US | 🔴 | vless | @polproxy | 7",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 8",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 3",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
-                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.太空.spacecadet.ийкадет.安靜地方.wonkacapitano.buzz.&type=ws#🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
-                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 2",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
+                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.太空.spacecadet.ийкадет.安靜地方.wonkacapitano.buzz.&type=ws#🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
@@ -956,39 +955,39 @@
                 "🇺🇸US | 🔴 | vless | @V2rayCollectorDonate | 19",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 1",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 2",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 3",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 3",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 4",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 5",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 6",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 7",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 8",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 9",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 10",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 11",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 11",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 14",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 0",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 1",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 2",
+                "🇺🇸US | 🟢 | trojan | @DirectVPN | 2",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 3",
-                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 4",
+                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 4",
                 "🇮🇪IE | 🟢 | trojan | @DirectVPN | 5",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 6",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 6",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 7",
-                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 8",
+                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 8",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 9",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 10",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 10",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 11",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 12",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 12",
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 13",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 14",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 14",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 1",
@@ -1238,17 +1237,16 @@
                 "🇺🇸US | 🔴 | vless | @polproxy | 7",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 8",
                 "🇸🇪SE | 🔴 | vless | @polproxy | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 3",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
-                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.太空.spacecadet.ийкадет.安靜地方.wonkacapitano.buzz.&type=ws#🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
-                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 2",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
+                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.太空.spacecadet.ийкадет.安靜地方.wonkacapitano.buzz.&type=ws#🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
@@ -6656,7 +6654,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 0",
             "type": "trojan",
-            "server": "35.181.72.230",
+            "server": "15.188.137.176",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6676,9 +6674,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 1",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1",
             "type": "trojan",
-            "server": "3.78.47.150",
+            "server": "35.181.72.230",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6700,7 +6698,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 2",
             "type": "trojan",
-            "server": "35.156.198.74",
+            "server": "3.78.47.150",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6720,9 +6718,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 3",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 3",
             "type": "trojan",
-            "server": "51.21.68.75",
+            "server": "35.156.198.74",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6744,7 +6742,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 4",
             "type": "trojan",
-            "server": "13.51.17.223",
+            "server": "51.21.68.75",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6764,9 +6762,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 5",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5",
             "type": "trojan",
-            "server": "54.247.64.139",
+            "server": "13.51.17.223",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6788,7 +6786,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 6",
             "type": "trojan",
-            "server": "54.228.225.217",
+            "server": "54.247.64.139",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6808,9 +6806,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 7",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7",
             "type": "trojan",
-            "server": "13.43.214.20",
+            "server": "54.228.225.217",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6832,7 +6830,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 8",
             "type": "trojan",
-            "server": "18.168.238.232",
+            "server": "13.43.214.20",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6852,9 +6850,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 9",
+            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9",
             "type": "trojan",
-            "server": "15.236.143.190",
+            "server": "18.168.238.232",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6876,7 +6874,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 10",
             "type": "trojan",
-            "server": "35.181.22.149",
+            "server": "15.236.143.190",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6896,9 +6894,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 11",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 11",
             "type": "trojan",
-            "server": "52.57.84.177",
+            "server": "35.181.22.149",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6920,7 +6918,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 12",
             "type": "trojan",
-            "server": "3.121.57.25",
+            "server": "52.57.84.177",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6940,9 +6938,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 13",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13",
             "type": "trojan",
-            "server": "16.170.112.9",
+            "server": "3.121.57.25",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6964,7 +6962,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 14",
             "type": "trojan",
-            "server": "13.53.145.108",
+            "server": "16.170.112.9",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6984,9 +6982,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "99.81.67.3",
+            "server": "13.53.145.108",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7008,7 +7006,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "34.247.98.6",
+            "server": "99.81.67.3",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7030,7 +7028,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 0",
             "type": "trojan",
-            "server": "18.117.25.96",
+            "server": "44.195.233.76",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7052,7 +7050,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 1",
             "type": "trojan",
-            "server": "3.146.82.144",
+            "server": "18.117.25.96",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7072,9 +7070,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 2",
+            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 2",
             "type": "trojan",
-            "server": "52.60.117.245",
+            "server": "3.146.82.144",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7096,7 +7094,7 @@
         {
             "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 3",
             "type": "trojan",
-            "server": "15.156.28.198",
+            "server": "52.60.117.245",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7116,9 +7114,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 4",
+            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 4",
             "type": "trojan",
-            "server": "54.74.119.32",
+            "server": "15.156.28.198",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7140,7 +7138,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 5",
             "type": "trojan",
-            "server": "176.34.232.63",
+            "server": "54.74.119.32",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7160,9 +7158,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 6",
+            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 6",
             "type": "trojan",
-            "server": "18.170.178.186",
+            "server": "176.34.232.63",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7184,7 +7182,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 7",
             "type": "trojan",
-            "server": "18.134.104.70",
+            "server": "18.170.178.186",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7204,9 +7202,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 8",
+            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 8",
             "type": "trojan",
-            "server": "15.188.242.55",
+            "server": "18.134.104.70",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7228,7 +7226,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 9",
             "type": "trojan",
-            "server": "13.36.82.204",
+            "server": "15.188.242.55",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7248,9 +7246,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 10",
+            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 10",
             "type": "trojan",
-            "server": "13.60.151.82",
+            "server": "13.36.82.204",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7272,7 +7270,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 11",
             "type": "trojan",
-            "server": "13.48.215.108",
+            "server": "13.60.151.82",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7292,9 +7290,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 12",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 12",
             "type": "trojan",
-            "server": "35.158.148.83",
+            "server": "13.48.215.108",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7316,7 +7314,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 13",
             "type": "trojan",
-            "server": "3.64.161.81",
+            "server": "35.158.148.83",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7336,9 +7334,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 14",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 14",
             "type": "trojan",
-            "server": "51.21.53.247",
+            "server": "3.64.161.81",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7360,7 +7358,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
-            "server": "13.48.14.244",
+            "server": "51.21.53.247",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7380,9 +7378,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 16",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
             "type": "trojan",
-            "server": "3.213.41.91",
+            "server": "13.48.14.244",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -12945,7 +12943,59 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
+            "type": "vless",
+            "server": "104.18.1.125",
+            "server_port": 2082,
+            "uuid": "416f18ec-11f3-4648-9693-8c6480d0662d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.18.1.125"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "iRANSOFTWare85985611.PaGes.dEV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/3ixeZxIuzmrYVV6J?ed=2560",
+                "headers": {
+                    "Host": "iRANSOFTWare85985611.PaGes.dEV"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "190.93.247.155",
             "server_port": 80,
@@ -12966,7 +13016,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
             "server": "104.19.32.28",
             "server_port": 443,
@@ -12997,7 +13047,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 3",
+            "tag": "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
             "server": "185.146.173.46",
             "server_port": 2095,
@@ -13018,7 +13068,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
             "server": "172.66.44.86",
             "server_port": 443,
@@ -13049,7 +13099,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
             "type": "vless",
             "server": "172.67.193.87",
             "server_port": 8880,
@@ -13070,7 +13120,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "162.159.153.210",
             "server_port": 443,
@@ -13101,7 +13151,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "173.245.58.100",
             "server_port": 443,
@@ -13132,7 +13182,7 @@
             }
         },
         {
-            "tag": "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.太空.spacecadet.ийкадет.安靜地方.wonkacapitano.buzz.&type=ws#🚩CF | 🔴 | vless | @Outlinev2rayNG | 10",
+            "tag": "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.太空.spacecadet.ийкадет.安靜地方.wonkacapitano.buzz.&type=ws#🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "104.16.251.13",
             "server_port": 80,
@@ -13146,69 +13196,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
-            "type": "vless",
-            "server": "fbi.gov",
-            "server_port": 2053,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "AZadnEt-fREEDoM-IraNiaN1.pAGES.Dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-proxy_mtm-Telegram-proxy_mtm?ed=2560",
-                "headers": {
-                    "Host": "AZadnEt-fREEDoM-IraNiaN1.pAGES.Dev"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
-            "type": "vless",
-            "server": "172.66.44.83",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "80acf9Da.EhSaN-PAnEL.PAGES.dEv",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/yg2rz1apovtkjpov?ed=2560",
-                "headers": {
-                    "Host": "80acf9Da.EhSaN-PAnEL.PAGES.dEv"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -13239,7 +13227,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -13260,7 +13248,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -13281,7 +13269,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -13298,37 +13286,6 @@
                 "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 6",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "VIP5-Hqv2rayNG",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/www.speedtest.net?ed=1024",
-                "headers": {
-                    "Host": "speedtest.net"
                 }
             }
         },

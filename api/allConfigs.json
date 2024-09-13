@@ -1932,7 +1932,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@35.181.72.230:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%200"
+        "config": "trojan:\/\/telegram-id-privatevpns@15.188.137.176:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%200"
     },
     {
         "channel": {
@@ -1941,7 +1941,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.78.47.150:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%201"
+        "config": "trojan:\/\/telegram-id-privatevpns@35.181.72.230:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%201"
     },
     {
         "channel": {
@@ -1950,7 +1950,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@35.156.198.74:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%202"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.78.47.150:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%202"
     },
     {
         "channel": {
@@ -1959,7 +1959,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@51.21.68.75:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%203"
+        "config": "trojan:\/\/telegram-id-privatevpns@35.156.198.74:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%203"
     },
     {
         "channel": {
@@ -1968,7 +1968,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.51.17.223:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%204"
+        "config": "trojan:\/\/telegram-id-privatevpns@51.21.68.75:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%204"
     },
     {
         "channel": {
@@ -1977,7 +1977,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@54.247.64.139:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%205"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.51.17.223:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%205"
     },
     {
         "channel": {
@@ -1986,7 +1986,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@54.228.225.217:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%206"
+        "config": "trojan:\/\/telegram-id-privatevpns@54.247.64.139:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%206"
     },
     {
         "channel": {
@@ -1995,7 +1995,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.43.214.20:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%207"
+        "config": "trojan:\/\/telegram-id-privatevpns@54.228.225.217:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%207"
     },
     {
         "channel": {
@@ -2004,7 +2004,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@18.168.238.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%208"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.43.214.20:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%208"
     },
     {
         "channel": {
@@ -2013,7 +2013,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@15.236.143.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%209"
+        "config": "trojan:\/\/telegram-id-privatevpns@18.168.238.232:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%209"
     },
     {
         "channel": {
@@ -2022,7 +2022,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@35.181.22.149:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2010"
+        "config": "trojan:\/\/telegram-id-privatevpns@15.236.143.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2010"
     },
     {
         "channel": {
@@ -2031,7 +2031,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@52.57.84.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2011"
+        "config": "trojan:\/\/telegram-id-privatevpns@35.181.22.149:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2011"
     },
     {
         "channel": {
@@ -2040,7 +2040,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@3.121.57.25:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2012"
+        "config": "trojan:\/\/telegram-id-privatevpns@52.57.84.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2012"
     },
     {
         "channel": {
@@ -2049,7 +2049,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@16.170.112.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2013"
+        "config": "trojan:\/\/telegram-id-privatevpns@3.121.57.25:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2013"
     },
     {
         "channel": {
@@ -2058,7 +2058,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@13.53.145.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2014"
+        "config": "trojan:\/\/telegram-id-privatevpns@16.170.112.9:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2014"
     },
     {
         "channel": {
@@ -2067,7 +2067,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@99.81.67.3:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2015"
+        "config": "trojan:\/\/telegram-id-privatevpns@13.53.145.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2015"
     },
     {
         "channel": {
@@ -2076,7 +2076,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-privatevpns@34.247.98.6:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2016"
+        "config": "trojan:\/\/telegram-id-privatevpns@99.81.67.3:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2016"
     },
     {
         "channel": {
@@ -2085,7 +2085,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.117.25.96:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%200"
+        "config": "trojan:\/\/telegram-id-directvpn@44.195.233.76:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%200"
     },
     {
         "channel": {
@@ -2094,7 +2094,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@3.146.82.144:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%201"
+        "config": "trojan:\/\/telegram-id-directvpn@18.117.25.96:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%201"
     },
     {
         "channel": {
@@ -2103,7 +2103,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@52.60.117.245:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%202"
+        "config": "trojan:\/\/telegram-id-directvpn@3.146.82.144:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%202"
     },
     {
         "channel": {
@@ -2112,7 +2112,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@15.156.28.198:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%203"
+        "config": "trojan:\/\/telegram-id-directvpn@52.60.117.245:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%203"
     },
     {
         "channel": {
@@ -2121,7 +2121,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@54.74.119.32:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%204"
+        "config": "trojan:\/\/telegram-id-directvpn@15.156.28.198:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%204"
     },
     {
         "channel": {
@@ -2130,7 +2130,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@176.34.232.63:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%205"
+        "config": "trojan:\/\/telegram-id-directvpn@54.74.119.32:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%205"
     },
     {
         "channel": {
@@ -2139,7 +2139,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.170.178.186:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%206"
+        "config": "trojan:\/\/telegram-id-directvpn@176.34.232.63:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%206"
     },
     {
         "channel": {
@@ -2148,7 +2148,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@18.134.104.70:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%207"
+        "config": "trojan:\/\/telegram-id-directvpn@18.170.178.186:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%207"
     },
     {
         "channel": {
@@ -2157,7 +2157,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@15.188.242.55:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%208"
+        "config": "trojan:\/\/telegram-id-directvpn@18.134.104.70:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%208"
     },
     {
         "channel": {
@@ -2166,7 +2166,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@13.36.82.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%209"
+        "config": "trojan:\/\/telegram-id-directvpn@15.188.242.55:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%209"
     },
     {
         "channel": {
@@ -2175,7 +2175,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@13.60.151.82:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2010"
+        "config": "trojan:\/\/telegram-id-directvpn@13.36.82.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2010"
     },
     {
         "channel": {
@@ -2184,7 +2184,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@13.48.215.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2011"
+        "config": "trojan:\/\/telegram-id-directvpn@13.60.151.82:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2011"
     },
     {
         "channel": {
@@ -2193,7 +2193,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@35.158.148.83:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2012"
+        "config": "trojan:\/\/telegram-id-directvpn@13.48.215.108:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2012"
     },
     {
         "channel": {
@@ -2202,7 +2202,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@3.64.161.81:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2013"
+        "config": "trojan:\/\/telegram-id-directvpn@35.158.148.83:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2013"
     },
     {
         "channel": {
@@ -2211,7 +2211,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@51.21.53.247:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2014"
+        "config": "trojan:\/\/telegram-id-directvpn@3.64.161.81:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2014"
     },
     {
         "channel": {
@@ -2220,7 +2220,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@13.48.14.244:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2015"
+        "config": "trojan:\/\/telegram-id-directvpn@51.21.53.247:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2015"
     },
     {
         "channel": {
@@ -2229,7 +2229,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/telegram-id-directvpn@3.213.41.91:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2016"
+        "config": "trojan:\/\/telegram-id-directvpn@13.48.14.244:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2016"
     },
     {
         "channel": {
@@ -4623,7 +4623,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Join-Telegram-Picumin@190.93.247.155:80?path=%2Frobots.txt%3Fed%3D2560&security=none&encryption=none&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%201"
+        "config": "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?path=%2F&security=none&encryption=none&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
     },
     {
         "channel": {
@@ -4632,7 +4632,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@104.19.32.28:443?path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%202"
+        "config": "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2F3ixeZxIuzmrYVV6J%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=iRaNSofTwAre85985611.PaGes.Dev&fp=randomized&type=ws&sni=iRANSOFTWare85985611.PaGes.dEV#🇺🇸US%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%201"
     },
     {
         "channel": {
@@ -4641,7 +4641,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Telegram-hopev2ray,hopev2ray@185.146.173.46:2095?path=%2F&security=none&encryption=none&host=2.V2.e.www.Speedtest.net.Hopeserver.Xyz.&type=ws#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%203"
+        "config": "vless:\/\/Join-Telegram-Picumin@190.93.247.155:80?path=%2Frobots.txt%3Fed%3D2560&security=none&encryption=none&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%203"
     },
     {
         "channel": {
@@ -4650,7 +4650,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%205"
+        "config": "vless:\/\/1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@104.19.32.28:443?path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%204"
     },
     {
         "channel": {
@@ -4659,7 +4659,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/9aaedc51-2367-4239-a88b-0756dfc9689e@172.67.193.87:8880?path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540&security=none&encryption=none&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%206"
+        "config": "vless:\/\/Telegram-hopev2ray,hopev2ray@185.146.173.46:2095?path=%2F&security=none&encryption=none&host=2.V2.e.www.Speedtest.net.Hopeserver.Xyz.&type=ws#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%205"
     },
     {
         "channel": {
@@ -4668,7 +4668,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.210:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
+        "config": "vless:\/\/cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=nooshin-2d9.pages.dev&fp=chrome&type=ws&sni=nooshin-2d9.pages.dev#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%207"
     },
     {
         "channel": {
@@ -4677,7 +4677,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=bia-2-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-2-vip-programs.hsjsak.ir#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%209"
+        "config": "vless:\/\/9aaedc51-2367-4239-a88b-0756dfc9689e@172.67.193.87:8880?path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540&security=none&encryption=none&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
     },
     {
         "channel": {
@@ -4686,7 +4686,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/e59be95e-7539-4a31-9b2d-a03a8f072ff3@104.16.251.13:80?path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.%E5%A4%AA%E7%A9%BA.spacecadet.%D0%B8%D0%B9%D0%BA%D0%B0%D0%B4%D0%B5%D1%82.%E5%AE%89%E9%9D%9C%E5%9C%B0%E6%96%B9.wonkacapitano.buzz.&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2010"
+        "config": "vless:\/\/1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.210:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2010"
     },
     {
         "channel": {
@@ -4695,7 +4695,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@fbi.gov:2053?path=%2Ftelegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=azaDnet-FReEDoM-IRANian1.pageS.deV&fp=randomized&type=ws&sni=AZadnEt-fREEDoM-IraNiaN1.pAGES.Dev#🇺🇸US%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2011"
+        "config": "vless:\/\/b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.58.100:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=bia-2-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-2-vip-programs.hsjsak.ir#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2011"
     },
     {
         "channel": {
@@ -4704,7 +4704,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2Fyg2rz1apovtkjpov%3Fed%3D2560&security=tls&encryption=none&host=80acf9Da.EhSaN-PAnEL.PAGES.dEv&type=ws&sni=80acf9Da.EhSaN-PAnEL.PAGES.dEv#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2012"
+        "config": "vless:\/\/e59be95e-7539-4a31-9b2d-a03a8f072ff3@104.16.251.13:80?path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&security=none&encryption=none&host=127.0.0.1.www.iransell.ir.%E5%A4%AA%E7%A9%BA.spacecadet.%D0%B8%D0%B9%D0%BA%D0%B0%D0%B4%D0%B5%D1%82.%E5%AE%89%E9%9D%9C%E5%9C%B0%E6%96%B9.wonkacapitano.buzz.&type=ws#🚩CF%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2012"
     },
     {
         "channel": {
@@ -4713,7 +4713,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/f1524190-5127-472a-a5da-47d51a021a69@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=www.speedtest.hhtpp.kutpanelspdnetvip.ir.&fp=firefox&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%202"
+        "config": "vless:\/\/f1524190-5127-472a-a5da-47d51a021a69@speedtest.net:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=www.speedtest.hhtpp.kutpanelspdnetvip.ir.&fp=firefox&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%203"
     },
     {
         "channel": {
@@ -4722,7 +4722,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/d2e5061b-1b66-4ab0-80ee-f25e828e5409@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%203"
+        "config": "vless:\/\/d2e5061b-1b66-4ab0-80ee-f25e828e5409@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%204"
     },
     {
         "channel": {
@@ -4731,7 +4731,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/b5197253-90cf-45e7-bdb4-59a28e3b675e@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%204"
+        "config": "vless:\/\/b5197253-90cf-45e7-bdb4-59a28e3b675e@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%205"
     },
     {
         "channel": {
@@ -4740,16 +4740,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/f05186a2-b702-4fc3-b22a-91c648fc2269@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%205"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/VIP5-Hqv2rayNG@speedtest.net:443?path=%2Fwww.speedtest.net%3Fed%3D1024&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=fast.hqv2rayng.ir&fp=firefox&type=ws&sni=speedtest.net#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%206"
+        "config": "vless:\/\/f05186a2-b702-4fc3-b22a-91c648fc2269@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@v2rayng_vpnrog%20|%206"
     },
     {
         "channel": {
