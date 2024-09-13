@@ -108,9 +108,10 @@
                 "URL-TEST",
                 "🚩CF | 🔴 | vless | @EliV2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 2",
-                "🚩CF | 🔴 | vless | @EliV2ray | 3",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 4",
+                "🚩CF | 🔴 | vless | @EliV2ray | 2",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 3",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 4",
+                "🚩CF | 🔴 | vless | @EliV2ray | 5",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
                 "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
@@ -145,23 +146,23 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 11",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 0",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 1",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 3",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 3",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 4",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 5",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 5",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 6",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 7",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 8",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 9",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 9",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 10",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 11",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 11",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 12",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 13",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 13",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 15",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 2",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
@@ -282,9 +283,10 @@
                 "🇬🇧GB | 🔴 | vless | @DigiV2ray | 8",
                 "🇬🇧GB | 🔴 | vless | @DigiV2ray | 9",
                 "🇬🇧GB | 🔴 | vless | @DigiV2ray | 15",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -322,40 +324,41 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 9",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 0",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 2",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 3",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 3",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 4",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 5",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 5",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 6",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 7",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 7",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 8",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 9",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 9",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 10",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 11",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 11",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 12",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 13",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 13",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 0",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 1",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 1",
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 2",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 3",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 3",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 4",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 5",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 5",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 6",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 7",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 8",
+                "🇺🇸US | 🟢 | trojan | @DirectVPN | 8",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 9",
-                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 10",
+                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 10",
                 "🇮🇪IE | 🟢 | trojan | @DirectVPN | 11",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 12",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 12",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 13",
-                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 14",
+                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 14",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 17",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 1",
@@ -372,13 +375,14 @@
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 10",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 1",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 2",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
+                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 6",
+                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 1",
                 "🚩CF | 🔴 | vless | @customv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 3",
@@ -580,7 +584,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
@@ -738,9 +741,10 @@
             "outbounds": [
                 "🚩CF | 🔴 | vless | @EliV2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
-                "🇨🇦CA | 🔴 | vless | @EliV2ray | 2",
-                "🚩CF | 🔴 | vless | @EliV2ray | 3",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 4",
+                "🚩CF | 🔴 | vless | @EliV2ray | 2",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 3",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 4",
+                "🚩CF | 🔴 | vless | @EliV2ray | 5",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 1",
                 "❔XX | 🔴 | vless | @Parsashonam | 2",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 3",
@@ -775,23 +779,23 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 11",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 0",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
+                "🇸🇪SE | 🔴 | vless | @VlessConfig | 1",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 3",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 3",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 4",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 5",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 5",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 6",
-                "🇨🇦CA | 🔴 | vless | @VlessConfig | 7",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 8",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 9",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 9",
                 "🇺🇸US | 🔴 | vless | @VlessConfig | 10",
-                "🇮🇪IE | 🔴 | vless | @VlessConfig | 11",
+                "🇺🇸US | 🔴 | vless | @VlessConfig | 11",
                 "🇮🇪IE | 🔴 | vless | @VlessConfig | 12",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 13",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 13",
                 "🇬🇧GB | 🔴 | vless | @VlessConfig | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 15",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 1",
                 "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 2",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
@@ -912,9 +916,10 @@
                 "🇬🇧GB | 🔴 | vless | @DigiV2ray | 8",
                 "🇬🇧GB | 🔴 | vless | @DigiV2ray | 9",
                 "🇬🇧GB | 🔴 | vless | @DigiV2ray | 15",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -952,40 +957,41 @@
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 9",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 0",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 1",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 2",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 3",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 3",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 4",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 5",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 5",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 6",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 7",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 7",
                 "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 8",
-                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 9",
+                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 9",
                 "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 10",
-                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 11",
+                "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 11",
                 "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 12",
-                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 13",
+                "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 13",
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14",
-                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
+                "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
                 "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
-                "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
+                "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 0",
-                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 1",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 1",
                 "🇩🇪DE | 🟢 | trojan | @DirectVPN | 2",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 3",
+                "🇩🇪DE | 🟢 | trojan | @DirectVPN | 3",
                 "🇸🇪SE | 🟢 | trojan | @DirectVPN | 4",
-                "🇺🇸US | 🟢 | trojan | @DirectVPN | 5",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 5",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 6",
                 "🇺🇸US | 🟢 | trojan | @DirectVPN | 7",
-                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 8",
+                "🇺🇸US | 🟢 | trojan | @DirectVPN | 8",
                 "🇨🇦CA | 🟢 | trojan | @DirectVPN | 9",
-                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 10",
+                "🇨🇦CA | 🟢 | trojan | @DirectVPN | 10",
                 "🇮🇪IE | 🟢 | trojan | @DirectVPN | 11",
-                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 12",
+                "🇮🇪IE | 🟢 | trojan | @DirectVPN | 12",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 13",
-                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 14",
+                "🇬🇧GB | 🟢 | trojan | @DirectVPN | 14",
                 "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
-                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+                "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
+                "🇸🇪SE | 🟢 | trojan | @DirectVPN | 17",
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 0",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 1",
@@ -1002,13 +1008,14 @@
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 10",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 12",
                 "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
-                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 0",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 1",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 2",
-                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 4",
-                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 5",
+                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
+                "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 3",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
                 "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 6",
+                "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 1",
                 "🚩CF | 🔴 | vless | @customv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 3",
@@ -1210,7 +1217,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 1",
                 "🚩CF | 🟢 | vmess | @Hope_Net | 2",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 1",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 5",
@@ -1386,6 +1392,48 @@
             "type": "vless",
             "server": "104.16.16.16",
             "server_port": 80,
+            "uuid": "7127acec-73a0-5fa4-a8b7-53b9372deb93",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-ELiV2ry-ELiV2ry-ELiV2ry",
+                "headers": {
+                    "Host": "104.16.16.16"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "7127acec-73a0-5fa4-a8b7-53b9372deb93",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-ELiV2ry-ELiV2ry-ELiV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @EliV2ray | 2",
+            "type": "vless",
+            "server": "104.16.16.16",
+            "server_port": 80,
             "uuid": "acb8a433-9747-58c9-8983-1a22014cb7bf",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1403,7 +1451,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -1424,7 +1472,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -1445,7 +1493,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @EliV2ray | 3",
+            "tag": "🚩CF | 🔴 | vless | @EliV2ray | 5",
             "type": "vless",
             "server": "172.67.66.177",
             "server_port": 443,
@@ -1472,37 +1520,6 @@
                 "path": "\/7D8L6oV0pjufcpvH\/NDMuMTMxLjQ5LjI1MA==?ed=2560?path=-----ELENaTheGreatDictator-----ELiV2RAY----ELiV2RAY---",
                 "headers": {
                     "Host": "pAGeS.deV"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 4",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "358eab4b-7db4-4f93-a7b0-5e6f98b7cf45",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/W0tvTq4oSbHyKeRM?ed=2560",
-                "headers": {
-                    "Host": "speedtest.net"
                 }
             }
         },
@@ -2158,7 +2175,7 @@
         {
             "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 0",
             "type": "vless",
-            "server": "16.171.164.33",
+            "server": "16.170.70.24",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2187,9 +2204,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 1",
+            "tag": "🇸🇪SE | 🔴 | vless | @VlessConfig | 1",
             "type": "vless",
-            "server": "54.217.211.153",
+            "server": "16.171.164.33",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2220,7 +2237,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 2",
             "type": "vless",
-            "server": "34.240.249.26",
+            "server": "54.217.211.153",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2249,9 +2266,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 3",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 3",
             "type": "vless",
-            "server": "13.42.250.114",
+            "server": "34.240.249.26",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2282,7 +2299,7 @@
         {
             "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 4",
             "type": "vless",
-            "server": "13.42.193.8",
+            "server": "13.42.250.114",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2311,9 +2328,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 5",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 5",
             "type": "vless",
-            "server": "15.237.228.54",
+            "server": "13.42.193.8",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2344,7 +2361,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 6",
             "type": "vless",
-            "server": "51.44.52.199",
+            "server": "15.237.228.54",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2373,9 +2390,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 7",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 7",
             "type": "vless",
-            "server": "15.156.121.41",
+            "server": "51.44.52.199",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2406,7 +2423,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 8",
             "type": "vless",
-            "server": "99.79.140.183",
+            "server": "15.156.121.41",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2435,9 +2452,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 9",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 9",
             "type": "vless",
-            "server": "34.194.42.132",
+            "server": "99.79.140.183",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2468,7 +2485,7 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 10",
             "type": "vless",
-            "server": "3.93.155.139",
+            "server": "34.194.42.132",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2497,9 +2514,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 11",
             "type": "vless",
-            "server": "46.137.77.128",
+            "server": "3.93.155.139",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2530,7 +2547,7 @@
         {
             "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "52.31.76.206",
+            "server": "46.137.77.128",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2559,9 +2576,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "18.171.5.108",
+            "server": "52.31.76.206",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2592,7 +2609,7 @@
         {
             "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 14",
             "type": "vless",
-            "server": "13.43.254.82",
+            "server": "18.171.5.108",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2621,9 +2638,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "15.236.124.186",
+            "server": "13.43.254.82",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2654,7 +2671,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "15.236.9.15",
+            "server": "15.236.124.186",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2683,9 +2700,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.124.88.102",
+            "server": "15.236.9.15",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -5672,7 +5689,38 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 443,
+            "uuid": "16c12866-1d02-4529-83dc-388214841124",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "Speedtest.net",
             "server_port": 443,
@@ -5703,7 +5751,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "151.101.2.219",
             "server_port": 443,
@@ -5734,7 +5782,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
             "type": "vless",
             "server": "151.101.2.219",
             "server_port": 443,
@@ -6704,7 +6752,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 0",
             "type": "trojan",
-            "server": "13.53.145.108",
+            "server": "16.170.112.9",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6724,9 +6772,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 1",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 1",
             "type": "trojan",
-            "server": "99.81.67.3",
+            "server": "13.53.145.108",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6748,7 +6796,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 2",
             "type": "trojan",
-            "server": "34.247.98.6",
+            "server": "99.81.67.3",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6768,9 +6816,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 3",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 3",
             "type": "trojan",
-            "server": "18.133.25.155",
+            "server": "34.247.98.6",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6792,7 +6840,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 4",
             "type": "trojan",
-            "server": "13.42.112.48",
+            "server": "18.133.25.155",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6812,9 +6860,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 5",
+            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 5",
             "type": "trojan",
-            "server": "15.237.134.194",
+            "server": "13.42.112.48",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6836,7 +6884,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 6",
             "type": "trojan",
-            "server": "13.39.204.194",
+            "server": "15.237.134.194",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6856,9 +6904,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 7",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 7",
             "type": "trojan",
-            "server": "3.127.140.121",
+            "server": "13.39.204.194",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6880,7 +6928,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 8",
             "type": "trojan",
-            "server": "3.76.241.33",
+            "server": "3.127.140.121",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6900,9 +6948,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 9",
+            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 9",
             "type": "trojan",
-            "server": "13.53.221.191",
+            "server": "3.76.241.33",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6924,7 +6972,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 10",
             "type": "trojan",
-            "server": "16.16.102.95",
+            "server": "13.53.221.191",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6944,9 +6992,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 11",
+            "tag": "🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 11",
             "type": "trojan",
-            "server": "54.155.196.195",
+            "server": "16.16.102.95",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6968,7 +7016,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 12",
             "type": "trojan",
-            "server": "52.209.190.213",
+            "server": "54.155.196.195",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -6988,9 +7036,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 13",
+            "tag": "🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 13",
             "type": "trojan",
-            "server": "18.130.208.24",
+            "server": "52.209.190.213",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7012,7 +7060,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 14",
             "type": "trojan",
-            "server": "3.9.153.161",
+            "server": "18.130.208.24",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7032,9 +7080,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15",
+            "tag": "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 15",
             "type": "trojan",
-            "server": "13.39.52.165",
+            "server": "3.9.153.161",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7056,7 +7104,7 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16",
             "type": "trojan",
-            "server": "13.36.131.65",
+            "server": "13.39.52.165",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7076,9 +7124,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 17",
+            "tag": "🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 17",
             "type": "trojan",
-            "server": "3.126.204.253",
+            "server": "13.36.131.65",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -7100,7 +7148,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 0",
             "type": "trojan",
-            "server": "13.48.215.108",
+            "server": "13.60.151.82",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7120,9 +7168,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 1",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 1",
             "type": "trojan",
-            "server": "35.158.148.83",
+            "server": "13.48.215.108",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7144,7 +7192,7 @@
         {
             "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 2",
             "type": "trojan",
-            "server": "3.64.161.81",
+            "server": "35.158.148.83",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7164,9 +7212,9 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 3",
+            "tag": "🇩🇪DE | 🟢 | trojan | @DirectVPN | 3",
             "type": "trojan",
-            "server": "51.21.53.247",
+            "server": "3.64.161.81",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7188,7 +7236,7 @@
         {
             "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 4",
             "type": "trojan",
-            "server": "13.48.14.244",
+            "server": "51.21.53.247",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7208,9 +7256,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 5",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 5",
             "type": "trojan",
-            "server": "3.213.41.91",
+            "server": "13.48.14.244",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7232,7 +7280,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 6",
             "type": "trojan",
-            "server": "18.222.61.147",
+            "server": "3.213.41.91",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7254,7 +7302,7 @@
         {
             "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 7",
             "type": "trojan",
-            "server": "3.23.25.10",
+            "server": "18.222.61.147",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7274,9 +7322,9 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 8",
+            "tag": "🇺🇸US | 🟢 | trojan | @DirectVPN | 8",
             "type": "trojan",
-            "server": "3.97.220.177",
+            "server": "3.23.25.10",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7298,7 +7346,7 @@
         {
             "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 9",
             "type": "trojan",
-            "server": "99.79.133.247",
+            "server": "3.97.220.177",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7318,9 +7366,9 @@
             }
         },
         {
-            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 10",
+            "tag": "🇨🇦CA | 🟢 | trojan | @DirectVPN | 10",
             "type": "trojan",
-            "server": "52.19.135.77",
+            "server": "99.79.133.247",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7342,7 +7390,7 @@
         {
             "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 11",
             "type": "trojan",
-            "server": "3.254.39.253",
+            "server": "52.19.135.77",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7362,9 +7410,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 12",
+            "tag": "🇮🇪IE | 🟢 | trojan | @DirectVPN | 12",
             "type": "trojan",
-            "server": "3.10.114.197",
+            "server": "3.254.39.253",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7386,7 +7434,7 @@
         {
             "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 13",
             "type": "trojan",
-            "server": "13.42.94.140",
+            "server": "3.10.114.197",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7406,9 +7454,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 14",
+            "tag": "🇬🇧GB | 🟢 | trojan | @DirectVPN | 14",
             "type": "trojan",
-            "server": "35.181.70.218",
+            "server": "13.42.94.140",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -7430,6 +7478,28 @@
         {
             "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 15",
             "type": "trojan",
+            "server": "35.181.70.218",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | trojan | @DirectVPN | 16",
+            "type": "trojan",
             "server": "52.47.169.204",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
@@ -7450,7 +7520,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 16",
+            "tag": "🇸🇪SE | 🟢 | trojan | @DirectVPN | 17",
             "type": "trojan",
             "server": "13.51.246.123",
             "server_port": 22222,
@@ -7834,7 +7904,55 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 0",
+            "type": "vmess",
+            "server": "cfcdn1.sanfencdn9.com",
+            "server_port": 2052,
+            "uuid": "cd47cb10-d851-489b-86cd-ffaf659ed943",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/video\/WNMicnDh",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 1",
+            "type": "vmess",
+            "server": "104.26.0.56",
+            "server_port": 2086,
+            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/github.com\/Alvin9999",
+                "headers": {
+                    "Host": ""
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 2",
             "type": "vmess",
             "server": "104.26.15.148",
             "server_port": 80,
@@ -7858,7 +7976,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 1",
+            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 3",
             "type": "vmess",
             "server": "104.21.28.70",
             "server_port": 80,
@@ -7882,7 +8000,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 2",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "www.visa.com.tw",
             "server_port": 443,
@@ -7916,7 +8034,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 5",
             "type": "vmess",
             "server": "air-de.nsde.date",
             "server_port": 2096,
@@ -7950,7 +8068,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 6",
             "type": "vmess",
             "server": "104.21.74.239",
             "server_port": 443,
@@ -7984,7 +8102,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 5",
+            "tag": "🇫🇷FR | 🟢 | vmess | @oneclickvpnkeys | 7",
             "type": "vmess",
             "server": "irvideo.cfd",
             "server_port": 443,
@@ -8014,40 +8132,6 @@
                 "path": "\/linkws",
                 "headers": {
                     "Host": "irvideo.cfd"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @oneclickvpnkeys | 6",
-            "type": "vmess",
-            "server": "172.67.220.83",
-            "server_port": 443,
-            "uuid": "39cec18f-a439-427c-9a4e-aeb6fcdf6f53",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "linja05.hwcar.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "linja05.hwcar.sbs"
                 }
             }
         },
@@ -12498,30 +12582,6 @@
                 "path": "\/ws\/",
                 "headers": {
                     "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 4",
-            "type": "vmess",
-            "server": "172.64.166.28",
-            "server_port": 2086,
-            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "172.64.166.28"
                 }
             }
         },
