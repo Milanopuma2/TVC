@@ -169,8 +169,8 @@
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 372",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 373",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 371",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 372",
                 "🇬🇧GB | 🔴 | vless | @lrnbymaa | 26",
                 "🇬🇧GB | 🔴 | vless | @lrnbymaa | 27",
                 "🇹🇷TR | 🟢 | ss | @OutlineVpnOfficial | 35",
@@ -280,8 +280,8 @@
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
                 "🇺🇸US | 🔴 | vless | @V2RayTz | 19",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 372",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 373",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 371",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 372",
                 "🇬🇧GB | 🔴 | vless | @lrnbymaa | 26",
                 "🇬🇧GB | 🔴 | vless | @lrnbymaa | 27",
                 "🇹🇷TR | 🟢 | ss | @OutlineVpnOfficial | 35",
@@ -1846,7 +1846,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 372",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 371",
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 80,
@@ -1867,7 +1867,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 373",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 372",
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 443,
