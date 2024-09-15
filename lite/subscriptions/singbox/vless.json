@@ -145,8 +145,8 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 18",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 16",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
@@ -229,8 +229,8 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 18",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 16",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
@@ -1316,7 +1316,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 16",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1330,7 +1330,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
