@@ -130,6 +130,7 @@
                 "🇨🇦CA | 🔴 | vless | @lightning6 | 19",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇩🇪DE | 🔴 | vless | @DigiV2ray | 16",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇨🇦CA | 🔴 | vless | @v2logy | 10",
@@ -147,12 +148,12 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 11",
-                "🇺🇸US | 🟢 | vless | @UnlimitedDev | 14",
+                "🇺🇸US | 🟢 | vless | @UnlimitedDev | 15",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 18",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 16",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
@@ -227,6 +228,7 @@
                 "🇨🇦CA | 🔴 | vless | @lightning6 | 19",
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇩🇪DE | 🔴 | vless | @DigiV2ray | 16",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇨🇦CA | 🔴 | vless | @v2logy | 10",
@@ -244,12 +246,12 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 11",
-                "🇺🇸US | 🟢 | vless | @UnlimitedDev | 14",
+                "🇺🇸US | 🟢 | vless | @UnlimitedDev | 15",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇨🇦CA | 🔴 | vless | @ShadowProxy66 | 2",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 18",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 16",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
                 "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
@@ -907,7 +909,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "Speedtest.net",
             "server_port": 443,
@@ -934,6 +936,37 @@
                 "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
                 "headers": {
                     "Host": "Speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 5",
+            "type": "vless",
+            "server": "151.101.2.219",
+            "server_port": 443,
+            "uuid": "7a5a4624-df8d-4955-bccc-b3fa6161411f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram-XV2ry2?ed=1080P",
+                "headers": {
+                    "Host": "speedtest.net"
                 }
             }
         },
@@ -1350,7 +1383,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @UnlimitedDev | 14",
+            "tag": "🇺🇸US | 🟢 | vless | @UnlimitedDev | 15",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1464,7 +1497,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -1478,7 +1511,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -1668,9 +1701,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 18",
             "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 8880,
-            "uuid": "ddca6017-2f13-48ff-9edc-84b822d29235",
+            "server": "151.101.2.219",
+            "server_port": 80,
+            "uuid": "TELEGRAM-NUFiLTER",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1680,9 +1713,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
                 "headers": {
-                    "Host": "104.17.147.22"
+                    "Host": "151.101.2.219"
                 }
             }
         },
@@ -1701,7 +1734,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2056",
+                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
                 "headers": {
                     "Host": "104.17.147.22"
                 }
