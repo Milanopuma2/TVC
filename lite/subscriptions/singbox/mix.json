@@ -143,6 +143,7 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+                "🇸🇬SG | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 16",
@@ -185,7 +186,7 @@
                 "🇳🇱NL | 🟢 | ss | @iP_CF | 10",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -238,6 +239,7 @@
                 "🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+                "🇸🇬SG | 🟢 | vmess | @DeamNet_Proxy | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇨🇦CA | 🔴 | vless | @customv2ray | 9",
                 "🇺🇸US | 🟢 | vless | @UnlimitedDev | 16",
@@ -280,7 +282,7 @@
                 "🇳🇱NL | 🟢 | ss | @iP_CF | 10",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 11",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1205,6 +1207,30 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇸🇬SG | 🟢 | vmess | @DeamNet_Proxy | 18",
+            "type": "vmess",
+            "server": "206.238.236.36",
+            "server_port": 2052,
+            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/afrhms16v.bestxray.buzz\/linkws",
+                "headers": {
+                    "Host": "206.238.236.36"
+                }
             }
         },
         {
@@ -2249,7 +2275,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 8",
             "type": "vless",
             "server": "love.salarvand.org",
             "server_port": 2082,
