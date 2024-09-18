@@ -243,26 +243,26 @@ vmess://eyJ2IjoiMiIsImFkZCI6ImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiI4MCIsImlk
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzYuNTEuMjMiLCJwb3J0IjoiNTQxMDQiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMTIifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6ImNmY2RuMi5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDUyIiwiaWQiOiI5ZWJiMDllZi1jZTY5LTRiYmItYmE4Zi0zYmU2YzUyZWY5YzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoiemlmc3R6YW1oazEueW9mbmhrZmMueHl6IiwicGF0aCI6IlwvdmlkZW9cL1Z1REZka3R6IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBtZnRpemkgfCAxNCJ9
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzguOTAuMyIsInBvcnQiOiI0MDg5MCIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ04gfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBtZnRpemkgfCAxOCJ9
-ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@bypassfilter.test-fad.workers.dev:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xNi42MS44IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Ijh3Y2NjNGE5NC10ZXJtLTRhOTQua2V0b3dpbDM0NC53b3JrZXJzLmRldiIsInBhdGgiOiJcL2l2aWRlb3Muc2JzXC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiI4d2NjYzRhOTQtdGVybS00YTk0LmtldG93aWwzNDQud29ya2Vycy5kZXYiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDEifQ==
-ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.16.60.8:2086#🚩CF | 🟢 | ss | @DeamNet_Proxy | 2
-ss://NDU0YThlOGItZWVmMy00MWYyLTgyZTItMGJiYWEyMTMwODQzOg==@104.21.94.94:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 3
-ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.16.60.8:2052#🚩CF | 🟢 | ss | @DeamNet_Proxy | 4
-ss://NjRhMTI1YjEtNGE1Ny00YTY0LWJmYjItN2RjNjg2NmM1NWJjOg==@50.7.85.221:443#🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQjhYUXhJOUMwSHZCenpscXZ4SURh@81.19.141.45:52873#🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 6
-ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@www.speedtest.net:2083#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 7
-ss://ODliM2NiYmEtZTZhYy00OTBhLTk0ODEtOTc2YTA0NjVlYWI5Og==@104.21.32.104:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 8
-ss://YTk0ZWRiNDYtMDczNC00NTkzLWE4YjUtOWNkMTFkZGM1N2Y2Og==@aryoovpn-5fr.pages.dev:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqV0tMUjFGeEhpT2xpV2xlVXhGbnQw@81.19.141.45:52873#🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 10
-vmess://eyJ2IjoiMiIsImFkZCI6IjE4OC4xMTQuOTcuNiIsInBvcnQiOiI0NDMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJwYXRoIjoiXC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQERlYW1OZXRfUHJveHkgfCAxMSJ9
-ss://NWRmNzk2MmUtZjlmZS00MWU2LWFiNDktZWQ5NmNjYjg1NmE3Og==@104.21.69.154:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 12
-ss://ZmRhMTRkN2EtMTMzZS00ZTMyLWFjZmItNjIxODhmYzkxZTMyOg==@172.67.155.237:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 13
-ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@108.162.196.133:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 14
-ss://ZDM2MGQxMWUtZDQyNi00NTgzLWI1NWUtNTI0YWIxZjBhZmE5Og==@104.26.4.60:2096#🚩CF | 🟢 | ss | @DeamNet_Proxy | 15
-ss://YTYxZmM4Y2ItMDAxMi00YzRiLWFhNWUtZDFjNjIzYWU4MDkyOg==@skk.moe:8880#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 16
-ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@172.67.96.59:8080#🚩CF | 🟢 | ss | @DeamNet_Proxy | 17
-vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ny43OC4xNDAuMzAiLCJwb3J0IjoiNDQzIiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiI0ODY4LXBvZXRyeS00ODY4Lm5hcG9yYTcwMDMud29ya2Vycy5kZXYiLCJwYXRoIjoiXC9nbHdlaWRmLnNic1wvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiNDg2OC1wb2V0cnktNDg2OC5uYXBvcmE3MDAzLndvcmtlcnMuZGV2IiwiYWxwbiI6Imh0dHBcLzEuMSIsImZwIjoiY2hyb21lIiwicHMiOiJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWNCRyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQERlYW1OZXRfUHJveHkgfCAxOCJ9
-ss://YThhODg5MmEtMzk5OS00M2U3LWEwYzktOTJhZGVkOGIwZjNlOg==@www.visa.com.sg:8443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19
+ss://ZDY3MmVjNGYtYWZiYS00ZjYxLWFmMDktZWVjODcyZjk3ZTk5Og==@104.21.84.110:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 0
+ss://ZTc5NGRhNDUtMGQ4ZC00YjdhLTlhZTktYjBiODQ1MjhiMzYwOg==@104.21.1.80:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZGtwcFNSTk11S1VJYkYyMjl6QzFl@89.185.84.185:12575#🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 2
+ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@104.16.60.79:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 3
+ss://YzM3MDgzMjMtNDhmZS00OWMyLWFhZWYtODRkMGE0Y2QxMmZmOg==@170.114.45.159:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4
+ss://NWRmNzk2MmUtZjlmZS00MWU2LWFiNDktZWQ5NmNjYjg1NmE3Og==@172.66.44.135:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 5
+ss://ZDk0YTU0MzctYzRhNi00NjlmLThkOGYtYWYyNWE3MTdmMWE4Og==@172.67.176.195:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 6
+ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@www.speedtest.net:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 7
+ss://M2Y5ZDNiNTItMWJjYy00OTlmLWFhZDAtYmE3MWQ2MTIzZjhiOg==@104.18.8.215:8080#🚩CF | 🟢 | ss | @DeamNet_Proxy | 8
+ss://MDc1YTM2NWItYjBjNy00YmEzLWI1YTYtNTk3ODUwYzIyM2Y5Og==@104.16.2.35:8880#🚩CF | 🟢 | ss | @DeamNet_Proxy | 9
+ss://NjAzNDA4OGYtYjcxMy00MGRkLTkzYmUtZWFlYTgwMmVhZmUxOg==@172.67.157.34:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 10
+ss://MzNmOGM0ZjQtMjUxNS00Nzk4LTllYTAtMTVmMjAzMGVmNGQ4Og==@172.67.133.177:8880#🚩CF | 🟢 | ss | @DeamNet_Proxy | 11
+ss://ZWJiZWViOWYtMDg0Mi01MDQ4LTg5YjktNjQ2NDNkMzQyNGU2Og==@172.67.218.206:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 12
+ss://ZDY5YjY2Y2ItNWZlMi00MGI5LTg0MmItMTk1MTk4MmY4MGFlOg==@172.67.156.192:2086#🚩CF | 🟢 | ss | @DeamNet_Proxy | 13
+ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 14
+ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@bdok.ir:2096#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 15
+ss://NTFkM2QyNDktOTA5NS00Y2JkLThmZDItM2U2YzEwMzljYWI0Og==@172.67.180.238:8880#🚩CF | 🟢 | ss | @DeamNet_Proxy | 16
+ss://YjQxZTE2MzEtY2ViMy00N2M5LWJhODctYzY1YTQ2ZjJmNWE4Og==@104.17.147.22:2096#🚩CF | 🟢 | ss | @DeamNet_Proxy | 17
+ss://ZjIxZTFiMmQtNzFlNi00ZjUwLWI5MjEtYWNkNGU4OWVmMTlhOg==@50.7.85.221:8443#🇩🇪DE | 🟢 | ss | @DeamNet_Proxy | 18
+ss://MWZiNDY1YWMtNjBmYi00Yjc3LWI0YTYtY2M1OTBlZTYxMjRlOg==@freedom3.pacica4041.workers.dev:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19
 vless://612f4024-b6e5-49c2-bff1-aad708dcefe9@www.speedtest.net:80?path=/hormozv.hormozv.hormozv.hormozv?ed=2048&security=none&encryption=none&host=hormoz.Paradisewarfare.ir.losehismind.ir&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 0
 vless://43d4a2c2-996b-4910-a0fe-817fad873186@test3.vip-senior.info:40126?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @customv2ray | 1
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.17.148.22:80?path=/Telegram-XV2ry2?ed=512&security=none&encryption=none&host=www.speedtest.net.20.10.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws#🚩CF | 🔴 | vless | @customv2ray | 2
@@ -433,7 +433,7 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjUuMzkuMjU0LjE5NiIsInBvcnQiOiI0MDEyNSIsInR5cGUiOiJu
 vmess://eyJhZGQiOiJzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoiRGJkamhpdzcyZWJzdTI3MmhzNTE5ai5jb20iLCJpZCI6IjgzNjVhNDdmLTAyZDgtNGJhZC04MDBmLTQ5ZTRiYWNiOTE5MyIsIm5ldCI6IndzIiwicGF0aCI6IndzXC8/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoic3BlZWR0ZXN0Lm5ldCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDUifQ==
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2FhYmJhYy1jYWFiLWJhY2EtZGJjYS1jY2JhYmFiYWFiY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MTA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDYifQ==
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYmFjYWFjYi1hYmFjLWFjYWItY2RhYi1jYWNiYWFiYmNiYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDcifQ==
-vless://2aa29fd0-4ef4-42e2-afb3-4463c5e00b4d@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇨🇦CA | 🔴 | vless | @fnet00 | 1
+vless://2aa29fd0-4ef4-42e2-afb3-4463c5e00b4d@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 1
 vless://66eb3e3f-5d0e-4372-b0e0-91971ae06a1b@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 3
 vless://9f127d3d-1300-4319-bd35-7b217e69155f@www.speedtest.net:80?type=httpupgrade&path=/Telegram-ConfigMs?ed=2048&host=5.www.speedtest.net.zula.ir.zemestanil.iR.&security=none#🇺🇸US | 🔴 | vless | @fnet00 | 5
 vless://60c94a95-41c5-46bb-a88e-b2e0c307224d@Speedtest.net:443?path=/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram?ed=2048&security=tls&encryption=none&host=moienvp.com&type=ws&sni=Speedtest.net#🇺🇸US | 🔴 | vless | @polproxy | 0
