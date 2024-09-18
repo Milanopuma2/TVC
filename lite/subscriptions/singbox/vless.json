@@ -146,10 +146,10 @@
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 16",
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
+                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 11",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 8",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 9",
@@ -226,10 +226,10 @@
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "🇸🇪SE | 🔴 | vless | @ServerNett | 16",
                 "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 16",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 10",
-                "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
-                "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
+                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 11",
+                "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 4",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 8",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 9",
@@ -1300,7 +1300,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -1335,7 +1335,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 11",
+            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 11",
             "type": "vless",
             "server": "www.canva.com",
             "server_port": 8880,
@@ -1349,7 +1349,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray1_ng | 4",
             "type": "vless",
             "server": "104.18.20.135",
             "server_port": 443,
