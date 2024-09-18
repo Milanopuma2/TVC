@@ -345,7 +345,11 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 1",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 0",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 4",
+                "🇸🇬SG | 🟢 | vmess | @DeamNet_Proxy | 7",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 0",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 1",
                 "🚩CF | 🔴 | vless | @customv2ray | 2",
@@ -596,7 +600,7 @@
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
                 "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
@@ -886,7 +890,11 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 14",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 1",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 0",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 4",
+                "🇸🇬SG | 🟢 | vmess | @DeamNet_Proxy | 7",
+                "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
+                "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 0",
                 "🇩🇪DE | 🔴 | vless | @customv2ray | 1",
                 "🚩CF | 🔴 | vless | @customv2ray | 2",
@@ -1137,7 +1145,7 @@
                 "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
                 "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+                "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 3",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 5",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 9",
@@ -6970,9 +6978,33 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 1",
+            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 0",
             "type": "vmess",
-            "server": "104.19.45.5",
+            "server": "104.16.67.38",
+            "server_port": 2095,
+            "uuid": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/glweidf.sbs\/linkws",
+                "headers": {
+                    "Host": "104.16.67.38"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 4",
+            "type": "vmess",
+            "server": "104.19.45.8",
             "server_port": 2095,
             "uuid": "7a737f41-b792-4260-94ff-3d864da67b80",
             "security": "auto",
@@ -6989,7 +7021,99 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "104.19.45.5"
+                    "Host": "104.19.45.8"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇬SG | 🟢 | vmess | @DeamNet_Proxy | 7",
+            "type": "vmess",
+            "server": "206.238.236.36",
+            "server_port": 2052,
+            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/afrhms16v.bestxray.buzz\/linkws",
+                "headers": {
+                    "Host": "206.238.236.36"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 9",
+            "type": "vmess",
+            "server": "104.16.60.8",
+            "server_port": 2087,
+            "uuid": "a1655f51-1e20-4a92-8a11-b7ca30a7a353",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "7hss-butterfly-d4c3.fijetem432.workers.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/afrhms07.xfixedfloat.cfd\/linkws",
+                "headers": {
+                    "Host": "7hss-butterfly-d4c3.fijetem432.workers.dev"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @DeamNet_Proxy | 13",
+            "type": "vmess",
+            "server": "denc36.xtooltech.cfd",
+            "server_port": 443,
+            "uuid": "b321fd5d-e6ec-4293-a644-164e3885f52e",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "adenc36v.xtooltech.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "adenc36v.xtooltech.cfd"
                 }
             }
         },
@@ -13407,7 +13531,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
+            "tag": "🇰🇿KZ | 🔴 | vless | @mehrosaboran | 8",
             "type": "vless",
             "server": "love.salarvand.org",
             "server_port": 2082,
