@@ -356,7 +356,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @lrnbymaa | 15","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"c5f67ba2-f20d-4d61-acb9-d107894a08db","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/www.speedtest.net/VPNCSTOMIZE?ed=8443","headers":{"host":"tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lrnbymaa | 16","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"1cb98902-7795-4a80-b1d2-ad4055189384","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/www.speedtest.net/VPNCSTOMIZE?ed=8443","headers":{"host":"VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lrnbymaa | 17","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"f74aa730-1d40-4f29-b69c-c417b97bfe90","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"VPNCUSTOMIZE.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/www.speedtest.net/VPNCSTOMIZE?ed=2048","headers":{"host":"VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @fnet00 | 1","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"2aa29fd0-4ef4-42e2-afb3-4463c5e00b4d","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇨🇦CA | 🔴 | vless | @fnet00 | 1","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"2aa29fd0-4ef4-42e2-afb3-4463c5e00b4d","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @fnet00 | 3","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"66eb3e3f-5d0e-4372-b0e0-91971ae06a1b","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @fnet00 | 5","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"9f127d3d-1300-4319-bd35-7b217e69155f","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @polproxy | 0","type":"vless","server":"Speedtest.net","port":443,"udp":false,"uuid":"60c94a95-41c5-46bb-a88e-b2e0c307224d","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Speedtest.net","ws-opts":{"path":"/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram?ed=2048","headers":{"host":"moienvp.com"}}}
@@ -696,7 +696,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 15'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 16'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 17'
-      - '🇺🇸US | 🔴 | vless | @fnet00 | 1'
+      - '🇨🇦CA | 🔴 | vless | @fnet00 | 1'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 3'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 5'
       - '🇺🇸US | 🔴 | vless | @polproxy | 0'
@@ -1036,7 +1036,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 15'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 16'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 17'
-      - '🇺🇸US | 🔴 | vless | @fnet00 | 1'
+      - '🇨🇦CA | 🔴 | vless | @fnet00 | 1'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 3'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 5'
       - '🇺🇸US | 🔴 | vless | @polproxy | 0'
@@ -1375,7 +1375,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 15'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 16'
       - '🇺🇸US | 🔴 | vless | @lrnbymaa | 17'
-      - '🇺🇸US | 🔴 | vless | @fnet00 | 1'
+      - '🇨🇦CA | 🔴 | vless | @fnet00 | 1'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 3'
       - '🇺🇸US | 🔴 | vless | @fnet00 | 5'
       - '🇺🇸US | 🔴 | vless | @polproxy | 0'
