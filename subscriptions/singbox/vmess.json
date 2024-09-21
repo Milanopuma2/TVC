@@ -113,10 +113,10 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 3",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 5",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 6",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 6",
                 "🚩CF | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 12",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 15",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 3",
@@ -153,10 +153,10 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 3",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 4",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 5",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 6",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 6",
                 "🚩CF | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
-                "🇺🇸US | 🟢 | vmess | @mftizi | 12",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 15",
                 "🚩CF | 🟢 | vmess | @DeamNet_Proxy | 3",
@@ -366,7 +366,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 6",
+            "tag": "🇨🇦CA | 🟢 | vmess | @mftizi | 6",
             "type": "vmess",
             "server": "cfcdn2.sanfencdn9.com",
             "server_port": 2052,
@@ -431,7 +431,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 12",
+            "tag": "🇨🇦CA | 🟢 | vmess | @mftizi | 12",
             "type": "vmess",
             "server": "cfcdn3.sanfencdn9.com",
             "server_port": 80,
