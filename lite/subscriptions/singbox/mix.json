@@ -151,7 +151,7 @@
                 "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 23",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 5",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 5",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
@@ -177,7 +177,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇸🇬SG | 🟢 | ss | @iP_CF | 1",
                 "🇦🇹AT | 🟢 | ss | @iP_CF | 2",
-                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -241,7 +241,7 @@
                 "🇺🇸US | 🟢 | vmess | @V2rayng_Fast | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 23",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 24",
-                "🇨🇦CA | 🔴 | vless | @proxyymeliii | 5",
+                "🇺🇸US | 🔴 | vless | @proxyymeliii | 5",
                 "🇩🇪DE | 🔴 | vless | @proxyymeliii | 6",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 0",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 1",
@@ -267,7 +267,7 @@
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇸🇬SG | 🟢 | ss | @iP_CF | 1",
                 "🇦🇹AT | 🟢 | ss | @iP_CF | 2",
-                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 9",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1435,7 +1435,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @proxyymeliii | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @proxyymeliii | 5",
             "type": "vless",
             "server": "www.canva.com",
             "server_port": 8880,
@@ -2072,7 +2072,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
