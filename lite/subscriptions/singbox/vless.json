@@ -151,7 +151,6 @@
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 0",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 17",
@@ -230,7 +229,6 @@
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 0",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 17",
@@ -673,7 +671,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "93c5256b-25c8-46fb-bc0a-82753cfcaac3",
+            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -694,7 +692,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "93c5256b-25c8-46fb-bc0a-82753cfcaac3",
+            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1406,27 +1404,6 @@
                 "path": "\/servernett",
                 "headers": {
                     "Host": "185.146.173.58"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 0",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 8880,
-            "uuid": "569b4979-c212-47ed-aa8f-69a4062cd91f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
-                "headers": {
-                    "Host": "104.17.147.22"
                 }
             }
         },

@@ -136,7 +136,7 @@
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
@@ -158,7 +158,6 @@
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 0",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 17",
@@ -229,7 +228,7 @@
                 "🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 16",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 15",
                 "🇬🇧GB | 🟢 | trojan | @DirectVPN | 16",
-                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇨🇦CA | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 11",
@@ -251,7 +250,6 @@
                 "❔XX | 🔴 | vless | @MTConfig | 13",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 10",
                 "🇸🇪SE | 🔴 | vless | @vmess_vless_v2rayng | 11",
-                "🇺🇸US | 🔴 | vless | @V2RayTz | 0",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 306",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 307",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 17",
@@ -701,7 +699,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "93c5256b-25c8-46fb-bc0a-82753cfcaac3",
+            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -722,7 +720,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "93c5256b-25c8-46fb-bc0a-82753cfcaac3",
+            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1057,13 +1055,13 @@
             }
         },
         {
-            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+            "tag": "🇨🇦CA | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
-            "server": "183.236.51.23",
-            "server_port": 45020,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "server": "cfcdn2.sanfencdn9.com",
+            "server_port": 2052,
+            "uuid": "9ebb09ef-ce69-4bbb-ba8f-3be6c52ef9c2",
             "security": "auto",
-            "alter_id": 64,
+            "alter_id": 0,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -1071,13 +1069,20 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/video\/VuDFdktz",
+                "headers": {
+                    "Host": ""
+                }
             }
         },
         {
             "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
             "type": "vmess",
             "server": "183.236.51.23",
-            "server_port": 54104,
+            "server_port": 45020,
             "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
             "alter_id": 64,
@@ -1590,27 +1595,6 @@
                 "path": "\/servernett",
                 "headers": {
                     "Host": "185.146.173.58"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @V2RayTz | 0",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 8880,
-            "uuid": "569b4979-c212-47ed-aa8f-69a4062cd91f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880",
-                "headers": {
-                    "Host": "104.17.147.22"
                 }
             }
         },
