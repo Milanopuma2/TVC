@@ -241,10 +241,10 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 1",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+                "🚩CF | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -430,7 +430,7 @@
                 "🇹🇷TR | 🔴 | vless | @proxystore11 | 5",
                 "🚩CF | 🔴 | vless | @free1_vpn | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -677,10 +677,10 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 1",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
-                "🚩CF | 🔴 | vless | @proxy_kafee | 1",
-                "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
+                "🚩CF | 🔴 | vless | @proxy_kafee | 2",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+                "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
@@ -866,7 +866,7 @@
                 "🇹🇷TR | 🔴 | vless | @proxystore11 | 5",
                 "🚩CF | 🔴 | vless | @free1_vpn | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -4217,11 +4217,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "578d2f79-ecac-4903-b319-bca1bcb5a58d",
+            "uuid": "e9a1c47b-2c16-41d8-aca4-b4ba6747be8e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4248,7 +4248,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 1",
+            "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 2",
             "type": "vless",
             "server": "172.66.47.151",
             "server_port": 443,
@@ -4279,7 +4279,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4310,7 +4310,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @proxy_kafee | 4",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -9144,7 +9144,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
