@@ -469,11 +469,11 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 36",
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
+                "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
-                "🇨🇦CA | 🔴 | vless | @flyv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
@@ -486,11 +486,11 @@
                 "❔XX | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 0",
                 "🇮🇷IR | 🔴 | vless | @iP_CF | 2",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 0",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 1",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 2",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
@@ -905,11 +905,11 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 36",
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
+                "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
-                "🇨🇦CA | 🔴 | vless | @flyv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
@@ -922,11 +922,11 @@
                 "❔XX | 🔴 | vless | @flyv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @iP_CF | 0",
                 "🇮🇷IR | 🔴 | vless | @iP_CF | 2",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 0",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 1",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 2",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 3",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+                "🇨🇦CA | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
@@ -10272,7 +10272,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
+            "tag": "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
             "type": "vless",
             "server": "194.5.97.158",
             "server_port": 443,
@@ -10388,7 +10388,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @flyv2ray | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -10724,7 +10724,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 0",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -10755,7 +10755,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 1",
             "type": "vless",
             "server": "iranserver.com",
             "server_port": 80,
@@ -10776,7 +10776,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 2",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -10828,7 +10828,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @mehrosaboran | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
