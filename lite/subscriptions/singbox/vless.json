@@ -156,7 +156,6 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 321",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 12",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
@@ -233,7 +232,6 @@
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 321",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 11",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 12",
-                "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
@@ -502,27 +500,6 @@
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
             "type": "vless",
             "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
-            "type": "vless",
-            "server": "speedtest.net",
             "server_port": 443,
             "uuid": "telegram-id-ArV2ray",
             "flow": "",
@@ -545,6 +522,27 @@
             "transport": {
                 "type": "ws",
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 19",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
                 "headers": {
                     "Host": "speedtest.net"
                 }
@@ -642,7 +640,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6b96fc70-e622-4f65-b1c6-3a1ab190d3ca",
+            "uuid": "f2002b92-d7b4-4517-a443-7a8929d94d22",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -663,7 +661,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6b96fc70-e622-4f65-b1c6-3a1ab190d3ca",
+            "uuid": "f2002b92-d7b4-4517-a443-7a8929d94d22",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1551,20 +1549,6 @@
                 "headers": {
                     "Host": "Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com"
                 }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @free1_vpn | 1",
-            "type": "vless",
-            "server": "104.17.147.22",
-            "server_port": 80,
-            "uuid": "28e02739-d5d7-43da-bd83-e45eb695207f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
