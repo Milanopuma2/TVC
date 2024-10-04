@@ -115,8 +115,8 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 6",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
-                "🇨🇦CA | 🟢 | vmess | @mftizi | 9",
-                "🇨🇦CA | 🟢 | vmess | @mftizi | 10",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 9",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 10",
                 "🚩CF | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 16",
@@ -171,8 +171,8 @@
                 "🇺🇸US | 🟢 | vmess | @mftizi | 6",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 7",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 8",
-                "🇨🇦CA | 🟢 | vmess | @mftizi | 9",
-                "🇨🇦CA | 🟢 | vmess | @mftizi | 10",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 9",
+                "🇺🇸US | 🟢 | vmess | @mftizi | 10",
                 "🚩CF | 🟢 | vmess | @mftizi | 11",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 16",
@@ -408,7 +408,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @mftizi | 9",
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 9",
             "type": "vmess",
             "server": "cfcdn3.sanfencdn9.com",
             "server_port": 80,
@@ -432,7 +432,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @mftizi | 10",
+            "tag": "🇺🇸US | 🟢 | vmess | @mftizi | 10",
             "type": "vmess",
             "server": "cfcdn2.sanfencdn9.com",
             "server_port": 2052,
