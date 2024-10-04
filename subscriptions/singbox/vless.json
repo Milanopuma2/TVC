@@ -253,7 +253,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 1",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 3",
-                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 4",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 5",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 7",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 8",
@@ -438,9 +438,9 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @v2rayng_vpnrog | 2",
-                "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 3",
-                "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 4",
-                "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 5",
+                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
+                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
+                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
                 "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 7",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 8",
@@ -524,7 +524,7 @@
                 "🇸🇪SE | 🔴 | vless | @kingofilter | 2",
                 "🇸🇪SE | 🔴 | vless | @kingofilter | 3",
                 "🇸🇪SE | 🔴 | vless | @Good_V2rayy | 1",
-                "🇳🇱NL | 🟢 | vless | @Good_V2rayy | 2",
+                "🇸🇪SE | 🟢 | vless | @Good_V2rayy | 2",
                 "❔XX | 🔴 | vless | @V2FETCH | 1",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
@@ -685,7 +685,7 @@
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 1",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 3",
-                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 4",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 5",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 7",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 8",
@@ -870,9 +870,9 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 8",
                 "❔XX | 🔴 | vless | @v2rayng_vpnrog | 2",
-                "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 3",
-                "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 4",
-                "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 5",
+                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
+                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
+                "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
                 "🇬🇧GB | 🔴 | vless | @Capital_NET | 6",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 7",
                 "🇳🇱NL | 🟢 | vless | @Capital_NET | 8",
@@ -956,7 +956,7 @@
                 "🇸🇪SE | 🔴 | vless | @kingofilter | 2",
                 "🇸🇪SE | 🔴 | vless | @kingofilter | 3",
                 "🇸🇪SE | 🔴 | vless | @Good_V2rayy | 1",
-                "🇳🇱NL | 🟢 | vless | @Good_V2rayy | 2",
+                "🇸🇪SE | 🟢 | vless | @Good_V2rayy | 2",
                 "❔XX | 🔴 | vless | @V2FETCH | 1",
                 "❔XX | 🔴 | vless | @VpnSkyy | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 1",
@@ -4560,7 +4560,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayNGn | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -9327,7 +9327,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -9348,7 +9348,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 4",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -9369,7 +9369,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2rayng_vpnrog | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -11838,7 +11838,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @Good_V2rayy | 2",
+            "tag": "🇸🇪SE | 🟢 | vless | @Good_V2rayy | 2",
             "type": "vless",
             "server": "176.124.202.240",
             "server_port": 30118,
