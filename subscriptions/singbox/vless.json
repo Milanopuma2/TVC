@@ -253,7 +253,7 @@
                 "🚩CF | 🔴 | vless | @V2rayNGn | 3",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 6",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 7",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
+                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 8",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 9",
                 "❔XX | 🔴 | vless | @customv2ray | 0",
                 "🚩CF | 🔴 | vless | @customv2ray | 1",
@@ -462,7 +462,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 36",
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
+                "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
@@ -677,7 +677,7 @@
                 "🚩CF | 🔴 | vless | @V2rayNGn | 3",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 6",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 7",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
+                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 8",
                 "🚩CF | 🔴 | vless | @V2rayNGn | 9",
                 "❔XX | 🔴 | vless | @customv2ray | 0",
                 "🚩CF | 🔴 | vless | @customv2ray | 1",
@@ -886,7 +886,7 @@
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 36",
                 "❔XX | 🔴 | vless | @Capital_NET | 37",
                 "❔XX | 🔴 | vless | @Capital_NET | 39",
-                "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
+                "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
                 "🇩🇪DE | 🔴 | vless | @Capital_NET | 42",
                 "❔XX | 🔴 | vless | @Capital_NET | 44",
                 "🇺🇸US | 🔴 | vless | @Capital_NET | 45",
@@ -4546,7 +4546,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2rayNGn | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -10049,7 +10049,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Capital_NET | 41",
+            "tag": "🇳🇱NL | 🔴 | vless | @Capital_NET | 41",
             "type": "vless",
             "server": "194.5.97.158",
             "server_port": 443,
