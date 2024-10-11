@@ -2040,15 +2040,6 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/0ebea64e-e1f6-461e-a2c7-d78a0569f595@speedtest.net:443?security=tls&sni=speedtest.net&type=ws&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&host=http.www.speedtest.net.fast.com.google.com.vmessorg.ir.&encryption=none#🇺🇸US%20|%20🟢%20|%20vless%20|%20@vmessorg%20|%209"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
         "config": "vless:\/\/4599f16e-0565-4962-c72e-af0b17879043@185.177.57.58:443?security=tls&encryption=none&alpn=http%2F1.1&headerType=none&fp=ios&type=tcp&sni=vps-185-177-57-58.myhost.io#🇧🇬BG%20|%20🟢%20|%20vless%20|%20@ShadowProxy66%20|%200"
     },
     {
