@@ -228,6 +228,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 4",
@@ -332,6 +333,7 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 6",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇧🇬BG | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇲🇩MD | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇦🇹AT | 🔴 | vless | @ShadowProxy66 | 2",
@@ -727,6 +729,7 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 1",
                 "🚩CF | 🔴 | vless | @proxy_kafee | 4",
@@ -831,6 +834,7 @@
                 "🇺🇸US | 🟢 | vless | @vmessorg | 6",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 7",
                 "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+                "🇺🇸US | 🟢 | vless | @vmessorg | 9",
                 "🇧🇬BG | 🟢 | vless | @ShadowProxy66 | 0",
                 "🇲🇩MD | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇦🇹AT | 🔴 | vless | @ShadowProxy66 | 2",
@@ -4045,6 +4049,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
+            "type": "vless",
+            "server": "ir2.ordeloil.com",
+            "server_port": 2069,
+            "uuid": "89924dcb-c2b2-4eb0-a046-7ea17cf60479",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🚩CF | 🔴 | vless | @proxy_kafee | 0",
             "type": "vless",
             "server": "188.114.97.3",
@@ -6324,7 +6342,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "fb7a4b46-befa-4cf6-8811-be193b20b760",
+            "uuid": "0e64731f-9985-43a1-8074-05fae7762c4b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6355,7 +6373,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "07f497b8-7e85-4036-ae6d-273815247212",
+            "uuid": "fb7a4b46-befa-4cf6-8811-be193b20b760",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6386,7 +6404,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "3e91bc65-4866-4410-993d-945e5b77fc12",
+            "uuid": "07f497b8-7e85-4036-ae6d-273815247212",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6417,7 +6435,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "7f834050-cc7a-465d-a4a7-4405082231f9",
+            "uuid": "3e91bc65-4866-4410-993d-945e5b77fc12",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6445,6 +6463,37 @@
         },
         {
             "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 5",
+            "type": "vless",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "7f834050-cc7a-465d-a4a7-4405082231f9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8880",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 6",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -6475,7 +6524,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 6",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 7",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -6506,7 +6555,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 7",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 8",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -6537,7 +6586,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @vmessorg | 9",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
