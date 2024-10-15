@@ -157,7 +157,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 15","type":"vless","server":"speedtest.net","port":80,"udp":false,"uuid":"2f8693f3-c07b-4b22-b5f8-960d48b5f6cc","tls":false,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=80","headers":{"host":"barkatc16.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @ipV2Ray | 16","type":"vless","server":"speedtest.net","port":443,"udp":false,"uuid":"b0cc9942-b0fd-4900-addd-6b4cc04dcea0","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048","headers":{"host":"barkatc15.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 1","type":"vless","server":"bwdraper.faculty.ucdavis.edu","port":443,"udp":false,"uuid":"af117745-5390-4929-94ae-e730814e432a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"bwdraper.faculty.ucdavis.edu","ws-opts":{"path":"/v2pedia?ed=2048","headers":{"host":"que4.ir"}}}
-  - {"name":"🚩CF | 🔴 | vless | @V2pedia | 2","type":"vless","server":"speedtest.net","port":443,"udp":false,"uuid":"6569c28e-7b9b-4e06-b04a-9fde41f33352","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/v2pedia?ed=2048","headers":{"host":"que4.ir"}}}
+  - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 2","type":"vless","server":"speedtest.net","port":443,"udp":false,"uuid":"6569c28e-7b9b-4e06-b04a-9fde41f33352","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/v2pedia?ed=2048","headers":{"host":"que4.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 3","type":"vless","server":"speedtest.net","port":443,"udp":false,"uuid":"ea636233-af7b-49b7-b3d7-cc325aaf2133","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/v2pedia?ed=2048","headers":{"host":"que4.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @V2pedia | 5","type":"vless","server":"speedtest.net","port":443,"udp":false,"uuid":"d01d2879-894f-4675-bbda-3b2548100f06","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/v2pedia?ed=2048","headers":{"host":"que4.ir"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @frev2ray | 0","type":"vless","server":"speedtest.net","port":443,"udp":false,"uuid":"ee842477-4abc-4cef-bd99-e905c89b1d8a","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"speedtest.net","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=443","headers":{"host":"VPNCUSTOMIZE.azmoon.net"}}}
@@ -581,7 +581,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 15'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 16'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 1'
-      - '🚩CF | 🔴 | vless | @V2pedia | 2'
+      - '🇺🇸US | 🔴 | vless | @V2pedia | 2'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 3'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 5'
       - '🇺🇸US | 🔴 | vless | @frev2ray | 0'
@@ -1005,7 +1005,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 15'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 16'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 1'
-      - '🚩CF | 🔴 | vless | @V2pedia | 2'
+      - '🇺🇸US | 🔴 | vless | @V2pedia | 2'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 3'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 5'
       - '🇺🇸US | 🔴 | vless | @frev2ray | 0'
@@ -1428,7 +1428,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 15'
       - '🇺🇸US | 🔴 | vless | @ipV2Ray | 16'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 1'
-      - '🚩CF | 🔴 | vless | @V2pedia | 2'
+      - '🇺🇸US | 🔴 | vless | @V2pedia | 2'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 3'
       - '🇺🇸US | 🔴 | vless | @V2pedia | 5'
       - '🇺🇸US | 🔴 | vless | @frev2ray | 0'

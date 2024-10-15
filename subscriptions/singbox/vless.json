@@ -149,7 +149,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 0",
-                "TVCxeidpndrwo",
+                "TVCizbsfllemr",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
@@ -166,7 +166,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
-                "🚩CF | 🔴 | vless | @V2pedia | 2",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 2",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 3",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
@@ -588,7 +588,7 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 0",
-                "TVCxeidpndrwo",
+                "TVCizbsfllemr",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
@@ -605,7 +605,7 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 16",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 0",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 1",
-                "🚩CF | 🔴 | vless | @V2pedia | 2",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 2",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 3",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
@@ -2044,7 +2044,7 @@
             }
         },
         {
-            "tag": "TVCxeidpndrwo",
+            "tag": "TVCizbsfllemr",
             "type": "vless",
             "server": "",
             "server_port": 0,
@@ -2524,7 +2524,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @V2pedia | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 2",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
