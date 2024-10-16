@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 0",
-                "🇭🇰HK | 🟢 | vmess | @mftizi | 1",
+                "🇸🇬SG | 🟢 | vmess | @mftizi | 1",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 2",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 3",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 4",
@@ -147,7 +147,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "❔XX | 🟢 | vmess | @Hope_Net | 8",
-                "❔XX | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 1",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 7",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 9",
@@ -167,7 +166,7 @@
             "type": "urltest",
             "outbounds": [
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 0",
-                "🇭🇰HK | 🟢 | vmess | @mftizi | 1",
+                "🇸🇬SG | 🟢 | vmess | @mftizi | 1",
                 "🇭🇰HK | 🟢 | vmess | @mftizi | 2",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 3",
                 "🇺🇸US | 🟢 | vmess | @mftizi | 4",
@@ -207,7 +206,6 @@
                 "❔XX | 🟢 | vmess | @Hope_Net | 6",
                 "❔XX | 🟢 | vmess | @Hope_Net | 7",
                 "❔XX | 🟢 | vmess | @Hope_Net | 8",
-                "❔XX | 🟢 | vmess | @Hope_Net | 9",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 1",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 7",
                 "🇺🇸US | 🟢 | vmess | @nofiltering2 | 9",
@@ -259,7 +257,7 @@
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vmess | @mftizi | 1",
+            "tag": "🇸🇬SG | 🟢 | vmess | @mftizi | 1",
             "type": "vmess",
             "server": "149.104.20.212",
             "server_port": 18210,
@@ -1229,23 +1227,6 @@
             "server": "127.0.0.1",
             "server_port": 8080,
             "uuid": "cabaabc-baac-aabc-bdac-cabcabbaacbc",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 9",
-            "type": "vmess",
-            "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "baaccba-baac-acab-dacb-bcbccbbaaaca",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
