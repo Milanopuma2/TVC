@@ -1073,7 +1073,7 @@
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "d9958857-af9f-48df-ace2-c71780ee357e",
+            "uuid": "60042392-0803-4519-994f-77b7ab6f3635",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1104,7 +1104,7 @@
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "afb5597d-4ba4-4d64-83b8-85be29346556",
+            "uuid": "d9958857-af9f-48df-ace2-c71780ee357e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
