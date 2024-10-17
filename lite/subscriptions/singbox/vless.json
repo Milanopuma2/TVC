@@ -109,7 +109,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
@@ -129,6 +129,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 16",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
@@ -188,7 +189,7 @@
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 35",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 36",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
-                "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+                "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 0",
@@ -208,6 +209,7 @@
                 "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 16",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 17",
+                "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 7",
                 "🇺🇸US | 🔴 | vless | @proxy_kafee | 8",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
@@ -339,7 +341,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -833,6 +835,20 @@
                 "headers": {
                     "Host": "www.speedtest.net"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @DarkTeam_VPN | 0",
+            "type": "vless",
+            "server": "ir1.ordeloil.com",
+            "server_port": 2083,
+            "uuid": "c882bbc8-02cc-4e1d-94b8-d5a84fbb4898",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
