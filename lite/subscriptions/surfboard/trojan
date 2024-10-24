@@ -11,13 +11,14 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18 = trojan, 52.28.242.93, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19 = trojan, 13.51.220.245, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-TVCmixccxnzmc = trojan, , , password = , udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🟢 | trojan | @PrivateVPNs | 18 = trojan, 18.196.76.204, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | @PrivateVPNs | 19 = trojan, 52.28.242.93, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+❔XX | 🟢 | trojan | @DirectVPN | 18 = trojan, 13.60.142.147, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+TVCeftirjyvvb = trojan, , , password = , udp-delay = true, skip-cert-verify = false, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19,TVCmixccxnzmc
-URL-TEST = url-test,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19,TVCmixccxnzmc
-FALLBACK = fallback,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 18,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19,TVCmixccxnzmc
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | trojan | @PrivateVPNs | 18,❔XX | 🟢 | trojan | @PrivateVPNs | 19,❔XX | 🟢 | trojan | @DirectVPN | 18,TVCeftirjyvvb
+URL-TEST = url-test,❔XX | 🟢 | trojan | @PrivateVPNs | 18,❔XX | 🟢 | trojan | @PrivateVPNs | 19,❔XX | 🟢 | trojan | @DirectVPN | 18,TVCeftirjyvvb
+FALLBACK = fallback,❔XX | 🟢 | trojan | @PrivateVPNs | 18,❔XX | 🟢 | trojan | @PrivateVPNs | 19,❔XX | 🟢 | trojan | @DirectVPN | 18,TVCeftirjyvvb
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
