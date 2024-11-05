@@ -110,9 +110,9 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
-                "TVCbjfprubskb",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+                "TVCyzvvdyueiy",
                 "🇫🇷FR | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
@@ -177,9 +177,9 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 41",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
-                "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
-                "TVCbjfprubskb",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
+                "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
+                "TVCyzvvdyueiy",
                 "🇫🇷FR | 🔴 | vless | @ipV2Ray | 13",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 9",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 10",
@@ -346,9 +346,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "35.179.21.136",
+            "server": "52.19.221.192",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -377,9 +377,9 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇮🇪IE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "3.10.78.149",
+            "server": "52.215.68.89",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -408,7 +408,7 @@
             }
         },
         {
-            "tag": "TVCbjfprubskb",
+            "tag": "TVCyzvvdyueiy",
             "type": "vless",
             "server": "",
             "server_port": 0,
