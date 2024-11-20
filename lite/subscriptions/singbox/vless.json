@@ -112,8 +112,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 18",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
@@ -156,8 +156,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -185,8 +185,8 @@
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 29",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 14",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 18",
+                "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 7",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 12",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 13",
@@ -229,8 +229,8 @@
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 10",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 304",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 305",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 5",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
@@ -410,9 +410,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 18",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 18",
             "type": "vless",
-            "server": "13.39.145.13",
+            "server": "18.171.255.16",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -441,9 +441,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 19",
+            "tag": "🇬🇧GB | 🔴 | vless | @VlessConfig | 19",
             "type": "vless",
-            "server": "15.236.170.139",
+            "server": "35.176.241.234",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1510,11 +1510,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 14",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "104.20.17.65",
             "server_port": 443,
-            "uuid": "ec9406f9-3fc6-442d-b9f6-90c59b64eff2",
+            "uuid": "2928d83a-ca75-4d52-b437-fa78c7601378",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1524,7 +1524,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "pages.dev",
+                "server_name": "freedom-1rj.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1534,18 +1534,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/TELEGRAM-MARAMBASHI_MARAMBASHI\/?ed=2560",
+                "path": "\/freedom-1rj.pages.dev\/?ed=2560",
                 "headers": {
-                    "Host": "pages.dev"
+                    "Host": "freedom-1rj.pages.dev"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
-            "server": "hajlab.ucdavis.edu",
+            "server": "172.64.35.207",
             "server_port": 443,
-            "uuid": "5d175779-9e00-4e13-a622-45e686a0cea0",
+            "uuid": "2928d83a-ca75-4d52-b437-fa78c7601378",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1555,7 +1555,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
+                "server_name": "freedom-1rj.pages.dev",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1565,9 +1565,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2560",
+                "path": "\/freedom-1rj.pages.dev\/?ed=2560",
                 "headers": {
-                    "Host": "hajlab.ucdavis.edu"
+                    "Host": "freedom-1rj.pages.dev"
                 }
             }
         },
