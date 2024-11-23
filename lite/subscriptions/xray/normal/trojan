@@ -8,3 +8,4 @@ trojan://telegram-id-privatevpns@18.132.222.222:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@35.181.245.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 19
 trojan://telegram-id-directvpn@3.146.179.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 18
 trojan://telegram-id-directvpn@99.79.165.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 19
+trojan://bpb-trojan@188.114.98.89:443?path=/trBLUKS93cpgZZCas5?ed&security=tls&host=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&sni=bpB-woRker-PanEL-AY6.pagEs.dev#🇺🇸US | 🔴 | trojan | @ConfigsHUB | 17
