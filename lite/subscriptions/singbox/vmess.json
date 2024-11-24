@@ -106,26 +106,28 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @mftizi | 18",
-                "❔XX | 🟢 | vmess | @customv2ray | 16",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8"
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+                "🇸🇪SE | 🟢 | vmess | @customv2ray | 16",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vmess | @mftizi | 17",
-                "❔XX | 🟢 | vmess | @mftizi | 18",
-                "❔XX | 🟢 | vmess | @customv2ray | 16",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "❔XX | 🟢 | vmess | @yaney_01 | 5",
-                "❔XX | 🟢 | vmess | @Hope_Net | 7",
-                "❔XX | 🟢 | vmess | @Hope_Net | 8"
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
+                "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
+                "🇸🇪SE | 🟢 | vmess | @customv2ray | 16",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
+                "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
+                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 9"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -148,7 +150,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 17",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
             "type": "vmess",
             "server": "50021.baidu-cdn.top",
             "server_port": 50021,
@@ -165,7 +167,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @mftizi | 18",
+            "tag": "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
             "type": "vmess",
             "server": "50023.baidu-cdn.top",
             "server_port": 50023,
@@ -182,7 +184,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @customv2ray | 16",
+            "tag": "🇸🇪SE | 🟢 | vmess | @customv2ray | 16",
             "type": "vmess",
             "server": "Back.MsV2ray.online",
             "server_port": 443,
@@ -216,7 +218,41 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 15",
+            "type": "vmess",
+            "server": "172.67.131.17",
+            "server_port": 443,
+            "uuid": "62aa5f80-0328-4004-a375-7f5a59df4022",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hms19.best-tizi.top",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "hms19.best-tizi.top"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -240,7 +276,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
             "type": "vmess",
             "server": "104.26.8.210",
             "server_port": 443,
@@ -274,7 +310,24 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "abccbaa-acab-acba-cadb-bbbccacacbaa",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 9",
             "type": "vmess",
             "server": "206.206.80.66",
             "server_port": 23423,
@@ -288,30 +341,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 8",
-            "type": "vmess",
-            "server": "104.17.147.22",
-            "server_port": 8880,
-            "uuid": "3bc11be5-44ee-4456-9d29-a316bce4a17e",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "104.17.147.22"
-                }
             }
         }
     ],
