@@ -8,5 +8,4 @@ trojan://telegram-id-privatevpns@51.21.138.205:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@16.16.73.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 19
 trojan://telegram-id-directvpn@3.73.20.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 18
 trojan://telegram-id-directvpn@13.49.251.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 19
-trojan://auto@www.visa.com.sg:443?path=/?ed=2560&security=tls&host=abbas.ab841vpn.workers.dev&fp=randomized&type=ws&sni=abbas.ab841vpn.workers.dev#🇺🇸US | 🔴 | trojan | @ConfigsHUB | 15
 trojan://bpb-trojan@104.17.102.149:2053?path=/trlBYH5QQYGYnWgP5T?ed=2560&security=tls&alpn=h2,http/1.1&host=bpb-worker-panel-bcr.pages.dev&fp=randomized&type=ws&sni=bpb-WorkEr-panel-bcr.PagEs.DEv#🇺🇸US | 🔴 | trojan | @proxystore11 | 0
