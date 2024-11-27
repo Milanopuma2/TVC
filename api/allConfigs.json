@@ -951,7 +951,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#🇺🇸US%20|%20🔴%20|%20vless%20|%20@frev2ray%20|%2024"
+        "config": "vless:\/\/6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#🇨🇦CA%20|%20🔴%20|%20vless%20|%20@frev2ray%20|%2024"
     },
     {
         "channel": {
@@ -3133,12 +3133,12 @@
     },
     {
         "channel": {
-            "username": "trojan",
+            "username": "vless",
             "title": null,
             "logo": null
         },
-        "type": "trojan",
-        "config": "trojan:\/\/dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🚩CF%20|%20🟢%20|%20trojan%20|%20@ConfigsHUB%20|%200"
+        "type": "vless",
+        "config": "vless:\/\/ad9ae42c-6858-4635-b93d-8bec2169e569@151.101.66.219:80?security=none&type=ws&host=snapp.com&path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%200"
     },
     {
         "channel": {
@@ -3147,7 +3147,16 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/fa12a8d8-c572-4b60-a5ed-46d52755af94@104.17.148.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#🚩CF%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%201"
+        "config": "vless:\/\/0948673a-e607-4629-a07e-c70e1122fb73@190.93.245.137:443?security=tls&sni=DEc80.TehrANsiMAn.co.UK.&type=ws&host=DEc80.TehrANsiMAn.co.UK.&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🚩CF%20|%20🟢%20|%20vless%20|%20@ConfigsHUB%20|%201"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/1b87ada2-9c8b-493e-bfb8-4c051be9d74e@87.248.155.222:18161?security=&type=tcp&headerType=http&host=host%3Anasa.gov&encryption=none#🇮🇷IR%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%202"
     },
     {
         "channel": {
@@ -3165,7 +3174,16 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER@NUFiTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl9.ir&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%206"
+        "config": "vless:\/\/TELEGRAM-NUFiLTER@NUFiTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl9.ir&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%205"
+    },
+    {
+        "channel": {
+            "username": "trojan",
+            "title": null,
+            "logo": null
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/dba20dcb635e430fa4d3bfc303a149d2@190.93.246.247:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🚩CF%20|%20🟢%20|%20trojan%20|%20@ConfigsHUB%20|%208"
     },
     {
         "channel": {
@@ -3174,7 +3192,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/9b6b1a42-d279-4d45-9896-502d9cf82e8a@ipvsdfrsd.fedDEfsSddf.acangame.site:4444?mode=gun&security=none&encryption=none&authority=fcATrTHVerk4eu3rpEhL.ir&type=grpc#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%208"
+        "config": "vless:\/\/fa12a8d8-c572-4b60-a5ed-46d52755af94@104.17.148.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#🚩CF%20|%20🔴%20|%20vless%20|%20@ConfigsHUB%20|%209"
     },
     {
         "channel": {
