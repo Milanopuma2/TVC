@@ -146,7 +146,6 @@
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 16",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 285",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 286",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
@@ -208,7 +207,6 @@
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 16",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 285",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 286",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 6",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
@@ -1220,37 +1218,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-            "type": "vless",
-            "server": "162.159.153.7",
-            "server_port": 443,
-            "uuid": "71ed6628-5870-4d19-8a52-f2a3ba3d4898",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "vbbb.ylks2024.us.kg",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/youlingkaishi",
-                "headers": {
-                    "Host": "vbbb.ylks2024.us.kg"
                 }
             }
         },
