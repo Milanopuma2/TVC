@@ -110,7 +110,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 12",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
@@ -133,7 +133,7 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 142",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 30",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 31",
+                "🇸🇪SE | 🔴 | vless | @customv2ray | 31",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 1",
@@ -148,11 +148,13 @@
                 "🇷🇺RU | 🟢 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
+                "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇧🇬BG | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
@@ -174,7 +176,7 @@
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 13",
                 "🇨🇦CA | 🔴 | vless | @XsV2ray | 14",
                 "🇨🇦CA | 🔴 | vless | @VlessConfig | 12",
-                "🇺🇸US | 🔴 | vless | @VlessConfig | 13",
+                "🇨🇦CA | 🔴 | vless | @VlessConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 19",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 20",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 13",
@@ -197,7 +199,7 @@
                 "❔XX | 🔴 | vless | @prrofile_purple | 142",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 143",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 30",
-                "🇺🇸US | 🔴 | vless | @customv2ray | 31",
+                "🇸🇪SE | 🔴 | vless | @customv2ray | 31",
                 "🇺🇸US | 🔴 | vless | @v2rayngvpn | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 1",
@@ -212,11 +214,13 @@
                 "🇷🇺RU | 🟢 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 234",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 235",
+                "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 14",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇧🇬BG | 🔴 | vless | @flyv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 7",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 15",
@@ -311,7 +315,7 @@
         {
             "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 12",
             "type": "vless",
-            "server": "15.223.165.79",
+            "server": "3.97.72.109",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -340,9 +344,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VlessConfig | 13",
+            "tag": "🇨🇦CA | 🔴 | vless | @VlessConfig | 13",
             "type": "vless",
-            "server": "54.211.170.174",
+            "server": "15.223.165.79",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -917,7 +921,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 31",
+            "tag": "🇸🇪SE | 🔴 | vless | @customv2ray | 31",
             "type": "vless",
             "server": "tun.ferdowsi.shop",
             "server_port": 2087,
@@ -1279,6 +1283,58 @@
             }
         },
         {
+            "tag": "🇨🇷CR | 🔴 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "ftp.tehransiman.co.uk",
+            "server_port": 443,
+            "uuid": "1095c290-04dd-404d-8bfd-b565e0a9eca3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Ruc80.TehrANsiMAn.co.UK.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "Ruc80.TehrANsiMAn.co.UK."
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "bg.com",
+            "server_port": 80,
+            "uuid": "16f76e48-b7ca-4540-a3b1-3a7c5eea2468",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2056",
+                "headers": {
+                    "Host": "bg.com"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
             "type": "vless",
             "server": "104.17.147.22",
@@ -1369,11 +1425,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+            "tag": "🇧🇬BG | 🔴 | vless | @flyv2ray | 7",
             "type": "vless",
-            "server": "151.101.128.155",
+            "server": "146.75.0.88",
             "server_port": 80,
-            "uuid": "7bcf2287-2787-4bd6-b445-028643268169",
+            "uuid": "fb0f7523-be20-4a7c-ad71-9eccd93f960d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1383,9 +1439,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
+                "path": "\/melo\/ws",
                 "headers": {
-                    "Host": "151.101.128.155"
+                    "Host": "146.75.0.88"
                 }
             }
         },
