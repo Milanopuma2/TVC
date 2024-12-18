@@ -120,7 +120,7 @@
                 "🇲🇽MX | 🟢 | vmess | @prrofile_purple | 120",
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 127",
                 "🇮🇳IN | 🟢 | vmess | @v2ray1_ng | 2",
-                "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
+                "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -156,7 +156,7 @@
                 "🇲🇽MX | 🟢 | vmess | @prrofile_purple | 120",
                 "🇩🇪DE | 🟢 | vmess | @prrofile_purple | 127",
                 "🇮🇳IN | 🟢 | vmess | @v2ray1_ng | 2",
-                "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
+                "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -466,7 +466,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 1",
             "type": "vmess",
             "server": "de01.tiktokcloud.us.kg",
             "server_port": 443,
