@@ -387,7 +387,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 13","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"0458b462-d079-4e14-9980-f7e23b0d4f36","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/ws/api?ed=2056","headers":{"host":"api.12speedtest.bond."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 14","type":"vless","server":"151.101.128.155","port":80,"udp":false,"uuid":"59433cc5-8c4b-4ca6-858d-cbf8eeede020","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048","headers":{"host":"Tehranc2.Org"}}}
   - {"name":"🇩🇪DE | 🟢 | vless | @kingofilter | 15","type":"vless","server":"san.dornagamesco.ir","port":1621,"udp":true,"uuid":"738fbb8d-bd2d-402a-b7bc-e63ad84fb107","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"wwww.refersion.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0","short-id":"3a622700e73c6642"}}
-  - {"name":"🇺🇸US | 🔴 | vless | @kingofilter | 17","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"91430cb0-546b-4508-b7e3-4aad338b0778","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2056","headers":{"host":"cn.www.speedtest.net.上帝.god.allah.12speedcheck.online."}}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @kingofilter | 17","type":"vless","server":"www.speedtest.net","port":8880,"udp":false,"uuid":"91430cb0-546b-4508-b7e3-4aad338b0778","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2056","headers":{"host":"cn.www.speedtest.net.上帝.god.allah.12speedcheck.online."}}}
   - {"name":"❔XX | 🔴 | vless | @IBv2ray | 0","type":"vless","server":"v2raxx.amalfatm.ir","port":2095,"udp":false,"uuid":"88ac5208-06c3-4438-a6cf-bb2d312f15f9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@V2RAXX-@V2RAXX?ed=2048","headers":{"host":"xn--047h.v2raxx6.shop."}}}
   - {"name":"🇸🇪SE | 🔴 | vless | @IBv2ray | 1","type":"vless","server":"185.146.173.32","port":2052,"udp":false,"uuid":"0811015a-99a3-4cae-9d56-c3ad37f6cc72","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@V2RAXX-@V2RAXX?ed=2048","headers":{"host":"xn--047h.v2raxx6.shop."}}}
   - {"name":"❔XX | 🔴 | vless | @IBv2ray | 2","type":"vless","server":"v2raxx.amalfatm.ir","port":8080,"udp":false,"uuid":"ec668804-3bf4-45f7-96df-28baa3707ee1","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@V2RAXX-@V2RAXX?ed=2048","headers":{"host":"xn--047h.v2raxx6.shop."}}}
@@ -668,7 +668,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @kingofilter | 13'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 14'
       - '🇩🇪DE | 🟢 | vless | @kingofilter | 15'
-      - '🇺🇸US | 🔴 | vless | @kingofilter | 17'
+      - '🇨🇦CA | 🔴 | vless | @kingofilter | 17'
       - '❔XX | 🔴 | vless | @IBv2ray | 0'
       - '🇸🇪SE | 🔴 | vless | @IBv2ray | 1'
       - '❔XX | 🔴 | vless | @IBv2ray | 2'
@@ -949,7 +949,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @kingofilter | 13'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 14'
       - '🇩🇪DE | 🟢 | vless | @kingofilter | 15'
-      - '🇺🇸US | 🔴 | vless | @kingofilter | 17'
+      - '🇨🇦CA | 🔴 | vless | @kingofilter | 17'
       - '❔XX | 🔴 | vless | @IBv2ray | 0'
       - '🇸🇪SE | 🔴 | vless | @IBv2ray | 1'
       - '❔XX | 🔴 | vless | @IBv2ray | 2'
@@ -1229,7 +1229,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @kingofilter | 13'
       - '🇺🇸US | 🔴 | vless | @kingofilter | 14'
       - '🇩🇪DE | 🟢 | vless | @kingofilter | 15'
-      - '🇺🇸US | 🔴 | vless | @kingofilter | 17'
+      - '🇨🇦CA | 🔴 | vless | @kingofilter | 17'
       - '❔XX | 🔴 | vless | @IBv2ray | 0'
       - '🇸🇪SE | 🔴 | vless | @IBv2ray | 1'
       - '❔XX | 🔴 | vless | @IBv2ray | 2'

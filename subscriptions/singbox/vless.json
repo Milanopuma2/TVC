@@ -509,7 +509,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 13",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 14",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 15",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 17",
+                "🇨🇦CA | 🔴 | vless | @kingofilter | 17",
                 "❔XX | 🔴 | vless | @IBv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @IBv2ray | 1",
                 "❔XX | 🔴 | vless | @IBv2ray | 2",
@@ -926,7 +926,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 13",
                 "🇺🇸US | 🔴 | vless | @kingofilter | 14",
                 "🇩🇪DE | 🟢 | vless | @kingofilter | 15",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 17",
+                "🇨🇦CA | 🔴 | vless | @kingofilter | 17",
                 "❔XX | 🔴 | vless | @IBv2ray | 0",
                 "🇸🇪SE | 🔴 | vless | @IBv2ray | 1",
                 "❔XX | 🔴 | vless | @IBv2ray | 2",
@@ -11303,7 +11303,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @kingofilter | 17",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
