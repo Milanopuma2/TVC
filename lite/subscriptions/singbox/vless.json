@@ -147,10 +147,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 313",
-                "🇮🇳IN | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 314",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -214,10 +213,9 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 13",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 313",
-                "🇮🇳IN | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 314",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 9",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 5",
@@ -1281,27 +1279,6 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 312",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "6d47d0cf-4ef8-4101-a3b9-9126b6875dc0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 313",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
@@ -1333,11 +1310,11 @@
             }
         },
         {
-            "tag": "🇮🇳IN | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 314",
             "type": "vless",
-            "server": "151.101.158.204",
+            "server": "hajlab.ucdavis.edu",
             "server_port": 80,
-            "uuid": "00efc48b-d68e-4e73-ab3b-60afa1bc72e6",
+            "uuid": "6d47d0cf-4ef8-4101-a3b9-9126b6875dc0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1347,18 +1324,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/olem\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd=4096",
+                "path": "\/",
                 "headers": {
-                    "Host": "151.101.158.204"
+                    "Host": "hajlab.ucdavis.edu"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "6efeb22b-af0f-4b90-ee5e-e5cab3913e90",
+            "server": "TLS.zeoaeriedo-saioesrio.ir",
+            "server_port": 2000,
+            "uuid": "a52ad37f-1ae6-4f9f-ac3b-6e4e5f8a3277",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1366,22 +1343,12 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd=4096",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu."
-                }
+                "type": "grpc",
+                "service_name": "\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
