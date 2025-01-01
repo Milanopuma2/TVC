@@ -125,9 +125,6 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 2",
                 "🇺🇸US | 🟢 | vless | @VmessProtocol | 5",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 15",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -171,9 +168,6 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 2",
                 "🇺🇸US | 🟢 | vless | @VmessProtocol | 5",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 11",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 2",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-                "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 15",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🟢 | vless | @nofiltering2 | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
@@ -744,100 +738,6 @@
                     "enabled": true,
                     "public_key": "fPtoPIDDJIW4pSY8TAFM0BKPA0ELOkX7ssc3i23SXlE",
                     "short_id": "75813316"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 2",
-            "type": "vless",
-            "server": "persian--k2k.gamebaz98.ir",
-            "server_port": 7870,
-            "uuid": "telegram-gozargah-azadi",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "wordpress.org",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM",
-                    "short_id": "5cebd3fd"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 11",
-            "type": "vless",
-            "server": "173.199.122.162",
-            "server_port": 443,
-            "uuid": "77f2d87d-c808-37d6-e70c-9aa442454eaa",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "roro44.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "09fO1eQEJfCiXw-CXd3oEkSoBx2hHpX5ZbpdKkUyuiw",
-                    "short_id": "82da0e90491e74f4"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "443vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | vless | @ConfigsHUB | 15",
-            "type": "vless",
-            "server": "195.26.225.89",
-            "server_port": 443,
-            "uuid": "GROZA_33753944",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "whatsapp.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mmZFnnyWQnL82G1ccBD1ym4HVvBSmyj8MgZ_5dkWHUE",
-                    "short_id": "ffffffffff"
                 }
             }
         },
