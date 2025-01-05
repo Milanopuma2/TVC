@@ -158,8 +158,8 @@
                 "🇮🇹IT | 🟢 | ss | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 72",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 73",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -235,8 +235,8 @@
                 "🇮🇹IT | 🟢 | ss | @VmessProtocol | 12",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 72",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 73",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
@@ -1438,11 +1438,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 15",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
+            "server": "188.114.96.3",
             "server_port": 443,
-            "uuid": "6c89998c-82b7-4570-e460-96c098e84eb3",
+            "uuid": "ffe6ffea-d8df-4efd-9fb1-ab093d6d0a2d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1452,7 +1452,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu.",
+                "server_name": "PpAl03.TavEn-rYDAn.WORkerS.DEv",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1462,18 +1462,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/olem\/ws?ed=4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
+                "path": "\/XDibuDFmB3fiURk1?ed=2560",
                 "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu."
+                    "Host": "PpAl03.TavEn-rYDAn.WORkerS.DEv"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "3e92c450-e23d-4826-e952-9cbe5a508e73",
+            "server": "15.204.153.78",
+            "server_port": 443,
+            "uuid": "3b9bc773-05eb-4d5f-8c1f-57342c0c4f40",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1481,11 +1481,14 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?ed=1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-                "headers": {
-                    "Host": "speedtest.net"
+            "tls": {
+                "enabled": true,
+                "server_name": "147135010103.sec19org.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
