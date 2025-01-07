@@ -108,10 +108,8 @@
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
                 "❔XX | 🔴 | vless | @VmessProtocol | 13",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -122,10 +120,8 @@
             "outbounds": [
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
                 "❔XX | 🔴 | vless | @VmessProtocol | 13",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -215,79 +211,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "37.27.15.167",
-            "server_port": 2052,
-            "uuid": "187556a8-e805-4eb8-8187-a59c89df211d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "miro.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8",
-                    "short_id": "4156caa9"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2052vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "37.27.3.97",
-            "server_port": 2052,
-            "uuid": "187556a8-e805-4eb8-8187-a59c89df211d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "joinplatinumrealty.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8",
-                    "short_id": "4156caa9"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "2052vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "35.90.70.3",
             "server_port": 1212,
@@ -316,7 +240,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "35.88.169.96",
             "server_port": 1212,
