@@ -106,51 +106,48 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @Lockey_vpn | 0",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "❔XX | 🔴 | vless | @v2logy | 6",
+                "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
+                "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+                "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
-                "❔XX | 🟢 | vless | @prrofile_purple | 128",
-                "❔XX | 🟢 | vless | @customv2ray | 3",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 2",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 14",
-                "❔XX | 🟢 | vless | @vless_vmess | 3",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 128",
+                "🇯🇵JP | 🟢 | vless | @customv2ray | 3",
+                "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
+                "🇫🇷FR | 🟢 | vless | @ShadowProxy66 | 3",
+                "🇫🇷FR | 🟢 | vless | @ShadowProxy66 | 14",
+                "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "❔XX | 🟢 | vless | @DailyV2RY | 146",
-                "❔XX | 🔴 | vless | @DailyV2RY | 147",
-                "❔XX | 🔴 | vless | @DailyV2RY | 148",
-                "❔XX | 🔴 | vless | @DailyV2RY | 149",
-                "❔XX | 🔴 | vless | @DailyV2RY | 150",
-                "❔XX | 🔴 | vless | @DailyV2RY | 151",
-                "❔XX | 🔴 | vless | @DailyV2RY | 152",
-                "❔XX | 🔴 | vless | @DailyV2RY | 154",
-                "❔XX | 🔴 | vless | @DailyV2RY | 155",
-                "❔XX | 🔴 | vless | @DailyV2RY | 156",
-                "❔XX | 🔴 | vless | @DailyV2RY | 157",
-                "❔XX | 🔴 | vless | @DailyV2RY | 158",
-                "❔XX | 🔴 | vless | @DailyV2RY | 159",
-                "❔XX | 🔴 | vless | @DailyV2RY | 160",
-                "❔XX | 🔴 | vless | @DailyV2RY | 161",
-                "❔XX | 🔴 | vless | @DailyV2RY | 170",
-                "❔XX | 🔴 | vless | @DailyV2RY | 171",
-                "❔XX | 🔴 | vless | @DailyV2RY | 172",
-                "❔XX | 🔴 | vless | @DailyV2RY | 173",
-                "❔XX | 🔴 | vless | @DailyV2RY | 174",
-                "❔XX | 🔴 | vless | @DailyV2RY | 175",
-                "❔XX | 🔴 | vless | @DailyV2RY | 176",
-                "❔XX | 🔴 | vless | @DailyV2RY | 177",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 10",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 13",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 14",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 3",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 4",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 5",
-                "❔XX | 🔴 | vless | @nofiltering2 | 14",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 146",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 147",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 148",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 149",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 150",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 151",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 152",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 154",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 155",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 156",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 157",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 158",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 159",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 160",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 161",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 170",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 171",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 172",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 173",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 174",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 175",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 176",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 177",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 3",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 4",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 5",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 14",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -166,60 +163,57 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @kingofilter | 1",
-                "❔XX | 🔴 | vless | @kingofilter | 4",
-                "❔XX | 🟢 | vless | @kingofilter | 8"
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 1",
+                "🇫🇷FR | 🔴 | vless | @kingofilter | 4",
+                "🇳🇱NL | 🟢 | vless | @kingofilter | 8"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @Lockey_vpn | 0",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
-                "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
-                "❔XX | 🔴 | vless | @v2logy | 6",
+                "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
+                "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
+                "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+                "🇩🇪DE | 🔴 | vless | @v2logy | 6",
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
-                "❔XX | 🟢 | vless | @prrofile_purple | 128",
-                "❔XX | 🟢 | vless | @customv2ray | 3",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 2",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
-                "❔XX | 🟢 | vless | @ShadowProxy66 | 14",
-                "❔XX | 🟢 | vless | @vless_vmess | 3",
+                "🇩🇪DE | 🟢 | vless | @prrofile_purple | 128",
+                "🇯🇵JP | 🟢 | vless | @customv2ray | 3",
+                "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
+                "🇫🇷FR | 🟢 | vless | @ShadowProxy66 | 3",
+                "🇫🇷FR | 🟢 | vless | @ShadowProxy66 | 14",
+                "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "❔XX | 🟢 | vless | @DailyV2RY | 146",
-                "❔XX | 🔴 | vless | @DailyV2RY | 147",
-                "❔XX | 🔴 | vless | @DailyV2RY | 148",
-                "❔XX | 🔴 | vless | @DailyV2RY | 149",
-                "❔XX | 🔴 | vless | @DailyV2RY | 150",
-                "❔XX | 🔴 | vless | @DailyV2RY | 151",
-                "❔XX | 🔴 | vless | @DailyV2RY | 152",
-                "❔XX | 🔴 | vless | @DailyV2RY | 154",
-                "❔XX | 🔴 | vless | @DailyV2RY | 155",
-                "❔XX | 🔴 | vless | @DailyV2RY | 156",
-                "❔XX | 🔴 | vless | @DailyV2RY | 157",
-                "❔XX | 🔴 | vless | @DailyV2RY | 158",
-                "❔XX | 🔴 | vless | @DailyV2RY | 159",
-                "❔XX | 🔴 | vless | @DailyV2RY | 160",
-                "❔XX | 🔴 | vless | @DailyV2RY | 161",
-                "❔XX | 🔴 | vless | @DailyV2RY | 170",
-                "❔XX | 🔴 | vless | @DailyV2RY | 171",
-                "❔XX | 🔴 | vless | @DailyV2RY | 172",
-                "❔XX | 🔴 | vless | @DailyV2RY | 173",
-                "❔XX | 🔴 | vless | @DailyV2RY | 174",
-                "❔XX | 🔴 | vless | @DailyV2RY | 175",
-                "❔XX | 🔴 | vless | @DailyV2RY | 176",
-                "❔XX | 🔴 | vless | @DailyV2RY | 177",
-                "❔XX | 🔴 | vless | @ConfigsHUB | 2",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 10",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 13",
-                "❔XX | 🟢 | vless | @ConfigsHUB | 14",
-                "❔XX | 🔴 | vless | @fnet00 | 0",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 3",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 4",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 5",
-                "❔XX | 🔴 | vless | @nofiltering2 | 14",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 146",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 147",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 148",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 149",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 150",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 151",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 152",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 154",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 155",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 156",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 157",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 158",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 159",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 160",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 161",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 170",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 171",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 172",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 173",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 174",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 175",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 176",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 177",
+                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
+                "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 3",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 4",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 5",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 14",
                 "❔XX | 🔴 | vless | @vpn_go67 | 7",
                 "❔XX | 🔴 | vless | @vpn_go67 | 8",
                 "❔XX | 🔴 | vless | @vpn_go67 | 9",
@@ -235,9 +229,9 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @kingofilter | 1",
-                "❔XX | 🔴 | vless | @kingofilter | 4",
-                "❔XX | 🟢 | vless | @kingofilter | 8"
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 1",
+                "🇫🇷FR | 🔴 | vless | @kingofilter | 4",
+                "🇳🇱NL | 🟢 | vless | @kingofilter | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -260,7 +254,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Lockey_vpn | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @Lockey_vpn | 0",
             "type": "vless",
             "server": "r.iphone-shopp.ir",
             "server_port": 5743,
@@ -296,7 +290,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 9",
             "type": "vless",
             "server": "49.13.113.114",
             "server_port": 8443,
@@ -325,7 +319,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 12",
+            "tag": "🇩🇪DE | 🟢 | vless | @CUSTOMVPNSERVER | 12",
             "type": "vless",
             "server": "94.130.183.41",
             "server_port": 1503,
@@ -354,7 +348,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @CUSTOMVPNSERVER | 13",
+            "tag": "🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13",
             "type": "vless",
             "server": "95.217.31.246",
             "server_port": 18929,
@@ -383,7 +377,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @v2logy | 6",
+            "tag": "🇩🇪DE | 🔴 | vless | @v2logy | 6",
             "type": "vless",
             "server": "188.245.65.59",
             "server_port": 443,
@@ -455,7 +449,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @prrofile_purple | 128",
+            "tag": "🇩🇪DE | 🟢 | vless | @prrofile_purple | 128",
             "type": "vless",
             "server": "persian--k2k.gamebaz98.ir",
             "server_port": 7870,
@@ -484,7 +478,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @customv2ray | 3",
+            "tag": "🇯🇵JP | 🟢 | vless | @customv2ray | 3",
             "type": "vless",
             "server": "sakura.aaaa.gay",
             "server_port": 443,
@@ -513,7 +507,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ShadowProxy66 | 2",
+            "tag": "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
             "type": "vless",
             "server": "91.107.141.239",
             "server_port": 1357,
@@ -542,7 +536,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ShadowProxy66 | 3",
+            "tag": "🇫🇷FR | 🟢 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "95.179.213.48",
             "server_port": 8082,
@@ -571,7 +565,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ShadowProxy66 | 14",
+            "tag": "🇫🇷FR | 🟢 | vless | @ShadowProxy66 | 14",
             "type": "vless",
             "server": "185.255.112.175",
             "server_port": 5600,
@@ -600,7 +594,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @vless_vmess | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @vless_vmess | 3",
             "type": "vless",
             "server": "172.233.174.160",
             "server_port": 80,
@@ -658,7 +652,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 146",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 146",
             "type": "vless",
             "server": "54.82.122.157",
             "server_port": 1212,
@@ -687,7 +681,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 147",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 147",
             "type": "vless",
             "server": "54.184.240.239",
             "server_port": 1212,
@@ -716,7 +710,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 148",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 148",
             "type": "vless",
             "server": "54.167.251.120",
             "server_port": 1212,
@@ -745,7 +739,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 149",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 149",
             "type": "vless",
             "server": "52.37.217.95",
             "server_port": 1212,
@@ -774,7 +768,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 150",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 150",
             "type": "vless",
             "server": "3.80.230.45",
             "server_port": 1212,
@@ -803,7 +797,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 151",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 151",
             "type": "vless",
             "server": "3.135.196.28",
             "server_port": 1212,
@@ -832,7 +826,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 152",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 152",
             "type": "vless",
             "server": "18.236.191.161",
             "server_port": 1212,
@@ -861,7 +855,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 154",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 154",
             "type": "vless",
             "server": "54.245.189.24",
             "server_port": 1212,
@@ -890,7 +884,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 155",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 155",
             "type": "vless",
             "server": "54.244.190.11",
             "server_port": 1212,
@@ -919,7 +913,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 156",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 156",
             "type": "vless",
             "server": "54.191.241.48",
             "server_port": 1212,
@@ -948,7 +942,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 157",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 157",
             "type": "vless",
             "server": "44.245.159.72",
             "server_port": 1212,
@@ -977,7 +971,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 158",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 158",
             "type": "vless",
             "server": "3.17.75.90",
             "server_port": 1212,
@@ -1006,7 +1000,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 159",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 159",
             "type": "vless",
             "server": "3.147.49.20",
             "server_port": 1212,
@@ -1035,7 +1029,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 160",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 160",
             "type": "vless",
             "server": "3.145.103.60",
             "server_port": 1212,
@@ -1064,7 +1058,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 161",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 161",
             "type": "vless",
             "server": "13.59.191.198",
             "server_port": 1212,
@@ -1093,7 +1087,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 170",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 170",
             "type": "vless",
             "server": "98.80.78.182",
             "server_port": 1212,
@@ -1122,7 +1116,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 171",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 171",
             "type": "vless",
             "server": "44.204.130.15",
             "server_port": 1212,
@@ -1151,7 +1145,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 172",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 172",
             "type": "vless",
             "server": "35.95.112.127",
             "server_port": 1212,
@@ -1180,7 +1174,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 173",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 173",
             "type": "vless",
             "server": "35.175.140.247",
             "server_port": 1212,
@@ -1209,7 +1203,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 174",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 174",
             "type": "vless",
             "server": "34.205.142.229",
             "server_port": 1212,
@@ -1238,7 +1232,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 175",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 175",
             "type": "vless",
             "server": "18.237.254.175",
             "server_port": 1212,
@@ -1267,7 +1261,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 176",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 176",
             "type": "vless",
             "server": "18.234.34.108",
             "server_port": 1212,
@@ -1296,7 +1290,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 177",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 177",
             "type": "vless",
             "server": "18.191.150.96",
             "server_port": 1212,
@@ -1325,11 +1319,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 8",
             "type": "vless",
-            "server": "ns9.esfahansiman.com",
-            "server_port": 1210,
-            "uuid": "23598003-ca74-4416-af8d-98904d5a50cc",
+            "server": "35.174.107.238",
+            "server_port": 1212,
+            "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1339,7 +1333,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ubuntu.com",
+                "server_name": "35.174.107.238",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1348,107 +1342,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "7fe29733"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@@jet_config-@jet_config-@jet_config",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 10",
-            "type": "vless",
-            "server": "v2london.aaaa.gay",
-            "server_port": 443,
-            "uuid": "d2093082-a38a-316b-adcb-71013e595bd0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tesla.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM",
+                    "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
                     "short_id": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 13",
-            "type": "vless",
-            "server": "91.107.141.239",
-            "server_port": 1357,
-            "uuid": "5b29869b-0b6e-490f-907a-c99e818ce3ed",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "1u1Y_g3iEMwXx2_DwVZFwxwPzgbEI7xvMPWUf0pmPFw",
-                    "short_id": "bd33881a"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 14",
-            "type": "vless",
-            "server": "160.16.99.218",
-            "server_port": 443,
-            "uuid": "d2093082-a38a-316b-adcb-71013e595bd0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tesla.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @fnet00 | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
             "type": "vless",
             "server": "mysql-panel.karaj-game-farsi.ir",
             "server_port": 1413,
@@ -1484,7 +1384,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 3",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "54.188.28.8",
             "server_port": 1212,
@@ -1513,7 +1413,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 4",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
             "server": "35.85.56.23",
             "server_port": 1212,
@@ -1542,7 +1442,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 5",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
             "server": "3.145.64.2",
             "server_port": 1212,
@@ -1571,7 +1471,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @nofiltering2 | 14",
+            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 14",
             "type": "vless",
             "server": "arash1.ailreza.org.tr",
             "server_port": 4030,
@@ -2147,7 +2047,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 1",
             "type": "vless",
             "server": "ssl-marz.tan3.ir",
             "server_port": 8443,
@@ -2183,7 +2083,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 4",
+            "tag": "🇫🇷FR | 🔴 | vless | @kingofilter | 4",
             "type": "vless",
             "server": "136.244.115.217",
             "server_port": 8080,
@@ -2219,7 +2119,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @kingofilter | 8",
+            "tag": "🇳🇱NL | 🟢 | vless | @kingofilter | 8",
             "type": "vless",
             "server": "174.138.13.224",
             "server_port": 15891,
