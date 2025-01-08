@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 18",
+                "🇪🇸ES | 🟢 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -119,7 +119,7 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 18",
+                "🇪🇸ES | 🟢 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -175,11 +175,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇪🇸ES | 🟢 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "51.178.249.1",
-            "server_port": 30090,
-            "uuid": "15d52229-a5db-4c42-84d9-105e60ed1d2b",
+            "server": "141.227.128.218",
+            "server_port": 1210,
+            "uuid": "23598003-ca74-4416-af8d-98904d5a50cc",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -189,7 +189,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "ubuntu.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -198,13 +198,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "Tqb5oaBTWV7I6wNP1LluGFw0gYtvIi20jlImrpZ_miQ",
-                    "short_id": "3815632cb5e12f20"
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "7fe29733"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "\/@v2rayip1------@v2rayip1------@v2rayip1------@v2rayip1------@v2rayip1------@v2rayip1------@v2rayip1------@v2rayip1------@v2rayip1",
+                "service_name": "@@jet_config-@jet_config-@jet_config",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
