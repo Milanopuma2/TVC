@@ -148,7 +148,7 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 191",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 192",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -214,7 +214,7 @@
                 "❔XX | 🟢 | vless | @VmessProtocol | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 191",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 192",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
                 "🇸🇪SE | 🔴 | vless | @free1_vpn | 9",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
@@ -1247,11 +1247,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
+            "server": "151.101.194.133",
             "server_port": 443,
-            "uuid": "tell--ZEDMODEON",
+            "uuid": "telegram-id-ArV2ray",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1261,7 +1261,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "server_name": "mio.splashthat.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1271,9 +1271,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
+                    "Host": "mio.splashthat.com"
                 }
             }
         },
