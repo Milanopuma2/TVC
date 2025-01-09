@@ -108,6 +108,7 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 170",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 171",
+                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 15",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
@@ -119,6 +120,7 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 170",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 171",
+                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 15",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
@@ -198,6 +200,35 @@
                     "enabled": true,
                     "public_key": "RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A",
                     "short_id": "a4844ba7"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "87.98.149.193",
+            "server_port": 443,
+            "uuid": "59b40e12-bc22-425c-9056-330d49b2ff7e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tgju.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B9s5sNb0bSLLiUhofHrgaBPGrS6yz3VEpvPXG-YDGwE",
+                    "short_id": "c4"
                 }
             }
         },
