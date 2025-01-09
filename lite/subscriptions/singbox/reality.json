@@ -109,7 +109,6 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 193",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 194",
                 "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -121,7 +120,6 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 193",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 194",
                 "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -228,35 +226,6 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "1tA2CIltAtu_CMKCMWqH4zuRi-EA9LFG9Wz6SI0_sG4",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷FR | 🟢 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "185.255.112.175",
-            "server_port": 5610,
-            "uuid": "c831e441-42fb-40c2-9be5-7142c2e893d2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic",
                     "short_id": ""
                 }
             }
