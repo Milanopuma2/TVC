@@ -106,10 +106,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 249",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 250",
-                "🇪🇸ES | 🔴 | vless | @ConfigsHUB | 10",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 263",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 264",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -118,10 +117,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 249",
-                "🇺🇸US | 🟢 | vless | @DailyV2RY | 250",
-                "🇪🇸ES | 🔴 | vless | @ConfigsHUB | 10",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
+                "🇺🇸US | 🟢 | vless | @DailyV2RY | 263",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 264",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 17",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -146,9 +144,9 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 249",
+            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 263",
             "type": "vless",
-            "server": "18.220.15.83",
+            "server": "18.220.70.231",
             "server_port": 1212,
             "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
             "flow": "xtls-rprx-vision",
@@ -175,9 +173,9 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @DailyV2RY | 250",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 264",
             "type": "vless",
-            "server": "18.117.92.73",
+            "server": "18.218.10.118",
             "server_port": 1212,
             "uuid": "a7e04b44-855e-4fe7-8fa0-31894e928bce",
             "flow": "xtls-rprx-vision",
@@ -204,11 +202,11 @@
             }
         },
         {
-            "tag": "🇪🇸ES | 🔴 | vless | @ConfigsHUB | 10",
+            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "141.227.128.218",
-            "server_port": 2030,
-            "uuid": "4f1268ee-9ddf-4aa1-8e97-60282557fa97",
+            "server": "turkey.tinadresses.ir",
+            "server_port": 5050,
+            "uuid": "d6751db8-472c-7c4f-f1b3-0d95e6a62427",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -218,7 +216,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "refersion.com",
+                "server_name": "stackoverflow.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -227,49 +225,13 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "7fe29733"
+                    "public_key": "qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134",
+                    "short_id": "31e7200536a1ad45"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@@jet_config-@jet_config-@jet_config",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 11",
-            "type": "vless",
-            "server": "135.125.244.42",
-            "server_port": 2030,
-            "uuid": "41bb7247-c37a-48ab-8421-c9f76f4ed570",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
-                    "short_id": "7fe29733"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@@jet_config-@jet_config-@jet_config",
+                "service_name": "666vless",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
