@@ -106,11 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 309",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 310",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
-                "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 11",
+                "❔XX | 🔴 | vless | @VmessProtocol | 6",
+                "❔XX | 🔴 | vless | @DailyV2RY | 309",
+                "❔XX | 🔴 | vless | @DailyV2RY | 310",
+                "❔XX | 🟢 | vless | @ConfigsHUB | 14",
+                "❔XX | 🔴 | vless | @proxystore11 | 0",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ]
@@ -119,11 +120,12 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 309",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 310",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
-                "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 11",
+                "❔XX | 🔴 | vless | @VmessProtocol | 6",
+                "❔XX | 🔴 | vless | @DailyV2RY | 309",
+                "❔XX | 🔴 | vless | @DailyV2RY | 310",
+                "❔XX | 🟢 | vless | @ConfigsHUB | 14",
+                "❔XX | 🔴 | vless | @proxystore11 | 0",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21"
             ],
@@ -148,7 +150,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VmessProtocol | 6",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 6",
             "type": "vless",
             "server": "91.184.241.49",
             "server_port": 1300,
@@ -184,7 +186,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 309",
+            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 309",
             "type": "vless",
             "server": "18.220.37.224",
             "server_port": 1212,
@@ -213,7 +215,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 310",
+            "tag": "❔XX | 🔴 | vless | @DailyV2RY | 310",
             "type": "vless",
             "server": "13.59.183.200",
             "server_port": 1212,
@@ -242,7 +244,36 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
+            "tag": "❔XX | 🟢 | vless | @ConfigsHUB | 14",
+            "type": "vless",
+            "server": "80.240.112.94",
+            "server_port": 443,
+            "uuid": "c39d34d1-8723-42fd-a63d-1c857c76249a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mD8V76JrLVJQrQXtyNVgcqwptE9PzcF8nEJe3MyhTDY",
+                    "short_id": "f0db85b11110c6"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @proxystore11 | 0",
             "type": "vless",
             "server": "138.124.24.252",
             "server_port": 8443,
@@ -271,7 +302,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "CN.GiSVN.iR",
             "server_port": 443,
