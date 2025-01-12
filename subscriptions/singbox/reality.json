@@ -150,7 +150,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
+                "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 1",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -225,7 +225,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 303",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 304",
-                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
+                "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 1",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
@@ -1597,11 +1597,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 2",
+            "tag": "🇨🇦CA | 🟢 | vless | @ConfigsHUB | 1",
             "type": "vless",
-            "server": "deko.tinadresses.ir",
-            "server_port": 5048,
-            "uuid": "db5f9170-55bd-9aea-d46d-78342d83fcf8",
+            "server": "51.79.30.171",
+            "server_port": 2087,
+            "uuid": "6b1d9fd7-af1b-4c17-ab5f-ea819c6e6c13",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1611,7 +1611,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "stackoverflow.com",
+                "server_name": "sourceforge.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1620,16 +1620,9 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134",
-                    "short_id": "31e7200536a1ad45"
+                    "public_key": "JUN-7HBeQ2lBDM-zUlzUyo3A8WK1AGzfbZLM9oqiwDA",
+                    "short_id": "36c4ca7c13dc640f"
                 }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "666vless",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
