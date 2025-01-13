@@ -106,7 +106,9 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 10",
+                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
+                "🇪🇸ES | 🔴 | vless | @ConfigsHUB | 8",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇫🇮FI | 🔴 | vless | @Outlinev2rayNG | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -117,7 +119,9 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 10",
+                "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
+                "🇪🇸ES | 🔴 | vless | @ConfigsHUB | 8",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 0",
                 "🇫🇮FI | 🔴 | vless | @Outlinev2rayNG | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -144,7 +148,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @VmessProtocol | 10",
+            "tag": "🇸🇪SE | 🔴 | vless | @VmessProtocol | 11",
             "type": "vless",
             "server": "91.184.241.49",
             "server_port": 1300,
@@ -174,6 +178,78 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "1300vless",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 7",
+            "type": "vless",
+            "server": "ns6.esfahansiman.com",
+            "server_port": 2030,
+            "uuid": "77f680d1-1881-4b16-9eac-b8882c05fe62",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "7fe29733"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@@jet_config-@jet_config-@jet_config",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇪🇸ES | 🔴 | vless | @ConfigsHUB | 8",
+            "type": "vless",
+            "server": "ns7.esfahansiman.com",
+            "server_port": 2030,
+            "uuid": "77f680d1-1881-4b16-9eac-b8882c05fe62",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E",
+                    "short_id": "7fe29733"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@@jet_config-@jet_config-@jet_config",
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
