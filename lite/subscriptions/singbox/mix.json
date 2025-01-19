@@ -152,7 +152,6 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
-                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 249",
                 "🇸🇬SG | 🔴 | vless | @DailyV2RY | 250",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
@@ -228,7 +227,6 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "🇩🇪DE | 🔴 | vless | @MTConfig | 12",
-                "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 249",
                 "🇸🇬SG | 🔴 | vless | @DailyV2RY | 250",
                 "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
@@ -1358,16 +1356,6 @@
                     "Host": "sni2.tohid3aeed.com"
                 }
             }
-        },
-        {
-            "tag": "🇳🇱NL | 🟢 | ss | @VmessProtocol | 15",
-            "type": "shadowsocks",
-            "server": "45.158.171.66",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 249",
