@@ -142,7 +142,7 @@
                 "🇷🇺RU | 🔴 | vless | @ShadowProxy66 | 57",
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 43",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
@@ -168,7 +168,7 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
-                "🇨🇦CA | 🔴 | vless | @nofiltering2 | 8",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 8",
                 "🇬🇧GB | 🔴 | vless | @proxy_mtm | 3",
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -221,7 +221,7 @@
                 "🇷🇺RU | 🔴 | vless | @ShadowProxy66 | 57",
                 "❔XX | 🔴 | vless | @ServerNett | 15",
                 "❔XX | 🔴 | vless | @ServerNett | 16",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 43",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 0",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
@@ -247,7 +247,7 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 8",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 9",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 7",
-                "🇨🇦CA | 🔴 | vless | @nofiltering2 | 8",
+                "🇺🇸US | 🔴 | vless | @nofiltering2 | 8",
                 "🇬🇧GB | 🔴 | vless | @proxy_mtm | 3",
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 4",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -1072,7 +1072,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 43",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1746,7 +1746,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @nofiltering2 | 8",
+            "tag": "🇺🇸US | 🔴 | vless | @nofiltering2 | 8",
             "type": "vless",
             "server": "104.22.70.106",
             "server_port": 443,
