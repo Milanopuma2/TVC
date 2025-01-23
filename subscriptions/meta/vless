@@ -324,7 +324,6 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 178","type":"vless","server":"cash.ns.cloudflare.com","port":443,"udp":false,"uuid":"79ba668f-14fc-4f0a-aae3-9b4bb0fd012c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"wgw5iq.allgums.com","ws-opts":{"path":"/wss","headers":{"host":"wgw5iq.allgums.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 180","type":"vless","server":"44.244.253.122","port":443,"udp":true,"uuid":"3c040157-b103-423e-89ac-23c768dea8a7","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.openstreetmap.org","reality-opts":{"public-key":"HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4","short-id":"a45eed54009e54de"}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 181","type":"vless","server":"34.219.255.29","port":443,"udp":true,"uuid":"3c040157-b103-423e-89ac-23c768dea8a7","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.openstreetmap.org","reality-opts":{"public-key":"HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4","short-id":"a45eed54009e54de"}}
-  - {"name":"🇸🇪SE | 🔴 | vless | @proxystore11 | 1","type":"vless","server":"138.124.24.252","port":8443,"udp":true,"uuid":"4ca8471c-3e70-47e3-b09e-9541f259618b","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"yahoo.com","reality-opts":{"public-key":"AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM","short-id":"1b7d7614d14c"}}
   - {"name":"🇫🇮FI | 🔴 | vless | @free1_vpn | 1","type":"vless","server":"65.109.211.154","port":443,"udp":true,"uuid":"d76542c9-916e-41bb-ad0d-fa37971a8b2e","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"yahoo.com","reality-opts":{"public-key":"CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I","short-id":"4b272f845593"}}
   - {"name":"🇫🇷FR | 🔴 | vless | @free1_vpn | 5","type":"vless","server":"185.153.183.144","port":3237,"udp":false,"uuid":"1d86846c-5a27-43c8-8981-57bb75c82195","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | vless | @free1_vpn | 12","type":"vless","server":"104.17.43.21","port":443,"udp":false,"uuid":"4d7969d9-5ec4-44b2-88e4-a153245bdd18","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev","ws-opts":{"path":"/?ed=2048","headers":{"host":"xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev"}}}
@@ -594,7 +593,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 178'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 180'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 181'
-      - '🇸🇪SE | 🔴 | vless | @proxystore11 | 1'
       - '🇫🇮FI | 🔴 | vless | @free1_vpn | 1'
       - '🇫🇷FR | 🔴 | vless | @free1_vpn | 5'
       - '🚩CF | 🔴 | vless | @free1_vpn | 12'
@@ -864,7 +862,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 178'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 180'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 181'
-      - '🇸🇪SE | 🔴 | vless | @proxystore11 | 1'
       - '🇫🇮FI | 🔴 | vless | @free1_vpn | 1'
       - '🇫🇷FR | 🔴 | vless | @free1_vpn | 5'
       - '🚩CF | 🔴 | vless | @free1_vpn | 12'
@@ -1133,7 +1130,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 178'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 180'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 181'
-      - '🇸🇪SE | 🔴 | vless | @proxystore11 | 1'
       - '🇫🇮FI | 🔴 | vless | @free1_vpn | 1'
       - '🇫🇷FR | 🔴 | vless | @free1_vpn | 5'
       - '🚩CF | 🔴 | vless | @free1_vpn | 12'

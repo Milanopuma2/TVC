@@ -412,7 +412,6 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 180",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 181",
                 "🇬🇧GB | 🔴 | vless | @DailyV2RY | 182",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇫🇮FI | 🔴 | vless | @free1_vpn | 1",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
@@ -812,7 +811,6 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 180",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 181",
                 "🇬🇧GB | 🔴 | vless | @DailyV2RY | 182",
-                "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
                 "🇫🇮FI | 🔴 | vless | @free1_vpn | 1",
                 "🇫🇷FR | 🔴 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 10",
@@ -8747,35 +8745,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "64.176.187.137"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @proxystore11 | 1",
-            "type": "vless",
-            "server": "138.124.24.252",
-            "server_port": 8443,
-            "uuid": "4ca8471c-3e70-47e3-b09e-9541f259618b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM",
-                    "short_id": "1b7d7614d14c"
                 }
             }
         },
