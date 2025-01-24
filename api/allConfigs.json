@@ -392,6 +392,15 @@
             "title": null,
             "logo": null
         },
+        "type": "vless",
+        "config": "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.46.26:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇬🇧GB%20|%20🔴%20|%20vless%20|%20@VlessConfig%20|%2017"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
         "type": "reality",
         "config": "vless:\/\/388fde41-5c20-4919-96aa-46d6d164ce7e@c2.vact.ir:2083?security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#🇩🇪DE%20|%20🟢%20|%20vless%20|%20@ipV2Ray%20|%200"
     },
@@ -510,7 +519,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%200"
+        "config": "vless:\/\/biainZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON--ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%200"
     },
     {
         "channel": {
@@ -519,7 +528,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%201"
+        "config": "vless:\/\/ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%201"
     },
     {
         "channel": {
@@ -528,7 +537,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/biaZEDMODEON--joininZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irannsr.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%202"
+        "config": "vless:\/\/ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%202"
     },
     {
         "channel": {
@@ -537,7 +546,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/biaZEDMODEON--joininZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%203"
+        "config": "vless:\/\/biaZEDMODEON--joininZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irannsr.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%203"
     },
     {
         "channel": {
@@ -546,7 +555,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/biaZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%204"
+        "config": "vless:\/\/biaZEDMODEON--joininZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%204"
     },
     {
         "channel": {
@@ -555,7 +564,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/biaZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%206"
+        "config": "vless:\/\/biaZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%205"
     },
     {
         "channel": {
@@ -564,7 +573,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%207"
+        "config": "vless:\/\/biaZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%207"
     },
     {
         "channel": {
@@ -573,7 +582,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=offch.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%208"
+        "config": "vless:\/\/ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%208"
     },
     {
         "channel": {
@@ -582,7 +591,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=rmto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%209"
+        "config": "vless:\/\/ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=offch.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%209"
     },
     {
         "channel": {
@@ -591,7 +600,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2010"
+        "config": "vless:\/\/Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=rmto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2010"
     },
     {
         "channel": {
@@ -600,7 +609,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2011"
+        "config": "vless:\/\/tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=irantvto.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2011"
     },
     {
         "channel": {
@@ -609,7 +618,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2012"
+        "config": "vless:\/\/join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2012"
     },
     {
         "channel": {
@@ -618,7 +627,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2013"
+        "config": "vless:\/\/tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#🇺🇸US%20|%20🔴%20|%20vless%20|%20@V2pedia%20|%2013"
     },
     {
         "channel": {
@@ -1356,6 +1365,15 @@
             "logo": null
         },
         "type": "trojan",
+        "config": "trojan:\/\/telegram-id-privatevpns@18.132.92.102:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB%20|%20🟢%20|%20trojan%20|%20@PrivateVPNs%20|%2017"
+    },
+    {
+        "channel": {
+            "username": "trojan",
+            "title": null,
+            "logo": null
+        },
+        "type": "trojan",
         "config": "trojan:\/\/telegram-id-directvpn@18.119.21.16:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%200"
     },
     {
@@ -1501,6 +1519,15 @@
         },
         "type": "trojan",
         "config": "trojan:\/\/telegram-id-directvpn@44.207.53.249:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2016"
+    },
+    {
+        "channel": {
+            "username": "trojan",
+            "title": null,
+            "logo": null
+        },
+        "type": "trojan",
+        "config": "trojan:\/\/telegram-id-directvpn@18.118.190.54:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20🟢%20|%20trojan%20|%20@DirectVPN%20|%2017"
     },
     {
         "channel": {
@@ -3961,15 +3988,6 @@
     },
     {
         "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2FiYWFiYy1hYmNhLWJhYWMtYWRiYy1jYmNiYWFiY2FjYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHUyNzU0WFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDkifQ=="
-    },
-    {
-        "channel": {
             "username": "vless",
             "title": null,
             "logo": null
@@ -4056,7 +4074,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.10:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
+        "config": "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=spb1.fromblancwithlove.com#🇷🇺RU%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%200"
     },
     {
         "channel": {
@@ -4065,7 +4083,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.9:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%201"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.10:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%201"
     },
     {
         "channel": {
@@ -4074,7 +4092,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#🇸🇪SE%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%202"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.9:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%202"
     },
     {
         "channel": {
@@ -4083,7 +4101,16 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=bru-be-01.fromblancwithlove.com#🇧🇪BE%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%203"
+        "config": "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#🇸🇪SE%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%203"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
+        "type": "vless",
+        "config": "vless:\/\/157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=bru-be-01.fromblancwithlove.com#🇧🇪BE%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%204"
     },
     {
         "channel": {
@@ -4092,7 +4119,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@sg04.ssr.ee:55560?security=reality&encryption=none&pbk=Dvv84goWLMnFoZWWLI8xtEErCIao_XnzXUVz9ryVSAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🇸🇬SG%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%204"
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@sg04.ssr.ee:55560?security=reality&encryption=none&pbk=Dvv84goWLMnFoZWWLI8xtEErCIao_XnzXUVz9ryVSAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🇸🇬SG%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%205"
     },
     {
         "channel": {
@@ -4101,7 +4128,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%205"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%206"
     },
     {
         "channel": {
@@ -4110,7 +4137,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.22:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%206"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.22:8880?mode=gun&security=none&encryption=none&type=grpc#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%207"
     },
     {
         "channel": {
@@ -4119,7 +4146,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%207"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
     },
     {
         "channel": {
@@ -4128,7 +4155,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443?security=reality&encryption=none&pbk=Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🇺🇸US%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%208"
+        "config": "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443?security=reality&encryption=none&pbk=Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#🇺🇸US%20|%20🟢%20|%20vless%20|%20@Outlinev2rayNG%20|%209"
     },
     {
         "channel": {
@@ -4137,7 +4164,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%209"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸US%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2010"
     },
     {
         "channel": {
@@ -4146,7 +4173,7 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱NL%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2010"
+        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱NL%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2011"
     },
     {
         "channel": {
