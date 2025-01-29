@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇫🇷FR | 🟢 | vmess | @customv2ray | 11",
+                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 150",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇫🇷FR | 🟢 | vmess | @Hope_Net | 1",
@@ -123,7 +123,7 @@
             "outbounds": [
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇫🇷FR | 🟢 | vmess | @customv2ray | 11",
+                "🇺🇸US | 🟢 | vmess | @prrofile_purple | 150",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇫🇷FR | 🟢 | vmess | @Hope_Net | 1",
@@ -186,11 +186,11 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vmess | @customv2ray | 11",
+            "tag": "🇺🇸US | 🟢 | vmess | @prrofile_purple | 150",
             "type": "vmess",
-            "server": "irvideo.cfd",
-            "server_port": 443,
-            "uuid": "e537f2f5-2a0c-4f59-92c9-832ca6433bf3",
+            "server": "104.19.150.10",
+            "server_port": 2095,
+            "uuid": "94f332b0-c5d3-4531-a1d6-6e6358cc6c72",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -200,23 +200,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": ""
-                }
             }
         },
         {
