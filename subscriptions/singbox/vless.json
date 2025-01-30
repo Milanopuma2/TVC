@@ -302,7 +302,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 37",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 38",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 39",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 40",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 41",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 42",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -650,7 +650,7 @@
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 37",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 38",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 39",
-                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
+                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 40",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 41",
                 "🚩CF | 🔴 | vless | @v2ray_swhil | 42",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -5759,7 +5759,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 40",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 40",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
