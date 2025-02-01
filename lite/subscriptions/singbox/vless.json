@@ -153,8 +153,8 @@
                 "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
-                "❔XX | 🔴 | vless | @FreakConfig | 1",
-                "🇱🇻LV | 🔴 | vless | @FreakConfig | 2",
+                "❔XX | 🔴 | vless | @FreakConfig | 2",
+                "🇱🇻LV | 🔴 | vless | @FreakConfig | 3",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇳🇱NL | 🔴 | vless | @mehrosaboran | 9",
@@ -219,8 +219,8 @@
                 "🇬🇧GB | 🔴 | vless | @Outlinev2rayNG | 9",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @v2rayng_vpnrog | 0",
-                "❔XX | 🔴 | vless | @FreakConfig | 1",
-                "🇱🇻LV | 🔴 | vless | @FreakConfig | 2",
+                "❔XX | 🔴 | vless | @FreakConfig | 2",
+                "🇱🇻LV | 🔴 | vless | @FreakConfig | 3",
                 "🇮🇳IN | 🔴 | vless | @flyv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 13",
                 "🇳🇱NL | 🔴 | vless | @mehrosaboran | 9",
@@ -362,7 +362,7 @@
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
-            "uuid": "ZEDMODEON--joinZEDMODEON",
+            "uuid": "biaZEDMODEON--joinZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -382,7 +382,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
                 }
@@ -413,7 +413,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "zmaoz.faculty.ucdavis.edu"
                 }
@@ -1376,7 +1376,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 1",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 2",
             "type": "vless",
             "server": "FreakConfig2.plantgreen.ir",
             "server_port": 443,
@@ -1400,7 +1400,7 @@
             }
         },
         {
-            "tag": "🇱🇻LV | 🔴 | vless | @FreakConfig | 2",
+            "tag": "🇱🇻LV | 🔴 | vless | @FreakConfig | 3",
             "type": "vless",
             "server": "94.131.104.66",
             "server_port": 8880,
