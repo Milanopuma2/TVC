@@ -360,7 +360,7 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 11",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 197",
+                "❔XX | 🟢 | vless | @DailyV2RY | 197",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 198",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 199",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 200",
@@ -751,7 +751,7 @@
                 "🚩CF | 🔴 | vless | @VmessProtocol | 11",
                 "🇳🇱NL | 🟢 | vless | @VmessProtocol | 14",
                 "🇦🇪AE | 🟢 | vless | @VmessProtocol | 15",
-                "🇫🇷FR | 🟢 | vless | @DailyV2RY | 197",
+                "❔XX | 🟢 | vless | @DailyV2RY | 197",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 198",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 199",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 200",
@@ -7350,7 +7350,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🟢 | vless | @DailyV2RY | 197",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 197",
             "type": "vless",
             "server": "v13.blkrose.ir",
             "server_port": 2053,
