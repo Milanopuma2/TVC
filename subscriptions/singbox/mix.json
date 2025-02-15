@@ -280,11 +280,12 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇮🇩ID | 🟢 | ss | @DeamNet_Proxy | 1",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 2",
-                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 4",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
-                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 9",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 0",
+                "🇮🇩ID | 🟢 | ss | @DeamNet_Proxy | 2",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 3",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 5",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6",
+                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 10",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 120",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 121",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 123",
@@ -403,13 +404,13 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 0",
-                "🚩CF | 🟢 | vmess | @v2ray1_ng | 0",
-                "🚩CF | 🟢 | vmess | @v2ray1_ng | 2",
-                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 3",
-                "🇮🇳IN | 🔴 | vless | @v2ray1_ng | 5",
-                "🇨🇦CA | 🟢 | vmess | @v2ray1_ng | 7",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
-                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 9",
+                "🚩CF | 🟢 | vmess | @v2ray1_ng | 1",
+                "🚩CF | 🟢 | vmess | @v2ray1_ng | 3",
+                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 4",
+                "🇮🇳IN | 🔴 | vless | @v2ray1_ng | 6",
+                "🇨🇦CA | 🟢 | vmess | @v2ray1_ng | 8",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
+                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 10",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -486,26 +487,27 @@
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 13",
                 "❔XX | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 2",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
-                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "🇮🇳IN | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 1",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 2",
+                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 3",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
+                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 7",
+                "🇮🇳IN | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
-                "🇫🇷FR | 🔴 | vless | @FreakConfig | 0",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 12",
+                "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 1",
                 "❔XX | 🔴 | vless | @FreakConfig | 2",
-                "❔XX | 🔴 | vless | @FreakConfig | 4",
+                "❔XX | 🔴 | vless | @FreakConfig | 3",
                 "❔XX | 🔴 | vless | @FreakConfig | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 6",
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
@@ -514,6 +516,7 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 10",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
+                "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
@@ -746,11 +749,12 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 12",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 13",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 16",
-                "🇮🇩ID | 🟢 | ss | @DeamNet_Proxy | 1",
-                "❔XX | 🟢 | ss | @DeamNet_Proxy | 2",
-                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 4",
-                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
-                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 9",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 0",
+                "🇮🇩ID | 🟢 | ss | @DeamNet_Proxy | 2",
+                "❔XX | 🟢 | ss | @DeamNet_Proxy | 3",
+                "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 5",
+                "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6",
+                "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 10",
                 "🇩🇪DE | 🟢 | vless | @prrofile_purple | 120",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 121",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 123",
@@ -869,13 +873,13 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 0",
-                "🚩CF | 🟢 | vmess | @v2ray1_ng | 0",
-                "🚩CF | 🟢 | vmess | @v2ray1_ng | 2",
-                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 3",
-                "🇮🇳IN | 🔴 | vless | @v2ray1_ng | 5",
-                "🇨🇦CA | 🟢 | vmess | @v2ray1_ng | 7",
-                "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
-                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 9",
+                "🚩CF | 🟢 | vmess | @v2ray1_ng | 1",
+                "🚩CF | 🟢 | vmess | @v2ray1_ng | 3",
+                "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 4",
+                "🇮🇳IN | 🔴 | vless | @v2ray1_ng | 6",
+                "🇨🇦CA | 🟢 | vmess | @v2ray1_ng | 8",
+                "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
+                "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 10",
                 "🚩CF | 🔴 | vless | @vless_vmess | 0",
                 "🚩CF | 🔴 | vless | @vless_vmess | 1",
                 "🇬🇧GB | 🟢 | vless | @vless_vmess | 2",
@@ -952,26 +956,27 @@
                 "🚩CF | 🟢 | vmess | @yaney_01 | 5",
                 "🇩🇪DE | 🟢 | vless | @free1_vpn | 13",
                 "❔XX | 🟢 | vmess | @Hope_Net | 0",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 1",
-                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 2",
-                "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
-                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 4",
-                "❔XX | 🟢 | vmess | @Hope_Net | 5",
-                "🚩CF | 🟢 | vmess | @Hope_Net | 6",
-                "🇮🇳IN | 🟢 | vmess | @Hope_Net | 7",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 8",
+                "❔XX | 🟢 | vmess | @Hope_Net | 1",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 2",
+                "🇰🇷KR | 🟢 | vmess | @Hope_Net | 3",
+                "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
+                "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
+                "❔XX | 🟢 | vmess | @Hope_Net | 6",
+                "🚩CF | 🟢 | vmess | @Hope_Net | 7",
+                "🇮🇳IN | 🟢 | vmess | @Hope_Net | 8",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
-                "🇫🇷FR | 🔴 | vless | @FreakConfig | 0",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 12",
+                "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "❔XX | 🔴 | vless | @FreakConfig | 1",
                 "❔XX | 🔴 | vless | @FreakConfig | 2",
-                "❔XX | 🔴 | vless | @FreakConfig | 4",
+                "❔XX | 🔴 | vless | @FreakConfig | 3",
                 "❔XX | 🔴 | vless | @FreakConfig | 5",
                 "❔XX | 🔴 | vless | @FreakConfig | 6",
                 "❔XX | 🔴 | vless | @FreakConfig | 7",
@@ -980,6 +985,7 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 10",
                 "❔XX | 🔴 | vless | @FreakConfig | 11",
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
+                "❔XX | 🔴 | vless | @FreakConfig | 13",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 2",
@@ -5234,7 +5240,17 @@
             }
         },
         {
-            "tag": "🇮🇩ID | 🟢 | ss | @DeamNet_Proxy | 1",
+            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 0",
+            "type": "shadowsocks",
+            "server": "54.36.174.181",
+            "server_port": 8009,
+            "method": "aes-256-gcm",
+            "password": "XKFKl2rULjIp74",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🇮🇩ID | 🟢 | ss | @DeamNet_Proxy | 2",
             "type": "shadowsocks",
             "server": "154.205.159.100",
             "server_port": 990,
@@ -5244,7 +5260,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 2",
+            "tag": "❔XX | 🟢 | ss | @DeamNet_Proxy | 3",
             "type": "shadowsocks",
             "server": "[::ffff:3624:aeb5]",
             "server_port": 2376,
@@ -5254,7 +5270,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 4",
+            "tag": "🇵🇱PL | 🟢 | ss | @DeamNet_Proxy | 5",
             "type": "shadowsocks",
             "server": "54.36.174.181",
             "server_port": 7306,
@@ -5264,7 +5280,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5",
+            "tag": "🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6",
             "type": "shadowsocks",
             "server": "45.87.175.171",
             "server_port": 8080,
@@ -5274,7 +5290,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 9",
+            "tag": "🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 10",
             "type": "shadowsocks",
             "server": "79.127.233.170",
             "server_port": 990,
@@ -8065,7 +8081,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @v2ray1_ng | 0",
+            "tag": "🚩CF | 🟢 | vmess | @v2ray1_ng | 1",
             "type": "vmess",
             "server": "104.19.150.10",
             "server_port": 2095,
@@ -8082,7 +8098,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @v2ray1_ng | 2",
+            "tag": "🚩CF | 🟢 | vmess | @v2ray1_ng | 3",
             "type": "vmess",
             "server": "104.19.150.10",
             "server_port": 2095,
@@ -8099,7 +8115,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 3",
+            "tag": "🇳🇱NL | 🔴 | vless | @v2ray1_ng | 4",
             "type": "vless",
             "server": "45.149.12.128",
             "server_port": 80,
@@ -8120,7 +8136,7 @@
             }
         },
         {
-            "tag": "🇮🇳IN | 🔴 | vless | @v2ray1_ng | 5",
+            "tag": "🇮🇳IN | 🔴 | vless | @v2ray1_ng | 6",
             "type": "vless",
             "server": "103.180.236.102",
             "server_port": 15006,
@@ -8134,7 +8150,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @v2ray1_ng | 7",
+            "tag": "🇨🇦CA | 🟢 | vmess | @v2ray1_ng | 8",
             "type": "vmess",
             "server": "23.162.200.91",
             "server_port": 20182,
@@ -8151,7 +8167,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 8",
+            "tag": "🚩CF | 🔴 | vless | @v2ray1_ng | 9",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
@@ -8172,7 +8188,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 9",
+            "tag": "🇩🇪DE | 🟢 | vless | @v2ray1_ng | 10",
             "type": "vless",
             "server": "de.nanvaiiisaeed.ir",
             "server_port": 1615,
@@ -10169,6 +10185,23 @@
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
             "server": "127.0.0.1",
+            "server_port": 1080,
+            "uuid": "bcacaab-acab-baac-dbac-acbbbaccabac",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 1",
+            "type": "vmess",
+            "server": "127.0.0.1",
             "server_port": 2080,
             "uuid": "aaacbcb-acba-acab-cbda-abaccbaacbcb",
             "security": "auto",
@@ -10183,7 +10216,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 1",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 2",
             "type": "vmess",
             "server": "172.66.45.40",
             "server_port": 2052,
@@ -10207,7 +10240,7 @@
             }
         },
         {
-            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 2",
+            "tag": "🇰🇷KR | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "130.162.141.79",
             "server_port": 23451,
@@ -10231,7 +10264,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "s2.db-link02.top",
             "server_port": 2086,
@@ -10255,7 +10288,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vmess | @Hope_Net | 4",
+            "tag": "🇩🇪DE | 🟢 | vmess | @Hope_Net | 5",
             "type": "vmess",
             "server": "188.245.218.62",
             "server_port": 80,
@@ -10272,7 +10305,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 5",
+            "tag": "❔XX | 🟢 | vmess | @Hope_Net | 6",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 2080,
@@ -10289,7 +10322,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🚩CF | 🟢 | vmess | @Hope_Net | 7",
             "type": "vmess",
             "server": "104.21.69.44",
             "server_port": 8443,
@@ -10323,7 +10356,7 @@
             }
         },
         {
-            "tag": "🇮🇳IN | 🟢 | vmess | @Hope_Net | 7",
+            "tag": "🇮🇳IN | 🟢 | vmess | @Hope_Net | 8",
             "type": "vmess",
             "server": "94.136.184.156",
             "server_port": 38872,
@@ -10340,7 +10373,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2083,
@@ -10371,7 +10404,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
             "type": "vless",
             "server": "104.21.96.1",
             "server_port": 443,
@@ -10402,7 +10435,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 80,
@@ -10423,7 +10456,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
             "server": "104.26.14.85",
             "server_port": 80,
@@ -10444,7 +10477,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 6",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
             "type": "vless",
             "server": "104.26.15.85",
             "server_port": 80,
@@ -10465,7 +10498,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
             "server": "135.148.74.156",
             "server_port": 443,
@@ -10489,7 +10522,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "135.148.195.57",
             "server_port": 443,
@@ -10513,7 +10546,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
             "type": "vless",
             "server": "77.221.149.42",
             "server_port": 2053,
@@ -10527,7 +10560,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "51.81.37.20",
             "server_port": 443,
@@ -10551,7 +10584,31 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @FreakConfig | 0",
+            "tag": "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
+            "type": "vless",
+            "server": "freakconfigs14.usecharge.ir",
+            "server_port": 443,
+            "uuid": "9e55e24c-8de9-4357-8a37-9cf1212c6491",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mods.lnmarketplace.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 1",
             "type": "vless",
             "server": "freakconfigz13.usecharge.ir",
             "server_port": 3237,
@@ -10565,7 +10622,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 1",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 2",
             "type": "vless",
             "server": "freakconfigz12.usecharge.ir",
             "server_port": 3237,
@@ -10579,7 +10636,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 2",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 3",
             "type": "vless",
             "server": "freakconfigs11.usecharge.ir",
             "server_port": 443,
@@ -10603,7 +10660,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 4",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 5",
             "type": "vless",
             "server": "freakconfigz10.usecharge.ir",
             "server_port": 3237,
@@ -10617,7 +10674,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 5",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 6",
             "type": "vless",
             "server": "freakconfigs9.usecharge.ir",
             "server_port": 443,
@@ -10641,7 +10698,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 6",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
             "type": "vless",
             "server": "freakconfigz8.usecharge.ir",
             "server_port": 3237,
@@ -10655,7 +10712,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 7",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 8",
             "type": "vless",
             "server": "freakconfigz7.usecharge.ir",
             "server_port": 3237,
@@ -10669,7 +10726,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 8",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 9",
             "type": "vless",
             "server": "freakconfigz6.usecharge.ir",
             "server_port": 3237,
@@ -10683,7 +10740,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 9",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 10",
             "type": "vless",
             "server": "freakconfigz5.usecharge.ir",
             "server_port": 3237,
@@ -10697,7 +10754,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 10",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
             "type": "vless",
             "server": "freakconfigz4.usecharge.ir",
             "server_port": 3237,
@@ -10711,7 +10768,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 11",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 12",
             "type": "vless",
             "server": "freakconfigz3.usecharge.ir",
             "server_port": 3237,
@@ -10725,7 +10782,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 12",
+            "tag": "❔XX | 🔴 | vless | @FreakConfig | 13",
             "type": "vless",
             "server": "freakconfigz2.usecharge.ir",
             "server_port": 3237,
