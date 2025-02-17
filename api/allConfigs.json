@@ -3534,15 +3534,6 @@
             "logo": null
         },
         "type": "vless",
-        "config": "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638734201752843863.paris-mpl-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮FI%20|%20🔴%20|%20vless%20|%20@Outlinev2rayNG%20|%2011"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
         "config": "vless:\/\/1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz15.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#🇫🇷FR%20|%20🔴%20|%20vless%20|%20@FreakConfig%20|%200"
     },
     {
