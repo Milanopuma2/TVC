@@ -1221,7 +1221,7 @@
             "logo": null
         },
         "type": "trojan",
-        "config": "trojan:\/\/V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp#❔XX%20|%20🔴%20|%20trojan%20|%20@V2rayCollectorDonate%20|%2017"
+        "config": "trojan:\/\/V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp#🇮🇷IR%20|%20🔴%20|%20trojan%20|%20@V2rayCollectorDonate%20|%2017"
     },
     {
         "channel": {
@@ -3255,7 +3255,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/b27f4d97-2562-4867-ae20-45e625eec5f5@v04.kermanloop.ir:2053?security=reality&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun&sni=sourceforge.net&fp=chrome&pbk=-L10J9UWL4oIvj6LX59wV9Zxr66lQS9QIzjfBV6N90E&sid=87859af4ef1b7e08#❔XX%20|%20🟢%20|%20vless%20|%20@DailyV2RY%20|%20312"
+        "config": "vless:\/\/b27f4d97-2562-4867-ae20-45e625eec5f5@v04.kermanloop.ir:2053?security=reality&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun&sni=sourceforge.net&fp=chrome&pbk=-L10J9UWL4oIvj6LX59wV9Zxr66lQS9QIzjfBV6N90E&sid=87859af4ef1b7e08#🇨🇦CA%20|%20🟢%20|%20vless%20|%20@DailyV2RY%20|%20312"
     },
     {
         "channel": {
@@ -3787,15 +3787,6 @@
         },
         "type": "reality",
         "config": "vless:\/\/de904e1a-8d33-4401-9899-aaceaf9c693e@c1.vact.ir:443?mode=gun&security=reality&encryption=none&authority=&pbk=BDsBcQ0GzxU-pGwN0H6zRVIbOhdL5dJy7cUd44xnayI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=dfb4dc18a1#🇩🇪DE%20|%20🔴%20|%20vless%20|%20@flyv2ray%20|%207"
-    },
-    {
-        "channel": {
-            "username": "vless",
-            "title": null,
-            "logo": null
-        },
-        "type": "vless",
-        "config": "vless:\/\/TELEGRAM-NUFiLTER-a8d234460c35@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss222x.ir&type=ws#🇺🇸US%20|%20🔴%20|%20vless%20|%20@flyv2ray%20|%208"
     },
     {
         "channel": {
