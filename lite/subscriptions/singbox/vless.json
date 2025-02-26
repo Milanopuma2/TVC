@@ -156,7 +156,7 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
-                "❔XX | 🟢 | vless | @nofiltering2 | 12",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -223,7 +223,7 @@
                 "❔XX | 🔴 | vless | @FreakConfig | 12",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 7",
-                "❔XX | 🟢 | vless | @nofiltering2 | 12",
+                "🇩🇪DE | 🔴 | vless | @nofiltering2 | 12",
                 "🇩🇪DE | 🔴 | vless | @proxy_mtm | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1550,11 +1550,11 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @nofiltering2 | 12",
+            "tag": "🇩🇪DE | 🔴 | vless | @nofiltering2 | 12",
             "type": "vless",
-            "server": "FreakconfigS19.usecharge.ir",
+            "server": "c2.vact.ir",
             "server_port": 443,
-            "uuid": "9e55e24c-8de9-4357-8a37-9cf1212c6491",
+            "uuid": "4b060663-3649-41de-a263-5b564bd1ca29",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1564,13 +1564,25 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "mods.lnmarketplace.net",
+                "server_name": "www.cdn77.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "gmfZyQtoXXrck45kkXm_vO3TlB0CcDNvkLkd3-HAfFA",
+                    "short_id": "b542ac"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
