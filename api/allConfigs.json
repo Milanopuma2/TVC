@@ -3781,15 +3781,6 @@
     },
     {
         "channel": {
-            "username": " vmess ",
-            "title": null,
-            "logo": null
-        },
-        "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6IjQ5LjEzLjE3NC4yMTQiLCJwb3J0Ijo4ODgwLCJpZCI6IjI2MGRmOTJjLTg0ZTUtNDNhZS1jZTQzLTAzMTIxZjU0NmY4OSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhREUgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBIb3BlX05ldCB8IDcifQ=="
-    },
-    {
-        "channel": {
             "username": "vless",
             "title": null,
             "logo": null
