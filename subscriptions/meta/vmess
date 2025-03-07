@@ -145,7 +145,6 @@ proxies:
   - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 5","type":"vmess","server":"104.19.48.236","port":2082,"cipher":"auto","uuid":"4b36625c-b9d9-3ea6-aed5-86d62c70e16d","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dabai.in172.67.8.3","headers":{"host":"100-116-85-183.s4.db-link02.top"}}}
   - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 7","type":"vmess","server":"140.245.38.68","port":"23452","cipher":"auto","uuid":"150a990b-3a9b-4742-866a-8e1611faf316","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"westsg2-ddns.oraclenat.cc"}}}
   - {"name":"🇸🇬SG | 🟢 | vmess | @Hope_Net | 8","type":"vmess","server":"140.245.48.238","port":"23452","cipher":"auto","uuid":"ef93ec2a-6eb9-4f2c-9a32-dc42a889df67","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"westsg2-ddns.oraclenat.cc"}}}
-  - {"name":"🚩CF | 🟢 | vmess | @Hope_Net | 10","type":"vmess","server":"104.19.48.236","port":8880,"cipher":"auto","uuid":"4b36625c-b9d9-3ea6-aed5-86d62c70e16d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/dabai.in104.19.138.212","headers":{"host":"100-171-52-115.s1.cn-db.top"}}}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -177,7 +176,6 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 7'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 8'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 10'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -209,7 +207,6 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 7'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 8'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 10'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -240,7 +237,6 @@ proxy-groups:
       - '🚩CF | 🟢 | vmess | @Hope_Net | 5'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 7'
       - '🇸🇬SG | 🟢 | vmess | @Hope_Net | 8'
-      - '🚩CF | 🟢 | vmess | @Hope_Net | 10'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
