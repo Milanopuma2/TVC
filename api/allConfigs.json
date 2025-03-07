@@ -158,6 +158,15 @@
             "title": null,
             "logo": null
         },
+        "type": "vless",
+        "config": "vless:\/\/Parsashonam-179@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#🇸🇪SE%20|%20🔴%20|%20vless%20|%20@Parsashonam%20|%2033"
+    },
+    {
+        "channel": {
+            "username": "vless",
+            "title": null,
+            "logo": null
+        },
         "type": "reality",
         "config": "vless:\/\/26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&security=reality&encryption=none&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=83cdb009#🇦🇲AM%20|%20🔴%20|%20vless%20|%20@XsV2ray%20|%200"
     },
