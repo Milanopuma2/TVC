@@ -139,7 +139,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 43",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
@@ -151,13 +151,12 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 359",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 359",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 360",
                 "❔XX | 🟢 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 12",
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🔴 | vless | @flyv2ray | 13",
@@ -209,7 +208,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "❔XX | 🔴 | vless | @ServerNett | 11",
-                "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 43",
+                "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
@@ -221,13 +220,12 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 2",
                 "🇺🇸US | 🔴 | vless | @vmess_vless_v2rayng | 3",
-                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 359",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 359",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 360",
                 "❔XX | 🟢 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 3",
-                "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
+                "❔XX | 🟢 | vless | @Outlinev2rayNG | 12",
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
                 "❔XX | 🔴 | vless | @flyv2ray | 13",
@@ -1038,7 +1036,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2ray_swhil | 43",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1373,7 +1371,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 359",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 359",
             "type": "vless",
             "server": "jermaine.ns.cloudflare.com",
             "server_port": 443,
@@ -1506,7 +1504,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 11",
+            "tag": "❔XX | 🟢 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "FreakconfigS36.usecharge.ir",
             "server_port": 443,
@@ -1526,27 +1524,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
-            "type": "vless",
-            "server": "104.17.148.22",
-            "server_port": 80,
-            "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/LwW5jwrnymnOdqki?ed=2560",
-                "headers": {
-                    "Host": "104.17.148.22"
                 }
             }
         },
