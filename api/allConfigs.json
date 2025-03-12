@@ -1896,7 +1896,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6ImhtczA4Mi5nd2RlZi5zYnMiLCJwb3J0IjoiNDQzIiwiaWQiOiJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Imd3ZGVmLnNicyIsInBhdGgiOiJcL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Imd3ZGVmLnNicyIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhREUgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBEZWFtTmV0X1Byb3h5IHwgNyJ9"
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6ImhtczA4Mi5nd2RlZi5zYnMiLCJwb3J0IjoiNDQzIiwiaWQiOiJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Imd3ZGVmLnNicyIsInBhdGgiOiJcL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Imd3ZGVmLnNicyIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RlIgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBEZWFtTmV0X1Byb3h5IHwgNyJ9"
     },
     {
         "channel": {
