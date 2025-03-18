@@ -226,8 +226,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 0",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 1",
+                "🇺🇸US | 🔴 | vless | @v2logy | 0",
+                "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
@@ -413,7 +413,7 @@
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 2",
                 "❔XX | 🟢 | vless | @FreakConfig | 9",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 10",
-                "❔XX | 🔴 | vless | @FreakConfig | 12",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 12",
                 "❔XX | 🟢 | vless | @FreakConfig | 13",
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
@@ -599,8 +599,8 @@
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 8",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 0",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 1",
+                "🇺🇸US | 🔴 | vless | @v2logy | 0",
+                "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
                 "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
@@ -786,7 +786,7 @@
                 "🇸🇪SE | 🔴 | vless | @FreakConfig | 2",
                 "❔XX | 🟢 | vless | @FreakConfig | 9",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 10",
-                "❔XX | 🔴 | vless | @FreakConfig | 12",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 12",
                 "❔XX | 🟢 | vless | @FreakConfig | 13",
                 "❔XX | 🟢 | vless | @FreakConfig | 14",
                 "❔XX | 🟢 | vless | @FreakConfig | 15",
@@ -3602,7 +3602,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 0",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2087,
@@ -3633,7 +3633,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -8509,7 +8509,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @FreakConfig | 12",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 12",
             "type": "vless",
             "server": "freakconfig-1.usecharge.ir",
             "server_port": 443,
