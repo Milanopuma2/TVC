@@ -402,7 +402,7 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 0",
-                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -772,7 +772,7 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 0",
-                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇸🇪SE | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇯🇵JP | 🔴 | vless | @Outlinev2rayNG | 10",
@@ -8075,7 +8075,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
