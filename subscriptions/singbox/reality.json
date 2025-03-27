@@ -139,7 +139,7 @@
                 "🇮🇪IE | 🟢 | vless | @DailyV2RY | 112",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 117",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
-                "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
@@ -162,7 +162,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @kingofilter | 4",
+                "🇩🇪DE | 🟢 | vless | @kingofilter | 5",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
@@ -209,7 +209,7 @@
                 "🇮🇪IE | 🟢 | vless | @DailyV2RY | 112",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 117",
                 "❔XX | 🔴 | vless | @proxystore11 | 1",
-                "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 6",
@@ -232,7 +232,7 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇩🇪DE | 🟢 | vless | @kingofilter | 4",
+                "🇩🇪DE | 🟢 | vless | @kingofilter | 5",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 2",
@@ -1275,7 +1275,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
             "server": "185.184.70.48",
             "server_port": 13507,
@@ -2082,7 +2082,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 4",
+            "tag": "🇩🇪DE | 🟢 | vless | @kingofilter | 5",
             "type": "vless",
             "server": "185.161.251.211",
             "server_port": 1633,
