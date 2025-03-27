@@ -112,7 +112,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
@@ -184,7 +184,7 @@
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
-                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+                "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 10",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 5",
@@ -369,7 +369,7 @@
         {
             "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "52.47.87.94",
+            "server": "15.236.150.114",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -398,9 +398,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
+            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "18.158.219.45",
+            "server": "52.47.87.94",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
