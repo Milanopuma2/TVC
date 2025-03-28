@@ -107,8 +107,8 @@
             "outbounds": [
                 "URL-TEST",
                 "❔XX | 🔴 | vless | @EliV2ray | 2",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 41",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
@@ -178,8 +178,8 @@
             "type": "urltest",
             "outbounds": [
                 "❔XX | 🔴 | vless | @EliV2ray | 2",
-                "🇺🇸US | 🔴 | vless | @Parsashonam | 41",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
+                "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
@@ -285,7 +285,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 41",
+            "tag": "🇺🇸US | 🔴 | vless | @Parsashonam | 42",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 80,
@@ -306,7 +306,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 42",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 43",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
