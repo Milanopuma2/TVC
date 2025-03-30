@@ -131,8 +131,6 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 14","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"e7ff6dc7-2eab-4271-8bf2-35c4b17dbb1f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇺🇸US | 🔴 | vless | @lightning6 | 15","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"12a9c54b-f591-4600-bfc1-ef3e967e4fae","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048","headers":{"host":"www.speedtest.net.lightning6.ip-ddns.com."}}}
   - {"name":"🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15","type":"vmess","server":"88.198.93.175","port":"8880","cipher":"auto","uuid":"58531009-b664-445b-b896-7bb9026b744d","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 6","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68614","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @DigiV2ray | 7","type":"vless","server":"Speedtest.net","port":80,"udp":false,"uuid":"b1f58d90-e65f-4566-91f3-1b96e9a68613","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--?ed=2048","headers":{"host":"JoiIInNn--DIgiv2Ray.Ir."}}}
   - {"name":"❔XX | 🔴 | vless | @V2rayCollectorDonate | 18","type":"vless","server":"web.bbv2ry.pics","port":443,"udp":false,"uuid":"ac6b3d48-d16f-4125-9f17-d986541a3ee9","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Sky2.bbv2ry.pics","ws-opts":{"path":"/","headers":{"host":"Sky2.bbv2ry.pics"}}}
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15","type":"trojan","server":"35.180.236.106","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16","type":"trojan","server":"51.44.188.8","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -190,8 +188,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lightning6 | 14'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 15'
       - '🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15'
-      - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
-      - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '❔XX | 🔴 | vless | @V2rayCollectorDonate | 18'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16'
@@ -249,8 +245,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lightning6 | 14'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 15'
       - '🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15'
-      - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
-      - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '❔XX | 🔴 | vless | @V2rayCollectorDonate | 18'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16'
@@ -307,8 +301,6 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @lightning6 | 14'
       - '🇺🇸US | 🔴 | vless | @lightning6 | 15'
       - '🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15'
-      - '🇺🇸US | 🔴 | vless | @DigiV2ray | 6'
-      - '🇺🇸US | 🔴 | vless | @DigiV2ray | 7'
       - '❔XX | 🔴 | vless | @V2rayCollectorDonate | 18'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 15'
       - '🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 16'
