@@ -139,7 +139,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇨🇦CA | 🔴 | vless | @MsV2ray | 2",
+                "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
@@ -209,7 +209,7 @@
                 "❔XX | 🔴 | vless | @ServerNett | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
-                "🇨🇦CA | 🔴 | vless | @MsV2ray | 2",
+                "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 5",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 6",
@@ -1052,7 +1052,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @MsV2ray | 2",
+            "tag": "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
             "type": "vless",
             "server": "WwW.Speedtest.Net",
             "server_port": 8880,
