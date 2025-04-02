@@ -207,7 +207,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 8",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 11",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 12",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 13",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
@@ -649,7 +649,7 @@
                 "🇺🇸US | 🔴 | vless | @lightning6 | 8",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 9",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 10",
-                "🇨🇦CA | 🔴 | vless | @lightning6 | 11",
+                "🇺🇸US | 🔴 | vless | @lightning6 | 11",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 12",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 13",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 14",
@@ -3293,7 +3293,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @lightning6 | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @lightning6 | 11",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
