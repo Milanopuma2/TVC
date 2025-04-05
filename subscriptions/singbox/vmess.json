@@ -128,7 +128,7 @@
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 7",
                 "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 205",
                 "🇲🇾MY | 🟢 | vmess | @DailyV2RY | 219",
-                "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 229",
+                "🇦🇺AU | 🟢 | vmess | @DailyV2RY | 229",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 7",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 9",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -172,7 +172,7 @@
                 "🚩CF | 🟢 | vmess | @v2ray1_ng | 7",
                 "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 205",
                 "🇲🇾MY | 🟢 | vmess | @DailyV2RY | 219",
-                "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 229",
+                "🇦🇺AU | 🟢 | vmess | @DailyV2RY | 229",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 7",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 9",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
@@ -625,7 +625,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vmess | @DailyV2RY | 229",
+            "tag": "🇦🇺AU | 🟢 | vmess | @DailyV2RY | 229",
             "type": "vmess",
             "server": "154.26.153.173",
             "server_port": 28686,
