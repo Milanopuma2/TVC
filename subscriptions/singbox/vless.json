@@ -263,7 +263,7 @@
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 119",
                 "❔XX | 🔴 | vless | @prrofile_purple | 120",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 121",
-                "🇫🇮FI | 🔴 | vless | @prrofile_purple | 123",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 123",
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 124",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 125",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 126",
@@ -299,7 +299,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 0",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
@@ -655,7 +655,7 @@
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 119",
                 "❔XX | 🔴 | vless | @prrofile_purple | 120",
                 "🇳🇱NL | 🔴 | vless | @prrofile_purple | 121",
-                "🇫🇮FI | 🔴 | vless | @prrofile_purple | 123",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 123",
                 "🇫🇮FI | 🔴 | vless | @prrofile_purple | 124",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 125",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 126",
@@ -691,7 +691,7 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
+                "🇫🇮FI | 🔴 | vless | @ServerNett | 0",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
                 "❔XX | 🔴 | vless | @ServerNett | 3",
@@ -4503,7 +4503,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @prrofile_purple | 123",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 123",
             "type": "vless",
             "server": "32892393.web-manage.com.tr",
             "server_port": 1524,
@@ -5305,7 +5305,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 0",
+            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 0",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
