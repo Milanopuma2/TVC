@@ -109,10 +109,10 @@
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
-                "❔XX | 🔴 | vless | @proxy_mtm | 13",
+                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @SvnTeam | 8"
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8"
             ]
         },
         {
@@ -122,10 +122,10 @@
                 "❔XX | 🟢 | vless | @customv2ray | 11",
                 "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 9",
-                "❔XX | 🔴 | vless | @proxy_mtm | 13",
+                "🇩🇪DE | 🔴 | vless | @proxy_mtm | 13",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "❔XX | 🔴 | vless | @SvnTeam | 8"
+                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -249,7 +249,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_mtm | 13",
+            "tag": "🇩🇪DE | 🔴 | vless | @proxy_mtm | 13",
             "type": "vless",
             "server": "mehdi24.vact.ir",
             "server_port": 443,
@@ -357,7 +357,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
