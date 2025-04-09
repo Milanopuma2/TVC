@@ -397,7 +397,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 296",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 297",
                 "🇬🇧GB | 🟢 | vless | @DailyV2RY | 298",
-                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 299",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 300",
                 "🇬🇧GB | 🔴 | vless | @DailyV2RY | 301",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
@@ -424,13 +424,12 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
-                "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -803,7 +802,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 296",
                 "🇨🇦CA | 🟢 | vless | @DailyV2RY | 297",
                 "🇬🇧GB | 🟢 | vless | @DailyV2RY | 298",
-                "🇸🇪SE | 🔴 | vless | @DailyV2RY | 299",
+                "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 300",
                 "🇬🇧GB | 🔴 | vless | @DailyV2RY | 301",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 302",
@@ -830,13 +829,12 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "❔XX | 🔴 | vless | @proxystore11 | 5",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 7",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
-                "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
+                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -7876,7 +7874,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @DailyV2RY | 299",
+            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 299",
             "type": "vless",
             "server": "inthenameofgodfragment.ignorelist.com",
             "server_port": 443,
@@ -8540,7 +8538,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 2",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 0",
             "type": "vless",
             "server": "172.67.75.194",
             "server_port": 8443,
@@ -8571,7 +8569,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 3",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
             "server": "104.26.14.85",
             "server_port": 8080,
@@ -8592,7 +8590,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 4",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 5",
             "type": "vless",
             "server": "188.114.97.3",
             "server_port": 80,
@@ -8613,7 +8611,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -8634,7 +8632,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
+            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 12",
             "type": "vless",
             "server": "104.26.12.54",
             "server_port": 443,
@@ -8665,7 +8663,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 13",
             "type": "vless",
             "server": "ns1.cloudflare.com",
             "server_port": 443,
@@ -8692,35 +8690,6 @@
                 "path": "\/?ed=2550?\/@JOKERRVPN_Join_Bade_Channel@JOKERRVPN",
                 "headers": {
                     "Host": "cr7.medicaldream.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13",
-            "type": "vless",
-            "server": "8.222.199.43",
-            "server_port": 443,
-            "uuid": "5c183802-747d-4d2f-a6f1-aff2d5d78401",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "api.digital-help-prd.autodesk.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw",
-                    "short_id": "6ba85179e30d4fc2"
                 }
             }
         },

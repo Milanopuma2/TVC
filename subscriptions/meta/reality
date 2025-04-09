@@ -153,7 +153,6 @@ proxies:
   - {"name":"❔XX | 🔴 | vless | @proxystore11 | 1","type":"vless","server":"ipv6.proxystore11.shop","port":443,"udp":true,"uuid":"45876b67-8a63-4bee-911a-b9c19867949e","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.afp.com","grpc-opts":{"grpc-service-name":"L6ocyVFZGNHz4gxKwgJ"},"reality-opts":{"public-key":"qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc","short-id":"b5f32071b5f64f"}}
   - {"name":"❔XX | 🔴 | vless | @proxystore11 | 2","type":"vless","server":"ipv6.proxystore11.shop","port":443,"udp":true,"uuid":"a4581b69-90d1-49e3-a36a-3aaf9bdf1d1e","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.canva.com","grpc-opts":{"grpc-service-name":"L6ocyVFZGNHz4gxKwgJ"},"reality-opts":{"public-key":"qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc","short-id":"b5f32071b5f64f"}}
   - {"name":"❔XX | 🔴 | vless | @proxystore11 | 5","type":"vless","server":"ipv6.proxystore11.news","port":443,"udp":true,"uuid":"71fa1f09-3fa7-4fd3-aa3b-1c266ab03e0e","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.canva.com","grpc-opts":{"grpc-service-name":"L6ocyVFZGNHz4gxKwgJ"},"reality-opts":{"public-key":"qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc","short-id":"b5f32071b5f64f"}}
-  - {"name":"🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13","type":"vless","server":"8.222.199.43","port":443,"udp":true,"uuid":"5c183802-747d-4d2f-a6f1-aff2d5d78401","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"api.digital-help-prd.autodesk.com","reality-opts":{"public-key":"DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw","short-id":"6ba85179e30d4fc2"}}
   - {"name":"🇩🇪DE | 🟢 | vless | @FreakConfig | 3","type":"vless","server":"mw2.niassa.ir","port":443,"udp":true,"uuid":"b78fb3f5-e6a9-4e00-859f-3a886b19b394","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"eset.com","reality-opts":{"public-key":"3Yzz5Unz5elPLlaQkzgBxirSUbvIRbg9XlJ1Vruc4RI","short-id":"8819"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @FreakConfig | 9","type":"vless","server":"hetzner.unironically.ir","port":1370,"udp":true,"uuid":"de3e121a-8405-4888-98ec-8914c1850a2d","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"sourceforge.net","grpc-opts":{"grpc-service-name":"fdvsdv"},"reality-opts":{"public-key":"JNcCRy0bfOEzzyqh1foTuuG9T8IvwiO8ApJu5FhVERs","short-id":"2665af94c7b25f90"}}
   - {"name":"❔XX | 🔴 | vless | @proxy_mtm | 1","type":"vless","server":"mehdi24.vact.ir","port":443,"udp":true,"uuid":"20b8a607-6ba8-4f51-9433-d067504e91ac","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN---MTMVPN--------MTMVPN---MTMVPN-----MTMVPN--------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN-----MTMVPN------MTMVPN-----MTMVPN---MTMVPN--------MTMVPN---MTMVPN-----MTMVPN-----MTMVPN-----MTMVPN-----MTMVPN----MTMVPN-----MTMVPN-----MTMVPN"},"reality-opts":{"public-key":"AZfJhYHphztYrI4N-RpcZqfNhqV-9PG-qT80ShLpJQ8","short-id":"a473bfc1f4"}}
@@ -214,7 +213,6 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @proxystore11 | 1'
       - '❔XX | 🔴 | vless | @proxystore11 | 2'
       - '❔XX | 🔴 | vless | @proxystore11 | 5'
-      - '🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 3'
       - '🇩🇪DE | 🔴 | vless | @FreakConfig | 9'
       - '❔XX | 🔴 | vless | @proxy_mtm | 1'
@@ -275,7 +273,6 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @proxystore11 | 1'
       - '❔XX | 🔴 | vless | @proxystore11 | 2'
       - '❔XX | 🔴 | vless | @proxystore11 | 5'
-      - '🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 3'
       - '🇩🇪DE | 🔴 | vless | @FreakConfig | 9'
       - '❔XX | 🔴 | vless | @proxy_mtm | 1'
@@ -335,7 +332,6 @@ proxy-groups:
       - '❔XX | 🔴 | vless | @proxystore11 | 1'
       - '❔XX | 🔴 | vless | @proxystore11 | 2'
       - '❔XX | 🔴 | vless | @proxystore11 | 5'
-      - '🇸🇬SG | 🟢 | vless | @Outlinev2rayNG | 13'
       - '🇩🇪DE | 🟢 | vless | @FreakConfig | 3'
       - '🇩🇪DE | 🔴 | vless | @FreakConfig | 9'
       - '❔XX | 🔴 | vless | @proxy_mtm | 1'
