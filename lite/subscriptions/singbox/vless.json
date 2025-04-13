@@ -108,7 +108,7 @@
                 "URL-TEST",
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 39",
-                "🇺🇸US | 🔴 | vless | @v2_team | 0",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
@@ -134,7 +134,7 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
-                "❔XX | 🔴 | vless | @customv2ray | 7",
+                "🇩🇪DE | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 7",
@@ -176,7 +176,7 @@
             "outbounds": [
                 "🇺🇸US | 🔴 | vless | @Parsashonam | 38",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 39",
-                "🇺🇸US | 🔴 | vless | @v2_team | 0",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 0",
                 "🇺🇸US | 🔴 | vless | @XsV2ray | 9",
                 "❔XX | 🔴 | vless | @XsV2ray | 10",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
@@ -202,7 +202,7 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 12",
                 "🇩🇪DE | 🔴 | vless | @prrofile_purple | 151",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 6",
-                "❔XX | 🔴 | vless | @customv2ray | 7",
+                "🇩🇪DE | 🔴 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 7",
@@ -293,7 +293,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2_team | 0",
+            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 0",
             "type": "vless",
             "server": "172.67.73.163",
             "server_port": 80,
@@ -895,7 +895,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @customv2ray | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | @customv2ray | 7",
             "type": "vless",
             "server": "mehdi24.vact.ir",
             "server_port": 443,
