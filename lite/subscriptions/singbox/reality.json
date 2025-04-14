@@ -112,7 +112,7 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
-                "❔XX | 🔴 | vless | @proxy_mtm | 7",
+                "❔XX | 🔴 | vless | @proxy_mtm | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 8"
@@ -128,7 +128,7 @@
                 "❔XX | 🔴 | vless | @proxystore11 | 3",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 11",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
-                "❔XX | 🔴 | vless | @proxy_mtm | 7",
+                "❔XX | 🔴 | vless | @proxy_mtm | 3",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
                 "❔XX | 🔴 | vless | @SvnTeam | 8"
@@ -356,9 +356,9 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @proxy_mtm | 7",
+            "tag": "❔XX | 🔴 | vless | @proxy_mtm | 3",
             "type": "vless",
-            "server": "me16.zemestanil.ir",
+            "server": "me17.zemestanil.ir",
             "server_port": 2087,
             "uuid": "telegra-proxy_mtm",
             "flow": "xtls-rprx-vision",
