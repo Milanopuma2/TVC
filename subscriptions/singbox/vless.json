@@ -415,7 +415,6 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -804,7 +803,6 @@
                 "🚩CF | 🔴 | vless | @Outlinev2rayNG | 7",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
-                "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 1",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
                 "🇨🇭CH | 🟢 | vless | @FreakConfig | 4",
@@ -8328,27 +8326,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | vless | @Outlinev2rayNG | 11",
-            "type": "vless",
-            "server": "162.159.10.162",
-            "server_port": 2086,
-            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram@WedbazTelsecurity",
-                "headers": {
-                    "Host": "5-55sfjslf.ifenxiang.cfd"
                 }
             }
         },
