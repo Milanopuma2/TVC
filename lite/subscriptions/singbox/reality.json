@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🔴 | vless | @prrofile_purple | 142",
+                "❔XX | 🔴 | vless | @prrofile_purple | 150",
                 "❔XX | 🔴 | vless | @customv2ray | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
@@ -120,7 +120,7 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🔴 | vless | @prrofile_purple | 142",
+                "❔XX | 🔴 | vless | @prrofile_purple | 150",
                 "❔XX | 🔴 | vless | @customv2ray | 7",
                 "❔XX | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 3",
@@ -150,7 +150,7 @@
             "type": "dns"
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 142",
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 150",
             "type": "vless",
             "server": "mehdi21.vact.ir",
             "server_port": 443,
