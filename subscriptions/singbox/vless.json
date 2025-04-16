@@ -155,7 +155,7 @@
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
@@ -302,7 +302,7 @@
                 "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 4",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 4",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 5",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 7",
@@ -534,7 +534,7 @@
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 18",
                 "🇸🇪SE | 🔴 | vless | @VlessConfig | 19",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 0",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 2",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 3",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 4",
@@ -681,7 +681,7 @@
                 "🇮🇷IR | 🔴 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
-                "🇫🇮FI | 🔴 | vless | @ServerNett | 4",
+                "🇩🇪DE | 🔴 | vless | @ServerNett | 4",
                 "🇩🇪DE | 🔴 | vless | @ServerNett | 5",
                 "❔XX | 🔴 | vless | @ServerNett | 6",
                 "❔XX | 🔴 | vless | @ServerNett | 7",
@@ -1993,7 +1993,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 1",
             "type": "vless",
             "server": "ip.sitwe.ir",
             "server_port": 8080,
@@ -5360,7 +5360,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ServerNett | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @ServerNett | 4",
             "type": "vless",
             "server": "3900230223.torob.com.tr",
             "server_port": 1522,
