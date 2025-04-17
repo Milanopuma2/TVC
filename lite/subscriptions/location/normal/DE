@@ -4,4 +4,3 @@ trojan://telegram-id-privatevpns@18.156.210.40:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.197.35.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 19
 vless://eeeca24b-6607-4040-9dae-2259feac6145@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#🇩🇪DE | 🔴 | vless | @prrofile_purple | 143
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=google.com&type=ws#🇩🇪DE | 🔴 | vless | @fnet00 | 0
-vless://6c7a591f-10ee-474f-bbc8-00f893a084ef@116.203.184.248:48460?security=&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | @FreakConfig | 1
