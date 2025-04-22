@@ -123,7 +123,7 @@
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 152",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 8",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 4",
-                "🇨🇦CA | 🟢 | vmess | @proxystore11 | 6",
+                "🇺🇸US | 🟢 | vmess | @proxystore11 | 6",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -154,7 +154,7 @@
                 "🇮🇷IR | 🟢 | vmess | @prrofile_purple | 152",
                 "🇺🇸US | 🟢 | vmess | @v2ray1_ng | 8",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 4",
-                "🇨🇦CA | 🟢 | vmess | @proxystore11 | 6",
+                "🇺🇸US | 🟢 | vmess | @proxystore11 | 6",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
@@ -490,7 +490,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @proxystore11 | 6",
+            "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 6",
             "type": "vmess",
             "server": "cname.proxystore11.news",
             "server_port": 443,
