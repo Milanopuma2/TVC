@@ -369,7 +369,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 2",
-                "❔XX | 🔴 | vless | @VmessProtocol | 4",
+                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 4",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 6",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 7",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 8",
@@ -460,7 +460,7 @@
                 "❔XX | 🔴 | vless | @kingofilter | 26",
                 "🇨🇭CH | 🟢 | vless | @kingofilter | 27",
                 "🇹🇷TR | 🟢 | vless | @kingofilter | 28",
-                "❔XX | 🔴 | vless | @kingofilter | 30",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 30",
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 32",
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 34",
                 "🇫🇮FI | 🟢 | vless | @kingofilter | 35",
@@ -752,7 +752,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 2",
-                "❔XX | 🔴 | vless | @VmessProtocol | 4",
+                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 4",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 6",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 7",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 8",
@@ -843,7 +843,7 @@
                 "❔XX | 🔴 | vless | @kingofilter | 26",
                 "🇨🇭CH | 🟢 | vless | @kingofilter | 27",
                 "🇹🇷TR | 🟢 | vless | @kingofilter | 28",
-                "❔XX | 🔴 | vless | @kingofilter | 30",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 30",
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 32",
                 "🇮🇷IR | 🔴 | vless | @kingofilter | 34",
                 "🇫🇮FI | 🟢 | vless | @kingofilter | 35",
@@ -7030,7 +7030,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @VmessProtocol | 4",
             "type": "vless",
             "server": "germany.khoreshtsabzi.ir",
             "server_port": 1773,
@@ -9376,7 +9376,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @kingofilter | 30",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 30",
             "type": "vless",
             "server": "germany.khoreshtsabzi.ir",
             "server_port": 1773,
