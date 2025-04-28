@@ -125,6 +125,7 @@
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🇨🇭CH | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
@@ -132,7 +133,7 @@
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 16",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @prrofile_purple | 154",
-                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇸🇬SG | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇳🇱NL | 🔴 | vless | @ShadowProxy66 | 2",
@@ -197,6 +198,7 @@
                 "🇲🇾MY | 🔴 | vless | @vpn_xw | 0",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
+                "🇨🇭CH | 🔴 | vless | @proxy_kafee | 0",
                 "🇸🇪SE | 🔴 | vless | @v2logy | 9",
                 "🇺🇸US | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
@@ -204,7 +206,7 @@
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 16",
                 "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 17",
                 "❔XX | 🔴 | vless | @prrofile_purple | 154",
-                "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 5",
+                "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇸🇬SG | 🔴 | vless | @ShadowProxy66 | 1",
                 "🇳🇱NL | 🔴 | vless | @ShadowProxy66 | 2",
@@ -662,6 +664,42 @@
             }
         },
         {
+            "tag": "🇨🇭CH | 🔴 | vless | @proxy_kafee | 0",
+            "type": "vless",
+            "server": "wedbaztel.smartexchangevip.com",
+            "server_port": 27211,
+            "uuid": "7833f8ad-b69c-4c59-9035-0964f826183c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "80IHrVf_vpOI4Y8psDliYi9-OuiVaVKkyeRShKqqh3Q",
+                    "short_id": "44287741c96b7bbe"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "\/@WedBaZtel----------@WedBaZtel-----------@WedBaZtel----@WedBaZtel-------@WedBaZtel-----@WedBaZtel----------@WedBaZtel-----------@WedBaZtel----@WedBaZtel-------@WedBaZtel-----@WedBaZtel----------@WedBaZtel-----------@WedBaZtel----@WedBaZtel-------@WedBaZtel",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
             "tag": "🇸🇪SE | 🔴 | vless | @v2logy | 9",
             "type": "vless",
             "server": "185.146.173.237",
@@ -832,7 +870,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @FalconPolV2rayNG | 5",
+            "tag": "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
             "type": "vless",
             "server": "104.18.165.30",
             "server_port": 80,
