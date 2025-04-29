@@ -176,7 +176,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -290,7 +290,6 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
@@ -402,7 +401,6 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 10",
                 "🇫🇷FR | 🟢 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 13",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
                 "❔XX | 🔴 | vless | @free1_vpn | 2",
                 "🚩CF | 🔴 | vless | @free1_vpn | 4",
                 "❔XX | 🔴 | vless | @free1_vpn | 5",
@@ -551,7 +549,7 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -665,7 +663,6 @@
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 4",
                 "🚩CF | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
-                "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 0",
                 "❔XX | 🔴 | vless | @ServerNett | 1",
                 "❔XX | 🔴 | vless | @ServerNett | 2",
@@ -777,7 +774,6 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 10",
                 "🇫🇷FR | 🟢 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 13",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
                 "❔XX | 🔴 | vless | @free1_vpn | 2",
                 "🚩CF | 🔴 | vless | @free1_vpn | 4",
                 "❔XX | 🔴 | vless | @free1_vpn | 5",
@@ -2185,7 +2181,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -4807,20 +4803,6 @@
                 "headers": {
                     "Host": "join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 1",
-            "type": "vless",
-            "server": "152.53.230.194",
-            "server_port": 20821,
-            "uuid": "1e3b70d6-02f1-4307-ba55-9266ab4c53f4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -7699,37 +7681,6 @@
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 13",
-            "type": "vless",
-            "server": "cname.proxystore11.news",
-            "server_port": 2087,
-            "uuid": "c0313f79-308d-4f72-9552-0a63bc89caf7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "panel.proxystore11.news",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/prx11",
-                "headers": {
-                    "Host": "panel.proxystore11.news"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 14",
             "type": "vless",
             "server": "cname.proxystore11.news",
             "server_port": 2087,
