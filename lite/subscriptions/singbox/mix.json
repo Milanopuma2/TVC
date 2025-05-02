@@ -510,27 +510,6 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2052,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
-            "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
             "uuid": "telegram-id-ArV2ray",
@@ -546,6 +525,27 @@
                 "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
                 "headers": {
                     "Host": "151.101.64.155"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2052,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -596,7 +596,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "6389df1d-44a3-4f10-a03c-1193834987be",
+            "uuid": "558bcef0-038f-4ccd-9875-214a22a603a0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -617,7 +617,7 @@
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
-            "uuid": "f44418f2-1d1a-425f-aeff-3e1cad676715",
+            "uuid": "6389df1d-44a3-4f10-a03c-1193834987be",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
