@@ -475,12 +475,13 @@
                 "🚩CF | 🔴 | vless | @free1_vpn | 11",
                 "❔XX | 🔴 | vless | @free1_vpn | 12",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
@@ -925,12 +926,13 @@
                 "🚩CF | 🔴 | vless | @free1_vpn | 11",
                 "❔XX | 🔴 | vless | @free1_vpn | 12",
                 "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+                "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🟢 | vless | @Outlinev2rayNG | 3",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇳🇱NL | 🔴 | vless | @Outlinev2rayNG | 6",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 0",
                 "🇹🇷TR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
@@ -9226,6 +9228,40 @@
         {
             "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 0",
             "type": "vmess",
+            "server": "f641bba8-supts0-svp9t7-1oijm.cm.plebai.net",
+            "server_port": 15228,
+            "uuid": "bf140bc0-3f68-11ee-953a-f23c9164ca5d",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 1",
+            "type": "vmess",
+            "server": "69c584f2-suif40-tee612-2r82.cm5.p5pv.com",
+            "server_port": 17233,
+            "uuid": "03573f46-e944-11eb-a8bf-f23c91cfbbc9",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇨🇳CN | 🟢 | vmess | @Hope_Net | 2",
+            "type": "vmess",
             "server": "716545eb-sux8g0-t5oe1a-1ejod.cu.plebai.net",
             "server_port": 5228,
             "uuid": "6ada1622-e018-11ec-bb74-f23c9164ca5d",
@@ -9348,37 +9384,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "188.119.112.3"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 8",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "838f5273-5d2d-4630-a0f5-9cc8e4aef4d6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ZqFsGsMr.cAfUnEaR.InFo",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "ZqFsGsMr.cAfUnEaR.InFo"
                 }
             }
         },
