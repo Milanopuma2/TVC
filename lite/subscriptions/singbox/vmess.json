@@ -109,9 +109,6 @@
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇸🇬SG | 🟢 | vmess | @V2rayng_Fast | 0",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 4"
             ]
@@ -123,9 +120,6 @@
                 "🇩🇪DE | 🟢 | vmess | @CUSTOMVPNSERVER | 15",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
-                "🇸🇬SG | 🟢 | vmess | @V2rayng_Fast | 0",
-                "❔XX | 🟢 | vmess | @yaney_01 | 4",
-                "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
                 "🇺🇸US | 🟢 | vmess | @Hope_Net | 4"
             ],
@@ -201,52 +195,11 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🟢 | vmess | @V2rayng_Fast | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
-            "server": "84.247.146.189",
-            "server_port": 33754,
-            "uuid": "45f4f565-8c78-4906-a5b9-08ea9075cd31",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vmess | @yaney_01 | 4",
-            "type": "vmess",
-            "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
-            "server_port": 80,
-            "uuid": "46cfcfe1-e450-459d-a3ab-9406011ab3eb",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-            "type": "vmess",
-            "server": "104.26.8.210",
+            "server": "bookmyshow.com",
             "server_port": 443,
-            "uuid": "206259fd-09af-46ee-ec6d-5ac8a8291d6d",
+            "uuid": "7e0d9877-e120-493f-b3ad-867a12df7457",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -259,7 +212,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "104.26.8.210",
+                "server_name": "bookmyshow.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -269,14 +222,14 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/66",
+                "path": "\/",
                 "headers": {
-                    "Host": "104.26.8.210"
+                    "Host": "bookmyshow.com"
                 }
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
             "server": "ourfast.asia",
             "server_port": 443,
@@ -299,40 +252,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | @Hope_Net | 4",
-            "type": "vmess",
-            "server": "v32.emoyes.top",
-            "server_port": 8443,
-            "uuid": "c0526c5b-3e5f-4f75-a0e2-ffba36bb8ebf",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "v32.emoyes.top",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "v32.emoyes.top"
                 }
             }
         }
