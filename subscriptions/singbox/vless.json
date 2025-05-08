@@ -402,7 +402,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 241",
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 242",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 243",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 245",
+                "🚩CF | 🔴 | vless | @DailyV2RY | 245",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 246",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 247",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 248",
@@ -799,7 +799,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 241",
                 "🇳🇱NL | 🔴 | vless | @DailyV2RY | 242",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 243",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 245",
+                "🚩CF | 🔴 | vless | @DailyV2RY | 245",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 246",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 247",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 248",
@@ -7589,7 +7589,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 245",
+            "tag": "🚩CF | 🔴 | vless | @DailyV2RY | 245",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2053,
