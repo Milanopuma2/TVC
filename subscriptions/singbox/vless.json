@@ -162,7 +162,6 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 25",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 30",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 0",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 1",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 2",
@@ -376,7 +375,7 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 4",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 5",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 7",
-                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 9",
+                "❔XX | 🔴 | vless | @VmessProtocol | 9",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 11",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
@@ -544,7 +543,6 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 25",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 26",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 29",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 30",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 0",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 1",
                 "🇨🇿CZ | 🔴 | vless | @V2pedia | 2",
@@ -758,7 +756,7 @@
                 "❔XX | 🔴 | vless | @VmessProtocol | 4",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 5",
                 "🚩CF | 🔴 | vless | @VmessProtocol | 7",
-                "🇩🇪DE | 🔴 | vless | @VmessProtocol | 9",
+                "❔XX | 🔴 | vless | @VmessProtocol | 9",
                 "🇩🇪DE | 🔴 | vless | @VmessProtocol | 11",
                 "🇳🇱NL | 🔴 | vless | @VmessProtocol | 12",
                 "🇩🇪DE | 🟢 | vless | @VmessProtocol | 13",
@@ -1875,27 +1873,6 @@
                 "path": "\/olem\/ws?ed=1024",
                 "headers": {
                     "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 30",
-            "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "ca9074b2-2442-43b8-c7ab-5440cb7f3ef7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/olem\/ws?ed=1024",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
                 }
             }
         },
@@ -7063,7 +7040,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VmessProtocol | 9",
+            "tag": "❔XX | 🔴 | vless | @VmessProtocol | 9",
             "type": "vless",
             "server": "germany.khoreshtsabzi.ir",
             "server_port": 1773,
