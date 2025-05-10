@@ -180,10 +180,10 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 6",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -639,10 +639,10 @@
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 1",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 2",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 5",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
-                "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 6",
+                "🇨🇦CA | 🔴 | vless | @ARv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 10",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 11",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 14",
@@ -2473,7 +2473,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -2515,7 +2515,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 6",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 6",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -2536,7 +2536,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
