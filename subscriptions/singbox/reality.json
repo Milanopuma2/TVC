@@ -137,7 +137,7 @@
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 273",
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 275",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
-                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
@@ -201,7 +201,7 @@
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 273",
                 "🇩🇪DE | 🔴 | vless | @DailyV2RY | 275",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
-                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1",
+                "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
@@ -1226,7 +1226,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2",
             "type": "vless",
             "server": "Tabriz-Website.thorav.ir",
             "server_port": 443,

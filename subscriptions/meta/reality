@@ -146,7 +146,7 @@ proxies:
   - {"name":"🇩🇪DE | 🔴 | vless | @DailyV2RY | 273","type":"vless","server":"168.119.248.187","port":223,"udp":true,"uuid":"2084deb2-fb34-4fd5-9f74-f6e2c5360206","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"ms.sodogodping.ir","reality-opts":{"public-key":"JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o","short-id":"c7f175a94bd79f8d"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @DailyV2RY | 275","type":"vless","server":"136.244.89.150","port":4191,"udp":true,"uuid":"fd99e44d-a046-4477-b48b-8f15bc0f217a","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.pcmag.com","reality-opts":{"public-key":"I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY"}}
   - {"name":"🇺🇸US | 🔴 | vless | @proxystore11 | 0","type":"vless","server":"38.180.61.83","port":25529,"udp":true,"uuid":"7e38fa80-6cf3-4013-b576-5b3be737fb43","tls":true,"network":"xhttp","client-fingerprint":"chrome","servername":"vultr.com","reality-opts":{"public-key":"0grZUQjpy-Y2iQ_QaKJm2MTgJANaxew0iOSQMBffGiU","short-id":"c4bf2058763803b1"}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1","type":"vless","server":"Tabriz-Website.thorav.ir","port":443,"udp":true,"uuid":"eade0b85-d52f-44df-90e9-bceea0fbb59a","tls":true,"network":"grpc","client-fingerprint":"qq","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8","short-id":"b1417d"}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2","type":"vless","server":"Tabriz-Website.thorav.ir","port":443,"udp":true,"uuid":"eade0b85-d52f-44df-90e9-bceea0fbb59a","tls":true,"network":"grpc","client-fingerprint":"qq","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8","short-id":"b1417d"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 1","type":"vless","server":"Tabriz-Website.thorav.ir","port":443,"udp":true,"uuid":"5614c870-e60a-4a68-9505-6b49a1820a68","tls":true,"network":"grpc","client-fingerprint":"qq","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8","short-id":"b1417d"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 3","type":"vless","server":"Tabriz-Website.thorav.ir","port":443,"udp":true,"uuid":"eade0b85-d52f-44df-90e9-bceea0fbb59a","tls":true,"network":"grpc","client-fingerprint":"qq","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8","short-id":"b1417d"}}
   - {"name":"🇩🇪DE | 🔴 | vless | @flyv2ray | 4","type":"vless","server":"Tabriz-Website.thorav.ir","port":443,"udp":true,"uuid":"aa207aa9-2f65-499d-9c26-20546229e263","tls":true,"network":"grpc","client-fingerprint":"qq","servername":"www.cdn77.com","grpc-opts":{"grpc-service-name":"telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry"},"reality-opts":{"public-key":"S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8","short-id":"b1417d"}}
@@ -197,7 +197,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @DailyV2RY | 273'
       - '🇩🇪DE | 🔴 | vless | @DailyV2RY | 275'
       - '🇺🇸US | 🔴 | vless | @proxystore11 | 0'
-      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1'
+      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 3'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 4'
@@ -248,7 +248,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @DailyV2RY | 273'
       - '🇩🇪DE | 🔴 | vless | @DailyV2RY | 275'
       - '🇺🇸US | 🔴 | vless | @proxystore11 | 0'
-      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1'
+      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 3'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 4'
@@ -298,7 +298,7 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @DailyV2RY | 273'
       - '🇩🇪DE | 🔴 | vless | @DailyV2RY | 275'
       - '🇺🇸US | 🔴 | vless | @proxystore11 | 0'
-      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 1'
+      - '🇩🇪DE | 🔴 | vless | @Outlinev2rayNG | 2'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 1'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 3'
       - '🇩🇪DE | 🔴 | vless | @flyv2ray | 4'
