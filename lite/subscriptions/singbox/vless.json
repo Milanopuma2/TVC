@@ -152,7 +152,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇫🇮FI | 🔴 | vless | @flyv2ray | 1",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -215,7 +215,7 @@
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 0",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 8",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇫🇮FI | 🔴 | vless | @flyv2ray | 1",
+                "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -1300,7 +1300,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @flyv2ray | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 1",
             "type": "vless",
             "server": "32892393.web-manage.com.tr",
             "server_port": 2172,
