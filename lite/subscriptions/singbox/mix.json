@@ -137,8 +137,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 147",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 148",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 139",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
@@ -171,7 +170,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -212,8 +211,7 @@
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 17",
                 "🇨🇳CN | 🟢 | vmess | @mftizi | 18",
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 0",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 147",
-                "🇳🇱NL | 🔴 | vless | @prrofile_purple | 148",
+                "🇮🇷IR | 🔴 | vless | @prrofile_purple | 139",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 6",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0",
@@ -246,7 +244,7 @@
                 "🇺🇸US | 🔴 | vless | @kingofilter | 12",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇺🇸US | 🔴 | vless | @SvnTeam | 7",
-                "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+                "❔XX | 🔴 | vless | @SvnTeam | 8",
                 "🇮🇹IT | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -964,31 +962,24 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 147",
+            "tag": "🇮🇷IR | 🔴 | vless | @prrofile_purple | 139",
             "type": "vless",
-            "server": "64.227.77.203",
-            "server_port": 443,
-            "uuid": "86b54d8f-fb29-4326-a05f-f7e61896286f",
+            "server": "85.133.206.14",
+            "server_port": 33912,
+            "uuid": "d2bdf18d-dadc-427f-9b0b-5e68fdd00521",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇳🇱NL | 🔴 | vless | @prrofile_purple | 148",
-            "type": "vless",
-            "server": "64.227.77.203",
-            "server_port": 443,
-            "uuid": "86b54d8f-fb29-4326-a05f-f7e61896286f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram:@summertimeus",
+                "headers": {
+                    "Host": "85.133.206.14"
+                }
             }
         },
         {
@@ -1740,7 +1731,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @SvnTeam | 8",
+            "tag": "❔XX | 🔴 | vless | @SvnTeam | 8",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
