@@ -122,7 +122,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 0",
+                "🇫🇮FI | 🔴 | vless | @vpn_xw | 0",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -154,8 +154,8 @@
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 1",
                 "🇯🇵JP | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -189,7 +189,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 18",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 19",
-                "🇩🇪DE | 🔴 | vless | @vpn_xw | 0",
+                "🇫🇮FI | 🔴 | vless | @vpn_xw | 0",
                 "🇮🇷IR | 🔴 | vless | @vpn_xw | 1",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
@@ -221,8 +221,8 @@
                 "🇮🇷IR | 🟢 | vless | @proxystore11 | 1",
                 "🇯🇵JP | 🔴 | vless | @free1_vpn | 7",
                 "🇩🇪DE | 🔴 | vless | @fnet00 | 0",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "❔XX | 🔴 | vless | @flyv2ray | 0",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -623,7 +623,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @vpn_xw | 0",
+            "tag": "🇫🇮FI | 🔴 | vless | @vpn_xw | 0",
             "type": "vless",
             "server": "3982390233.torob.com.tr",
             "server_port": 2182,
@@ -1410,10 +1410,10 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
-            "server": "209.208.227.150",
-            "server_port": 2096,
+            "server": "www.speedtest.net",
+            "server_port": 443,
             "uuid": "9e769ce1-34be-4e3f-b0a6-823f30eb8f69",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1424,7 +1424,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "DrOt0Ai1Oq.DeRaKhT.iNfO",
+                "server_name": "7N71aSdPzU.sOuBlOtIk.InFo",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1436,12 +1436,12 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "DrOt0Ai1Oq.DeRaKhT.iNfO"
+                    "Host": "7N71aSdPzU.sOuBlOtIk.InFo"
                 }
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 0",
+            "tag": "❔XX | 🔴 | vless | @flyv2ray | 0",
             "type": "vless",
             "server": "Tabriz-Website.thorav.ir",
             "server_port": 443,
