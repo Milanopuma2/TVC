@@ -505,14 +505,14 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🚩CF | 🔴 | vless | @kingofilter | 0",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 6",
-                "🇬🇧GB | 🟢 | ss | @kingofilter | 8",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 9",
-                "🚩CF | 🔴 | vless | @kingofilter | 10",
+                "🇩🇪DE | 🟢 | ss | @kingofilter | 0",
+                "🚩CF | 🔴 | vless | @kingofilter | 1",
+                "🇫🇮FI | 🟢 | vless | @kingofilter | 7",
+                "🇬🇧GB | 🟢 | ss | @kingofilter | 9",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
                 "🚩CF | 🔴 | vless | @kingofilter | 11",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 12",
-                "🇨🇦CA | 🟢 | ss | @kingofilter | 13",
+                "🚩CF | 🔴 | vless | @kingofilter | 12",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 13",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
@@ -932,14 +932,14 @@
                 "❔XX | 🔴 | vless | @vpn_go67 | 19",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🚩CF | 🔴 | vless | @kingofilter | 0",
-                "🇫🇮FI | 🟢 | vless | @kingofilter | 6",
-                "🇬🇧GB | 🟢 | ss | @kingofilter | 8",
-                "🇩🇪DE | 🔴 | vless | @kingofilter | 9",
-                "🚩CF | 🔴 | vless | @kingofilter | 10",
+                "🇩🇪DE | 🟢 | ss | @kingofilter | 0",
+                "🚩CF | 🔴 | vless | @kingofilter | 1",
+                "🇫🇮FI | 🟢 | vless | @kingofilter | 7",
+                "🇬🇧GB | 🟢 | ss | @kingofilter | 9",
+                "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
                 "🚩CF | 🔴 | vless | @kingofilter | 11",
-                "🇺🇸US | 🔴 | vless | @kingofilter | 12",
-                "🇨🇦CA | 🟢 | ss | @kingofilter | 13",
+                "🚩CF | 🔴 | vless | @kingofilter | 12",
+                "🇺🇸US | 🔴 | vless | @kingofilter | 13",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇩🇪DE | 🟢 | vless | @SvnTeam | 1",
@@ -10642,7 +10642,17 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @kingofilter | 0",
+            "tag": "🇩🇪DE | 🟢 | ss | @kingofilter | 0",
+            "type": "shadowsocks",
+            "server": "45.150.32.13",
+            "server_port": 38707,
+            "method": "chacha20-ietf-poly1305",
+            "password": "NMiJKeh4yMumfyYVvjq0LR",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @kingofilter | 1",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 80,
@@ -10663,7 +10673,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @kingofilter | 6",
+            "tag": "🇫🇮FI | 🟢 | vless | @kingofilter | 7",
             "type": "vless",
             "server": "65.109.192.110",
             "server_port": 55953,
@@ -10692,7 +10702,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | ss | @kingofilter | 8",
+            "tag": "🇬🇧GB | 🟢 | ss | @kingofilter | 9",
             "type": "shadowsocks",
             "server": "85.210.120.237",
             "server_port": 443,
@@ -10702,7 +10712,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 9",
+            "tag": "🇩🇪DE | 🔴 | vless | @kingofilter | 10",
             "type": "vless",
             "server": "45.80.111.113",
             "server_port": 8443,
@@ -10733,7 +10743,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @kingofilter | 10",
+            "tag": "🚩CF | 🔴 | vless | @kingofilter | 11",
             "type": "vless",
             "server": "172.67.204.84",
             "server_port": 443,
@@ -10764,7 +10774,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @kingofilter | 11",
+            "tag": "🚩CF | 🔴 | vless | @kingofilter | 12",
             "type": "vless",
             "server": "162.159.153.28",
             "server_port": 2083,
@@ -10795,7 +10805,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @kingofilter | 13",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -10824,16 +10834,6 @@
                     "Host": "ipsychO.SUEx12.Ir"
                 }
             }
-        },
-        {
-            "tag": "🇨🇦CA | 🟢 | ss | @kingofilter | 13",
-            "type": "shadowsocks",
-            "server": "142.4.216.225",
-            "server_port": 80,
-            "method": "chacha20-ietf-poly1305",
-            "password": "JIhN6rBKkaEboLNXVSv5rq",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
