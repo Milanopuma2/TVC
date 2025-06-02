@@ -149,14 +149,14 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
-                "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 12",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 12",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 290",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 291",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
+                "🇩🇪DE | 🟢 | vmess | @proxystore11 | 6",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 8",
@@ -174,8 +174,8 @@
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 6",
                 "🇺🇸US | 🟢 | ss | @kingofilter | 7",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
+                "❔XX | 🟢 | vless | @SvnTeam | 5",
+                "❔XX | 🟢 | vless | @SvnTeam | 6",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -228,14 +228,14 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
-                "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 12",
+                "❔XX | 🔴 | vless | @v2ray1_ng | 12",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 290",
                 "🇺🇸US | 🟢 | vless | @DailyV2RY | 291",
-                "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
+                "🇩🇪DE | 🟢 | vmess | @proxystore11 | 6",
                 "❔XX | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
                 "🇺🇸US | 🟢 | vless | @free1_vpn | 8",
@@ -253,8 +253,8 @@
                 "🇩🇪DE | 🔴 | vless | @kingofilter | 6",
                 "🇺🇸US | 🟢 | ss | @kingofilter | 7",
                 "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
-                "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
+                "❔XX | 🟢 | vless | @SvnTeam | 5",
+                "❔XX | 🟢 | vless | @SvnTeam | 6",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0",
                 "❔XX | 🔴 | vless | @VpnSkyy | 2",
                 "❔XX | 🔴 | vless | @VpnSkyy | 3"
@@ -1288,7 +1288,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @v2ray1_ng | 12",
+            "tag": "❔XX | 🔴 | vless | @v2ray1_ng | 12",
             "type": "vless",
             "server": "fr.lalegan.shop",
             "server_port": 2053,
@@ -1495,34 +1495,20 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @proxystore11 | 6",
-            "type": "vless",
-            "server": "cf.cishanjichang.me",
-            "server_port": 443,
-            "uuid": "432e1e8b-18ce-488f-8203-2ba54b2fb61f",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🇩🇪DE | 🟢 | vmess | @proxystore11 | 6",
+            "type": "vmess",
+            "server": "135.125.182.74",
+            "server_port": 28213,
+            "uuid": "81852771-76fb-4e94-e4f1-4e37a698a49a",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "us.cishanjichang.me",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/swordnewnewnew",
-                "headers": {
-                    "Host": "us.cishanjichang.me"
-                }
             }
         },
         {
@@ -1944,7 +1930,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 5",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 5",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
@@ -1973,7 +1959,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @SvnTeam | 6",
+            "tag": "❔XX | 🟢 | vless | @SvnTeam | 6",
             "type": "vless",
             "server": "SVNTEAM.MiSVN.iR",
             "server_port": 443,
