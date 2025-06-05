@@ -144,6 +144,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
@@ -218,6 +219,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
@@ -1171,6 +1173,20 @@
                 "headers": {
                     "Host": "MSV2RAY.fastly80-3.hosting-ip.com"
                 }
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 10",
+            "type": "vless",
+            "server": "37.32.42.22",
+            "server_port": 443,
+            "uuid": "eb1920ff-d816-4ca1-b832-4683cddebaa6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {

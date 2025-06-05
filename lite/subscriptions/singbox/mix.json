@@ -154,8 +154,8 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
-                "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 12",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
@@ -245,8 +245,8 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 2",
                 "🇺🇸US | 🔴 | vless | @MsV2ray | 3",
+                "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 10",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
-                "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 12",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "❔XX | 🔴 | vless | @MTConfig | 11",
@@ -1408,6 +1408,20 @@
             }
         },
         {
+            "tag": "🇮🇷IR | 🔴 | vless | @v2ray1_ng | 10",
+            "type": "vless",
+            "server": "37.32.42.22",
+            "server_port": 443,
+            "uuid": "eb1920ff-d816-4ca1-b832-4683cddebaa6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "🇺🇸US | 🔴 | vless | @v2ray1_ng | 11",
             "type": "vless",
             "server": "104.26.13.54",
@@ -1426,23 +1440,6 @@
                 "headers": {
                     "Host": "104.26.13.54"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vmess | @v2ray1_ng | 12",
-            "type": "vmess",
-            "server": "45.12.138.82",
-            "server_port": 54757,
-            "uuid": "cde9f074-c930-4aa3-a558-46bbc9d0a5a1",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
