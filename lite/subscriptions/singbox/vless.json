@@ -157,7 +157,7 @@
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 7",
                 "🇬🇧GB | 🔴 | vless | @free1_vpn | 10",
                 "❔XX | 🔴 | vless | @free1_vpn | 11",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇱🇹LT | 🔴 | vless | @Outlinev2rayNG | 6",
@@ -232,7 +232,7 @@
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 7",
                 "🇬🇧GB | 🔴 | vless | @free1_vpn | 10",
                 "❔XX | 🔴 | vless | @free1_vpn | 11",
-                "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
+                "❔XX | 🔴 | vless | @fnet00 | 2",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 3",
                 "🇷🇺RU | 🔴 | vless | @Outlinev2rayNG | 5",
                 "🇱🇹LT | 🔴 | vless | @Outlinev2rayNG | 6",
@@ -1519,7 +1519,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @fnet00 | 2",
+            "tag": "❔XX | 🔴 | vless | @fnet00 | 2",
             "type": "vless",
             "server": "public.misvn.ir",
             "server_port": 443,
