@@ -384,14 +384,14 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 253",
                 "❔XX | 🟢 | vless | @DailyV2RY | 254",
                 "❔XX | 🟢 | vless | @DailyV2RY | 255",
-                "❔XX | 🟢 | vless | @DailyV2RY | 256",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 256",
                 "❔XX | 🟢 | vless | @DailyV2RY | 257",
                 "❔XX | 🟢 | vless | @DailyV2RY | 258",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 259",
-                "❔XX | 🟢 | vless | @DailyV2RY | 260",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 261",
+                "❔XX | 🟢 | vless | @DailyV2RY | 259",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 260",
+                "❔XX | 🟢 | vless | @DailyV2RY | 261",
                 "❔XX | 🟢 | vless | @DailyV2RY | 262",
-                "❔XX | 🟢 | vless | @DailyV2RY | 263",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 263",
                 "🇫🇮FI | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
@@ -742,14 +742,14 @@
                 "❔XX | 🟢 | vless | @DailyV2RY | 253",
                 "❔XX | 🟢 | vless | @DailyV2RY | 254",
                 "❔XX | 🟢 | vless | @DailyV2RY | 255",
-                "❔XX | 🟢 | vless | @DailyV2RY | 256",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 256",
                 "❔XX | 🟢 | vless | @DailyV2RY | 257",
                 "❔XX | 🟢 | vless | @DailyV2RY | 258",
-                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 259",
-                "❔XX | 🟢 | vless | @DailyV2RY | 260",
-                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 261",
+                "❔XX | 🟢 | vless | @DailyV2RY | 259",
+                "🇩🇪DE | 🟢 | vless | @DailyV2RY | 260",
+                "❔XX | 🟢 | vless | @DailyV2RY | 261",
                 "❔XX | 🟢 | vless | @DailyV2RY | 262",
-                "❔XX | 🟢 | vless | @DailyV2RY | 263",
+                "🇬🇧GB | 🟢 | vless | @DailyV2RY | 263",
                 "🇫🇮FI | 🔴 | vless | @proxystore11 | 0",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 3",
@@ -7390,7 +7390,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 256",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 256",
             "type": "vless",
             "server": "v29.vxlimir.com",
             "server_port": 1370,
@@ -7477,7 +7477,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 259",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 259",
             "type": "vless",
             "server": "v02.vxlimir.com",
             "server_port": 1370,
@@ -7506,7 +7506,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 260",
+            "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 260",
             "type": "vless",
             "server": "v10.vxlimir.com",
             "server_port": 1370,
@@ -7535,7 +7535,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 261",
+            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 261",
             "type": "vless",
             "server": "v28.vxlimir.com",
             "server_port": 1370,
@@ -7593,7 +7593,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | @DailyV2RY | 263",
+            "tag": "🇬🇧GB | 🟢 | vless | @DailyV2RY | 263",
             "type": "vless",
             "server": "v21.vxlimir.com",
             "server_port": 1370,
