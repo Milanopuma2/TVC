@@ -164,7 +164,7 @@
             "type": "vless",
             "server": "95.164.16.166",
             "server_port": 2087,
-            "uuid": "75698d2b-62b2-406a-aa0b-6738fe12e73f",
+            "uuid": "dc008584-5304-40c9-a3d5-9977c76fce43",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -199,8 +199,8 @@
             "tag": "🇩🇪DE | 🟢 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "95.164.16.166",
-            "server_port": 3567,
-            "uuid": "a071aeaf-02b2-4f79-8dd9-001b2c15c00b",
+            "server_port": 2087,
+            "uuid": "75698d2b-62b2-406a-aa0b-6738fe12e73f",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -299,9 +299,9 @@
         {
             "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 318",
             "type": "vless",
-            "server": "v09.vxlimir.com",
+            "server": "v04.vxlimir.com",
             "server_port": 1370,
-            "uuid": "00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6",
+            "uuid": "ddfcdf76-ebdb-4a27-a8a6-f0f13b7d3431",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -328,9 +328,9 @@
         {
             "tag": "🇩🇪DE | 🟢 | vless | @DailyV2RY | 319",
             "type": "vless",
-            "server": "v07.vxlimir.com",
+            "server": "v02.vxlimir.com",
             "server_port": 1370,
-            "uuid": "00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6",
+            "uuid": "ddfcdf76-ebdb-4a27-a8a6-f0f13b7d3431",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
