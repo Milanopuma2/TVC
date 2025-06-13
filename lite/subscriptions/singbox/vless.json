@@ -130,8 +130,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "❔XX | 🔴 | vless | @prrofile_purple | 69",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 147",
+                "❔XX | 🔴 | vless | @prrofile_purple | 148",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -199,8 +199,8 @@
                 "❔XX | 🔴 | vless | @v2logy | 10",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 20",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "❔XX | 🔴 | vless | @prrofile_purple | 69",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
+                "🇩🇪DE | 🔴 | vless | @prrofile_purple | 147",
+                "❔XX | 🔴 | vless | @prrofile_purple | 148",
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 7",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 5",
@@ -807,38 +807,46 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 69",
+            "tag": "🇩🇪DE | 🔴 | vless | @prrofile_purple | 147",
             "type": "vless",
-            "server": "[2a01:4f8:1c1b:e1d0::1]",
-            "server_port": 8888,
-            "uuid": "Parsashonam-248",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 70",
-            "type": "vless",
-            "server": "www.visa.com",
-            "server_port": 8880,
-            "uuid": "0623826f-6b43-4a96-ac3f-4dabaeaa61a7",
-            "flow": "",
+            "server": "lunavopershian.adas.monster",
+            "server_port": 38290,
+            "uuid": "d4e36d8c-623b-4413-b461-a99d786c4b55",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=2560",
-                "headers": {
-                    "Host": "www.visa.com"
+            "tls": {
+                "enabled": true,
+                "server_name": "lunavopershiansni369871.adas.monster",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM",
+                    "short_id": "e559dd"
                 }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | @prrofile_purple | 148",
+            "type": "vless",
+            "server": "[2a01:4f8:1c1b:247d::1]",
+            "server_port": 34011,
+            "uuid": "TELEGRAM-ServerNett",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
             }
         },
         {
