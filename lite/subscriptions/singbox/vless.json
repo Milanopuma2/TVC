@@ -150,6 +150,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
@@ -213,6 +214,7 @@
                 "❔XX | 🔴 | vless | @MTConfig | 11",
                 "❔XX | 🔴 | vless | @MTConfig | 12",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 8",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
@@ -1228,6 +1230,37 @@
                 "path": "\/yeTxGofK7eV9fR3N?ed=2560",
                 "headers": {
                     "Host": "172.67.215.253"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 0",
+            "type": "vless",
+            "server": "silkbook.com",
+            "server_port": 443,
+            "uuid": "d0298536-d670-4045-bbb1-ddd5ea68683e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "azadnet-btq.pages.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/azadnet-btq.pages.dev\/?ed=2560",
+                "headers": {
+                    "Host": "azadnet-btq.pages.dev"
                 }
             }
         },
