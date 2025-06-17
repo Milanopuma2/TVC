@@ -114,7 +114,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @ipV2Ray | 8",
+                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 24",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 25",
@@ -153,8 +153,8 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
-                "🇦🇲AM | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇦🇲AM | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -179,7 +179,7 @@
                 "❔XX | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "❔XX | 🔴 | vless | @ipV2Ray | 8",
+                "🇩🇪DE | 🔴 | vless | @ipV2Ray | 8",
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 24",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 25",
@@ -218,8 +218,8 @@
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
-                "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
-                "🇦🇲AM | 🔴 | vless | @flyv2ray | 8",
+                "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
+                "🇦🇲AM | 🔴 | vless | @flyv2ray | 9",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
@@ -427,7 +427,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇩🇪DE | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "www.speedtest-divar.ir",
             "server_port": 443,
@@ -1215,9 +1215,9 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
-            "server": "172.66.138.99",
+            "server": "172.67.11.138",
             "server_port": 80,
-            "uuid": "68b48eeb-5770-4eb3-9b77-deeb77a41ccf",
+            "uuid": "b55ec078-3b17-4ed1-a697-71f464cdcaaa",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1229,7 +1229,7 @@
                 "type": "ws",
                 "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "varzesh3.varzesh.dpdns.org"
+                    "Host": "172.67.11.138"
                 }
             }
         },
@@ -1269,7 +1269,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @flyv2ray | 8",
             "type": "vless",
             "server": "151.101.64.155",
             "server_port": 80,
@@ -1290,7 +1290,7 @@
             }
         },
         {
-            "tag": "🇦🇲AM | 🔴 | vless | @flyv2ray | 8",
+            "tag": "🇦🇲AM | 🔴 | vless | @flyv2ray | 9",
             "type": "vless",
             "server": "45.83.143.71",
             "server_port": 443,
