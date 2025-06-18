@@ -113,7 +113,7 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 14",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
@@ -146,7 +146,7 @@
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 5",
+                "🇨🇦CA | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
@@ -176,7 +176,7 @@
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 1",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
-                "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+                "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
                 "🇩🇪DE | 🔴 | vless | @ipV2Ray | 9",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 14",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
@@ -209,7 +209,7 @@
                 "🇷🇺RU | 🔴 | vless | @free1_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
-                "🇺🇸US | 🔴 | vless | @fnet00 | 5",
+                "🇨🇦CA | 🔴 | vless | @fnet00 | 5",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1",
                 "🇸🇬SG | 🔴 | vless | @FreakConfig | 7",
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 8",
@@ -380,7 +380,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ipV2Ray | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @ipV2Ray | 8",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -1179,7 +1179,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @fnet00 | 5",
+            "tag": "🇨🇦CA | 🔴 | vless | @fnet00 | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2096,

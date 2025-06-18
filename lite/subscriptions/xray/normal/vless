@@ -11,7 +11,7 @@ vless://dea94163-2cb3-466f-b32d-05922f0a02c4@94.182.105.30:44062?security=none&e
 vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@am3.estarlink1.us:51234?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @XsV2ray | 1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.138.162:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 16
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.169.204:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | @VlessConfig | 17
-vless://aa28dc63-1a56-41f9-bac7-70b9f0d743b7@www.speedtest.net:8080?type=httpupgrade&path=/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048&host=www.speedtest-divar.ir&security=none#🇺🇸US | 🔴 | vless | @ipV2Ray | 8
+vless://aa28dc63-1a56-41f9-bac7-70b9f0d743b7@www.speedtest.net:8080?type=httpupgrade&path=/Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry?ed=2048&host=www.speedtest-divar.ir&security=none#🇨🇦CA | 🔴 | vless | @ipV2Ray | 8
 vless://0d46bbe1-bfd1-45ad-be2d-03b531a2881b@www.speedtest-divar.ir:443?type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&authority=&security=reality&pbk=BwXeuQqugoDcQvIWNNUJ5iz7DYldgMJq23Gl9y-S-yc&fp=chrome&sni=fauxid.com&sid=eaab9c&spx=/#🇩🇪DE | 🔴 | vless | @ipV2Ray | 9
 vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#🇺🇸US | 🔴 | vless | @melov2ray | 14
 vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#🇺🇸US | 🔴 | vless | @melov2ray | 15
@@ -46,7 +46,7 @@ vless://57d3cc07-b809-4ad8-a34d-5a5196e51611@all.vipxali.cfd:2083?mode=gun&secur
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?path=Telegram:@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇷🇺RU | 🔴 | vless | @free1_vpn | 6
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/?ed=2560/?JOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#🇺🇸US | 🔴 | vless | @free1_vpn | 7
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=ZhN5vJ9dY7.9pEsC.cOm&type=ws&host=ZhN5vJ9dY7.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#🇺🇸US | 🔴 | vless | @fnet00 | 4
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=Q03l9EiQiA.9pEsC.cOm&type=ws&host=Q03l9EiQiA.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#🇺🇸US | 🔴 | vless | @fnet00 | 5
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=Q03l9EiQiA.9pEsC.cOm&type=ws&host=Q03l9EiQiA.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#🇨🇦CA | 🔴 | vless | @fnet00 | 5
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?path=/?ed=2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 1
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🇸🇬SG | 🔴 | vless | @FreakConfig | 7
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?path=/?ed=2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🇺🇸US | 🔴 | vless | @FreakConfig | 8
