@@ -483,7 +483,7 @@
             "logo": null
         },
         "type": "reality",
-        "config": "vless:\/\/telegram-id-ArV2ray@84.32.103.234:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&sni=ftp.debian.org&sid=688c#🇱🇹LT%20|%20🔴%20|%20vless%20|%20@ARv2ray%20|%206"
+        "config": "vless:\/\/telegram-id-ArV2ray@84.32.103.234:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&sni=ftp.debian.org&sid=688c#🇳🇱NL%20|%20🔴%20|%20vless%20|%20@ARv2ray%20|%206"
     },
     {
         "channel": {
@@ -1599,7 +1599,7 @@
             "logo": null
         },
         "type": "vmess",
-        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6ImNmLmZvdmkudGsiLCJwb3J0IjoiNDQzIiwiaWQiOiJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImZveHBvbC5mb3ZpLnRrIiwicGF0aCI6IlwvZWlzYXNxYSIsInRscyI6InRscyIsInNuaSI6ImNmLmZvdmkudGsiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDUifQ=="
+        "config": "vmess:\/\/eyJ2IjoiMiIsImFkZCI6ImNmLmZvdmkudGsiLCJwb3J0IjoiNDQzIiwiaWQiOiJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImZveHBvbC5mb3ZpLnRrIiwicGF0aCI6IlwvZWlzYXNxYSIsInRscyI6InRscyIsInNuaSI6ImNmLmZvdmkudGsiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNBIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDUifQ=="
     },
     {
         "channel": {
