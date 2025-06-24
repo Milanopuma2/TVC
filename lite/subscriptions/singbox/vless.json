@@ -150,8 +150,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 12",
-                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 12",
-                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 13",
+                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 14",
+                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 15",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
@@ -166,7 +166,7 @@
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
+                "🇮🇹IT | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ]
@@ -219,8 +219,8 @@
                 "❔XX | 🔴 | vless | @MTConfig | 4",
                 "🇺🇸US | 🔴 | vless | @MTConfig | 5",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 12",
-                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 12",
-                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 13",
+                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 14",
+                "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 15",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 4",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
@@ -235,7 +235,7 @@
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
-                "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
+                "🇮🇹IT | 🔴 | vless | @GozargahVPN | 0",
                 "🇩🇪DE | 🔴 | vless | @SvnTeam | 0",
                 "🇷🇺RU | 🔴 | vless | @V2FETCH | 0"
             ],
@@ -1219,11 +1219,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 12",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 14",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
-            "uuid": "5a9e168e-1fed-4137-9de2-fbe5fe9ec691",
+            "uuid": "85f77267-cb35-4c00-9f68-8c063076d0d3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1240,11 +1240,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @v2ray_vpn_ir | 15",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
-            "uuid": "c4396df5-beef-434f-86e0-b891a992f4c2",
+            "uuid": "b093b9d7-afe4-4106-8ede-93f27fffe30b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1559,7 +1559,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @GozargahVPN | 0",
+            "tag": "🇮🇹IT | 🔴 | vless | @GozargahVPN | 0",
             "type": "vless",
             "server": "GozargahVPN.fastly80-3.hosting-ip.com",
             "server_port": 80,
