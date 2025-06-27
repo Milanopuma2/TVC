@@ -41,8 +41,8 @@ vless://064ba335-b5f7-4bd8-83b7-81255581b220@185.29.223.151:2083?security=none&e
 vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@199.232.214.172:80?security=&type=tcp&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 0
 vless://a5b02134-d838-4c8f-ad42-cc6905264e4b@marzban56.boshrachoice.ir:8443?type=tcp&headerType=http&host=www.speedtest.net&security=none#🇩🇪DE | 🔴 | vless | @vmessorg | 9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=/?ed=2048&security=none#🇺🇸US | 🔴 | vless | @vmessorg | 10
-vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @v2rayngvpn | 3
-vless://498b2237-0990-41b3-921d-dc69f23d3c93@amirhgermany.norozhost.com:6890?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | @v2rayngvpn | 4
+vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @v2rayngvpn | 5
+vless://498b2237-0990-41b3-921d-dc69f23d3c93@amirhgermany.norozhost.com:6890?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | @v2rayngvpn | 6
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0
 vless://d9b9a733-703b-4f4a-9146-b7a815d25458@pishgam.sdcards.ir:80?path=/?ed=2087&security=none&encryption=none&host=dl.mobileggatte.ir&type=ws#🇺🇸US | 🔴 | vless | @ShadowProxy66 | 2
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE?ed=2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#🇺🇸US | 🔴 | vless | @v2ray_swhil | 43
