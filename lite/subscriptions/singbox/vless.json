@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 2",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 4",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
@@ -118,6 +118,8 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 6",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇨🇾CY | 🔴 | vless | @V2pedia | 3",
+                "🇬🇧GB | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
@@ -175,8 +177,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇨🇦CA | 🔴 | vless | @Parsashonam | 2",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
+                "🇨🇦CA | 🔴 | vless | @Parsashonam | 4",
                 "🇨🇦CA | 🔴 | vless | @v2_team | 1",
                 "🇮🇷IR | 🔴 | vless | @v2_team | 2",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
@@ -187,6 +189,8 @@
                 "🇺🇸US | 🔴 | vless | @ipV2Ray | 5",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 6",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 7",
+                "🇨🇾CY | 🔴 | vless | @V2pedia | 3",
+                "🇬🇧GB | 🔴 | vless | @V2pedia | 4",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
@@ -260,7 +264,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 2",
+            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2086,
@@ -281,7 +285,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 3",
+            "tag": "🇨🇦CA | 🔴 | vless | @Parsashonam | 4",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2086,
@@ -517,6 +521,66 @@
                 "path": "\/olem\/ws?ed=1024",
                 "headers": {
                     "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇾CY | 🔴 | vless | @V2pedia | 3",
+            "type": "vless",
+            "server": "154.92.9.46",
+            "server_port": 443,
+            "uuid": "ec8a65ad-aafc-4095-9b8c-ea10890ca629",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "simorgh.hpcode.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Javid-SHAH-KingRezaPahlavi\/?ed=2560",
+                "headers": {
+                    "Host": "simorgh.hpcode.ir"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧GB | 🔴 | vless | @V2pedia | 4",
+            "type": "vless",
+            "server": "p2.3dfigures.ir",
+            "server_port": 80,
+            "uuid": "2a7e7613-d490-425c-a9f1-c7e503143b8f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE",
+                    "short_id": "4d"
                 }
             }
         },
