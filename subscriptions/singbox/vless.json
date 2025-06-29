@@ -215,7 +215,7 @@
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 0",
+                "🇦🇪AE | 🔴 | vless | @V2rayNGn | 0",
                 "❔XX | 🔴 | vless | @V2rayNGn | 1",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 2",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 3",
@@ -224,7 +224,7 @@
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 6",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 9",
-                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 10",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 10",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 11",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 12",
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
@@ -403,7 +403,6 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 5",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
@@ -545,7 +544,7 @@
                 "❔XX | 🟢 | vless | @V2rayCollectorDonate | 9",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 15",
                 "❔XX | 🔴 | vless | @V2rayCollectorDonate | 21",
-                "🇺🇸US | 🔴 | vless | @V2rayNGn | 0",
+                "🇦🇪AE | 🔴 | vless | @V2rayNGn | 0",
                 "❔XX | 🔴 | vless | @V2rayNGn | 1",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 2",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 3",
@@ -554,7 +553,7 @@
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 6",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 8",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 9",
-                "🇨🇦CA | 🔴 | vless | @V2rayNGn | 10",
+                "🇺🇸US | 🔴 | vless | @V2rayNGn | 10",
                 "🇮🇷IR | 🔴 | vless | @V2rayNGn | 11",
                 "🇺🇸US | 🔴 | vless | @V2rayNGn | 12",
                 "🇮🇹IT | 🔴 | vless | @V2rayNGn | 13",
@@ -733,7 +732,6 @@
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 2",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 3",
                 "🚩CF | 🔴 | vless | @mehrosaboran | 5",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
@@ -3434,7 +3432,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 0",
+            "tag": "🇦🇪AE | 🔴 | vless | @V2rayNGn | 0",
             "type": "vless",
             "server": "62.60.179.100",
             "server_port": 15193,
@@ -3588,7 +3586,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @V2rayNGn | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @V2rayNGn | 10",
             "type": "vless",
             "server": "all2.golnar-clod.ir",
             "server_port": 8880,
@@ -7748,20 +7746,6 @@
                 "headers": {
                     "Host": "104.18.26.90"
                 }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 6",
-            "type": "vless",
-            "server": "91.99.203.193",
-            "server_port": 443,
-            "uuid": "153ee04c-dcc1-4ef8-a146-8fb31cec1f48",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
