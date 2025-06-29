@@ -391,10 +391,11 @@
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 12",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 1",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 3",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
+                "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&fp=safari&spx=\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam?ed=2048&type=tcp&sni=www.latimes.com#🇹🇷TR | 🟢 | vless | @mehrosaboran | 0",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 2",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 4",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 5",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
@@ -711,10 +712,11 @@
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 10",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 11",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 12",
-                "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 1",
-                "🚩CF | 🔴 | vless | @mehrosaboran | 3",
-                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
+                "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&fp=safari&spx=\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam?ed=2048&type=tcp&sni=www.latimes.com#🇹🇷TR | 🟢 | vless | @mehrosaboran | 0",
+                "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 2",
+                "🚩CF | 🔴 | vless | @mehrosaboran | 4",
+                "🇩🇪DE | 🔴 | vless | @mehrosaboran | 5",
                 "🇺🇸US | 🔴 | vless | @nofiltering2 | 1",
                 "🇮🇷IR | 🔴 | vless | @nofiltering2 | 2",
                 "❔XX | 🔴 | vless | @vpn_go67 | 0",
@@ -7360,7 +7362,36 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 0",
+            "tag": "@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&fp=safari&spx=\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam?ed=2048&type=tcp&sni=www.latimes.com#🇹🇷TR | 🟢 | vless | @mehrosaboran | 0",
+            "type": "vless",
+            "server": "45.133.36.230",
+            "server_port": 443,
+            "uuid": "bfff033b-6f6b-4c24-fd6c-5b7d6cf9b3cd",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "45.133.36.230",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @mehrosaboran | 1",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -7381,7 +7412,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 1",
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 2",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 80,
@@ -7402,7 +7433,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 3",
+            "tag": "🚩CF | 🔴 | vless | @mehrosaboran | 4",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 80,
@@ -7423,7 +7454,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 4",
+            "tag": "🇩🇪DE | 🔴 | vless | @mehrosaboran | 5",
             "type": "vless",
             "server": "91.99.203.193",
             "server_port": 443,
