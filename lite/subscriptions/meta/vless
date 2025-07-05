@@ -146,8 +146,8 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @Outline_Vpn | 10","type":"vless","server":"104.17.147.22","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Telegram@V2ray_Alpha/?ed=2560","headers":{"host":"redfree8mahsang6.redfree8.ir"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @prrofile_purple | 118","type":"vless","server":"185.235.197.174","port":80,"udp":false,"uuid":"a9f40576-6321-491f-bb4a-7d8a762eea27","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @UnlimitedDev | 0","type":"vless","server":"199.232.214.172","port":80,"udp":false,"uuid":"461b0991-d24b-42dc-87c2-c505cf1a01f4","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 15","type":"vless","server":"add.ski1plag.ir","port":80,"udp":false,"uuid":"7c9e3c1d-a360-4429-9189-e45a98de7fde","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/upload","headers":{"host":"my.ski1plag.ir"}}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @vmessorg | 16","type":"vless","server":"91.99.190.38","port":51615,"udp":false,"uuid":"2eaef053-5fd6-4def-b234-d760690355ff","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @vmessorg | 16","type":"vless","server":"add.ski1plag.ir","port":80,"udp":false,"uuid":"7c9e3c1d-a360-4429-9189-e45a98de7fde","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/upload","headers":{"host":"my.ski1plag.ir"}}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @vmessorg | 17","type":"vless","server":"91.99.190.38","port":51615,"udp":false,"uuid":"2eaef053-5fd6-4def-b234-d760690355ff","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0","type":"vless","server":"91.99.199.137","port":443,"udp":false,"uuid":"7b6eca4c-44ae-40c6-973a-4e3b29d30803","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @v2ray_swhil | 43","type":"vless","server":"www.speedtest.net","port":8443,"udp":false,"uuid":"a4682305-d2dc-4d1b-b753-30565a511ded","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com","ws-opts":{"path":"/Telegram,VPNCUSTOMIZE?ed=2480","headers":{"host":"Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @v2ray1_ng | 3","type":"vless","server":"188.114.98.18","port":80,"udp":false,"uuid":"a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/","headers":{"host":"q6.19kalA.co"}}}
@@ -208,8 +208,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 10'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 118'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 0'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 15'
-      - '🇩🇪DE | 🔴 | vless | @vmessorg | 16'
+      - '🇺🇸US | 🔴 | vless | @vmessorg | 16'
+      - '🇩🇪DE | 🔴 | vless | @vmessorg | 17'
       - '🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
       - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 3'
@@ -270,8 +270,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 10'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 118'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 0'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 15'
-      - '🇩🇪DE | 🔴 | vless | @vmessorg | 16'
+      - '🇺🇸US | 🔴 | vless | @vmessorg | 16'
+      - '🇩🇪DE | 🔴 | vless | @vmessorg | 17'
       - '🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
       - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 3'
@@ -331,8 +331,8 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @Outline_Vpn | 10'
       - '🇮🇷IR | 🔴 | vless | @prrofile_purple | 118'
       - '🇺🇸US | 🔴 | vless | @UnlimitedDev | 0'
-      - '🇺🇸US | 🔴 | vless | @vmessorg | 15'
-      - '🇩🇪DE | 🔴 | vless | @vmessorg | 16'
+      - '🇺🇸US | 🔴 | vless | @vmessorg | 16'
+      - '🇩🇪DE | 🔴 | vless | @vmessorg | 17'
       - '🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 0'
       - '🇺🇸US | 🔴 | vless | @v2ray_swhil | 43'
       - '🇺🇸US | 🔴 | vless | @v2ray1_ng | 3'
