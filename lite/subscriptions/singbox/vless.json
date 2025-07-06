@@ -122,8 +122,8 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 10",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -146,7 +146,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 78",
@@ -155,7 +155,7 @@
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
@@ -187,8 +187,8 @@
                 "🇺🇸US | 🔴 | vless | @V2pedia | 6",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 16",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 10",
                 "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 11",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
@@ -211,7 +211,7 @@
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 44",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 3",
                 "🇺🇸US | 🔴 | vless | @v2ray1_ng | 4",
-                "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
+                "🇨🇦CA | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 0",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 78",
@@ -220,7 +220,7 @@
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 5",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 4",
                 "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 3",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
+                "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 4",
                 "🇮🇷IR | 🔴 | vless | @flyv2ray | 6",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 4",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 5",
@@ -613,7 +613,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -627,7 +627,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1135,7 +1135,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
+            "tag": "🇨🇦CA | 🔴 | vless | @vless_vmess | 14",
             "type": "vless",
             "server": "172.67.187.170",
             "server_port": 443,
@@ -1349,7 +1349,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @Outlinev2rayNG | 4",
             "type": "vless",
             "server": "172.67.128.105",
             "server_port": 80,
