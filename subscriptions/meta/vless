@@ -121,8 +121,8 @@ dns:
 
 proxies:
   - {"name":"🚩CF | 🔴 | vless | @Parsashonam | 0","type":"vless","server":"104.16.53.11","port":2086,"udp":false,"uuid":"980176a7-0350-40c1-afa7-42367ed04d1c","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @v2_team | 0","type":"vless","server":"ns.cloudflare.com","port":2086,"udp":false,"uuid":"8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
-  - {"name":"🇨🇦CA | 🔴 | vless | @v2_team | 1","type":"vless","server":"ns.cloudflare.com","port":2086,"udp":false,"uuid":"8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2_team | 0","type":"vless","server":"ns.cloudflare.com","port":2086,"udp":false,"uuid":"8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2_team | 1","type":"vless","server":"ns.cloudflare.com","port":2086,"udp":false,"uuid":"8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9","tls":false,"network":"httpupgrade","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @v2_team | 2","type":"vless","server":"94.182.105.30","port":44062,"udp":false,"uuid":"dea94163-2cb3-466f-b32d-05922f0a02c4","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @XsV2ray | 1","type":"vless","server":"81.12.96.39","port":22631,"udp":false,"uuid":"77e6e498-98e4-4a0b-93cb-8e2c117c0ad3","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇹IT | 🔴 | vless | @XsV2ray | 2","type":"vless","server":"fast-01.saitsazs.ir","port":80,"udp":false,"uuid":"34a4cfb4-8b42-42ba-b087-6a338c2b3b4a","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
@@ -373,8 +373,8 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🚩CF | 🔴 | vless | @Parsashonam | 0'
-      - '🇨🇦CA | 🔴 | vless | @v2_team | 0'
-      - '🇨🇦CA | 🔴 | vless | @v2_team | 1'
+      - '🇺🇸US | 🔴 | vless | @v2_team | 0'
+      - '🇺🇸US | 🔴 | vless | @v2_team | 1'
       - '🇮🇷IR | 🔴 | vless | @v2_team | 2'
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 1'
       - '🇮🇹IT | 🔴 | vless | @XsV2ray | 2'
@@ -625,8 +625,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🚩CF | 🔴 | vless | @Parsashonam | 0'
-      - '🇨🇦CA | 🔴 | vless | @v2_team | 0'
-      - '🇨🇦CA | 🔴 | vless | @v2_team | 1'
+      - '🇺🇸US | 🔴 | vless | @v2_team | 0'
+      - '🇺🇸US | 🔴 | vless | @v2_team | 1'
       - '🇮🇷IR | 🔴 | vless | @v2_team | 2'
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 1'
       - '🇮🇹IT | 🔴 | vless | @XsV2ray | 2'
@@ -876,8 +876,8 @@ proxy-groups:
     interval: 60
     proxies:
       - '🚩CF | 🔴 | vless | @Parsashonam | 0'
-      - '🇨🇦CA | 🔴 | vless | @v2_team | 0'
-      - '🇨🇦CA | 🔴 | vless | @v2_team | 1'
+      - '🇺🇸US | 🔴 | vless | @v2_team | 0'
+      - '🇺🇸US | 🔴 | vless | @v2_team | 1'
       - '🇮🇷IR | 🔴 | vless | @v2_team | 2'
       - '🇮🇷IR | 🔴 | vless | @XsV2ray | 1'
       - '🇮🇹IT | 🔴 | vless | @XsV2ray | 2'
