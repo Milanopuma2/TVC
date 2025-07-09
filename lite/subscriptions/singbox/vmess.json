@@ -226,8 +226,8 @@
             "tag": "❔XX | 🟢 | vmess | @Hope_Net | 3",
             "type": "vmess",
             "server": "127.0.0.1",
-            "server_port": 1080,
-            "uuid": "aacbcba-baca-abca-dabc-ababcbaccbca",
+            "server_port": 2080,
+            "uuid": "acacbba-aacb-caba-acdb-bbcbbcaacaca",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -242,11 +242,11 @@
         {
             "tag": "🇯🇵JP | 🟢 | vmess | @Hope_Net | 4",
             "type": "vmess",
-            "server": "150.230.61.110",
-            "server_port": 23451,
-            "uuid": "786eeff8-126a-4d90-827d-da5d9410f0d4",
+            "server": "2kulp-g01.jp04-3771-vm0.entry.fr0307a.art",
+            "server_port": 444,
+            "uuid": "02bf7660-c38f-30b4-b740-2f9b4d717704",
             "security": "auto",
-            "alter_id": 0,
+            "alter_id": 1,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -254,13 +254,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "150.230.61.110"
-                }
             }
         },
         {
