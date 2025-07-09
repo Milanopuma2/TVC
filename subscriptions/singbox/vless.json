@@ -222,8 +222,8 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 9",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
@@ -283,7 +283,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 3",
+                "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
@@ -521,7 +521,6 @@
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
-                "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 1",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 2",
@@ -743,8 +742,8 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 6",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 7",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 8",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 9",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 11",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 13",
                 "❔XX | 🔴 | vless | @Lockey_vpn | 17",
@@ -804,7 +803,7 @@
                 "🇺🇸US | 🔴 | vless | @v2logy | 0",
                 "🇺🇸US | 🔴 | vless | @v2logy | 1",
                 "🇺🇸US | 🔴 | vless | @v2logy | 2",
-                "🇨🇦CA | 🔴 | vless | @v2logy | 3",
+                "🇺🇸US | 🔴 | vless | @v2logy | 3",
                 "🇺🇸US | 🔴 | vless | @v2logy | 4",
                 "🇺🇸US | 🔴 | vless | @v2logy | 5",
                 "🇩🇪DE | 🔴 | vless | @v2logy | 6",
@@ -1042,7 +1041,6 @@
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
-                "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 0",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 1",
                 "🇩🇪DE | 🔴 | vless | @lrnbymaa | 2",
@@ -3720,7 +3718,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 9",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 9",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3734,7 +3732,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 10",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 10",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -4887,7 +4885,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2logy | 3",
+            "tag": "🇺🇸US | 🔴 | vless | @v2logy | 3",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -10181,20 +10179,6 @@
             "server": "43.156.217.68",
             "server_port": 41283,
             "uuid": "4839e0b9-b275-47ea-81ab-9bfd38bbe7af",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 5",
-            "type": "vless",
-            "server": "vxlup.serverara.ir",
-            "server_port": 8484,
-            "uuid": "782e9a27-fcc5-4f0c-a6c9-327d0426daaa",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
