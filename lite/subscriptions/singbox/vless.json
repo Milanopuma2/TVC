@@ -109,10 +109,6 @@
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
-                "🇮🇷IR | 🔴 | vless | @v2_team | 2",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -130,8 +126,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇮🇷IR | 🔴 | vless | @rxv2ray | 13",
                 "🇮🇷IR | 🔴 | vless | @rxv2ray | 14",
-                "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 26",
-                "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 27",
+                "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 28",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
@@ -203,10 +198,6 @@
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
-                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
-                "🇮🇷IR | 🔴 | vless | @v2_team | 2",
-                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -224,8 +215,7 @@
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇮🇷IR | 🔴 | vless | @rxv2ray | 13",
                 "🇮🇷IR | 🔴 | vless | @rxv2ray | 14",
-                "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 26",
-                "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 27",
+                "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 28",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 6",
                 "🇺🇸US | 🔴 | vless | @DigiV2ray | 7",
                 "🇩🇪DE | 🔴 | vless | @DarkTeam_VPN | 3",
@@ -379,69 +369,6 @@
                 "path": "\/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam",
                 "headers": {
                     "Host": "104.17.147.22"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 1",
-            "type": "vless",
-            "server": "ns.cloudflare.com",
-            "server_port": 2086,
-            "uuid": "8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @v2_team | 2",
-            "type": "vless",
-            "server": "94.182.105.30",
-            "server_port": 44062,
-            "uuid": "dea94163-2cb3-466f-b32d-05922f0a02c4",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
-            "type": "vless",
-            "server": "tunnel.dearagoon.sbs",
-            "server_port": 60619,
-            "uuid": "0b608181-5ae5-4126-a7be-9cc1bedbe152",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
-            "type": "vless",
-            "server": "104.18.26.90",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80",
-                "headers": {
-                    "Host": "104.18.26.90"
                 }
             }
         },
@@ -871,28 +798,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 26",
-            "type": "vless",
-            "server": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM",
-            "server_port": 80,
-            "uuid": "68c421f0-278b-4fa4-9115-d86ee41d8798",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER",
-                "headers": {
-                    "Host": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 27",
+            "tag": "❔XX | 🔴 | vless | @CUSTOMVPNSERVER | 28",
             "type": "vless",
             "server": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM",
             "server_port": 80,
