@@ -109,6 +109,10 @@
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇮🇷IR | 🔴 | vless | @v2_team | 2",
+                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -117,7 +121,8 @@
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 16",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 7",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 21",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 22",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 9",
@@ -161,8 +166,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇸🇬SG | 🔴 | vless | @DailyV2RY | 199",
-                "🇪🇸ES | 🔴 | vless | @DailyV2RY | 200",
+                "🇸🇬SG | 🔴 | vless | @DailyV2RY | 218",
+                "🇪🇸ES | 🔴 | vless | @DailyV2RY | 219",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
@@ -198,6 +203,10 @@
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 1",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 38",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 39",
+                "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+                "🇮🇷IR | 🔴 | vless | @v2_team | 2",
+                "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
@@ -206,7 +215,8 @@
                 "🇦🇲AM | 🟢 | vless | @ipV2Ray | 4",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 16",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 7",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 21",
+                "🇺🇸US | 🔴 | vless | @V2pedia | 22",
                 "🇩🇪DE | 🔴 | vless | @ARv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 9",
@@ -250,8 +260,8 @@
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 14",
                 "🇺🇸US | 🔴 | vless | @vless_vmess | 15",
                 "🇺🇸US | 🔴 | vless | @VmessProtocol | 2",
-                "🇸🇬SG | 🔴 | vless | @DailyV2RY | 199",
-                "🇪🇸ES | 🔴 | vless | @DailyV2RY | 200",
+                "🇸🇬SG | 🔴 | vless | @DailyV2RY | 218",
+                "🇪🇸ES | 🔴 | vless | @DailyV2RY | 219",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
@@ -369,6 +379,69 @@
                 "path": "\/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam",
                 "headers": {
                     "Host": "104.17.147.22"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦CA | 🔴 | vless | @v2_team | 1",
+            "type": "vless",
+            "server": "ns.cloudflare.com",
+            "server_port": 2086,
+            "uuid": "8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @v2_team | 2",
+            "type": "vless",
+            "server": "94.182.105.30",
+            "server_port": 44062,
+            "uuid": "dea94163-2cb3-466f-b32d-05922f0a02c4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇮🇷IR | 🔴 | vless | @NIM_VPN_ir | 5",
+            "type": "vless",
+            "server": "tunnel.dearagoon.sbs",
+            "server_port": 60619,
+            "uuid": "0b608181-5ae5-4126-a7be-9cc1bedbe152",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
+            "type": "vless",
+            "server": "104.18.26.90",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80",
+                "headers": {
+                    "Host": "104.18.26.90"
                 }
             }
         },
@@ -594,11 +667,25 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 21",
             "type": "vless",
             "server": "germany.fast.hosting-ip.com",
             "server_port": 80,
-            "uuid": "55d7c587-7d65-4cd2-a51a-0a7fb6a63285",
+            "uuid": "15fa49ec-8220-43a7-9d28-1814a31be77a",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 22",
+            "type": "vless",
+            "server": "germany.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "69a7a973-a91b-4555-bf2a-fd35053f109e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1631,7 +1718,7 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🔴 | vless | @DailyV2RY | 199",
+            "tag": "🇸🇬SG | 🔴 | vless | @DailyV2RY | 218",
             "type": "vless",
             "server": "5.223.55.159",
             "server_port": 443,
@@ -1645,7 +1732,7 @@
             }
         },
         {
-            "tag": "🇪🇸ES | 🔴 | vless | @DailyV2RY | 200",
+            "tag": "🇪🇸ES | 🔴 | vless | @DailyV2RY | 219",
             "type": "vless",
             "server": "Fv.samiion73.ir",
             "server_port": 13469,
