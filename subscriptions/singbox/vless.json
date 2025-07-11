@@ -541,7 +541,6 @@
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
-                "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
                 "🇳🇱NL | 🔴 | vless | @lrnbymaa | 0",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
@@ -577,12 +576,12 @@
                 "🇳🇱NL | 🔴 | vless | @Capoit | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🚩CF | 🔴 | vless | @Capoit | 15",
-                "🚩CF | 🔴 | vless | @FreakConfig | 0",
                 "🚩CF | 🔴 | vless | @FreakConfig | 1",
-                "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
-                "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
+                "🚩CF | 🔴 | vless | @FreakConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 4",
+                "🇮🇷IR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
+                "🇫🇮FI | 🔴 | vless | @flyv2ray | 2",
                 "🇬🇧GB | 🔴 | vless | @flyv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🚩CF | 🔴 | vless | @flyv2ray | 7",
@@ -1089,7 +1088,6 @@
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 0",
                 "🇺🇸US | 🔴 | vless | @SafeNet_Server | 2",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
-                "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
                 "🇳🇱NL | 🔴 | vless | @lrnbymaa | 0",
                 "🚩CF | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
@@ -1125,12 +1123,12 @@
                 "🇳🇱NL | 🔴 | vless | @Capoit | 12",
                 "🇺🇸US | 🔴 | vless | @Capoit | 13",
                 "🚩CF | 🔴 | vless | @Capoit | 15",
-                "🚩CF | 🔴 | vless | @FreakConfig | 0",
                 "🚩CF | 🔴 | vless | @FreakConfig | 1",
-                "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
-                "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
+                "🚩CF | 🔴 | vless | @FreakConfig | 2",
+                "🇩🇪DE | 🔴 | vless | @FreakConfig | 4",
+                "🇮🇷IR | 🔴 | vless | @FreakConfig | 5",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 1",
-                "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
+                "🇫🇮FI | 🔴 | vless | @flyv2ray | 2",
                 "🇬🇧GB | 🔴 | vless | @flyv2ray | 3",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 6",
                 "🚩CF | 🔴 | vless | @flyv2ray | 7",
@@ -10631,20 +10629,6 @@
             }
         },
         {
-            "tag": "🇸🇬SG | 🔴 | vless | @SafeNet_Server | 4",
-            "type": "vless",
-            "server": "43.156.217.68",
-            "server_port": 41283,
-            "uuid": "4839e0b9-b275-47ea-81ab-9bfd38bbe7af",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "🇳🇱NL | 🔴 | vless | @lrnbymaa | 0",
             "type": "vless",
             "server": "188.227.84.170",
@@ -11442,7 +11426,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @FreakConfig | 0",
+            "tag": "🚩CF | 🔴 | vless | @FreakConfig | 1",
             "type": "vless",
             "server": "104.18.26.90",
             "server_port": 443,
@@ -11473,7 +11457,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @FreakConfig | 1",
+            "tag": "🚩CF | 🔴 | vless | @FreakConfig | 2",
             "type": "vless",
             "server": "162.159.129.11",
             "server_port": 2053,
@@ -11504,7 +11488,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | @FreakConfig | 4",
             "type": "vless",
             "server": "91.107.154.77",
             "server_port": 2020,
@@ -11518,7 +11502,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | @FreakConfig | 4",
+            "tag": "🇮🇷IR | 🔴 | vless | @FreakConfig | 5",
             "type": "vless",
             "server": "84.47.233.110",
             "server_port": 59761,
@@ -11546,7 +11530,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @flyv2ray | 2",
+            "tag": "🇫🇮FI | 🔴 | vless | @flyv2ray | 2",
             "type": "vless",
             "server": "start.adsplustnet.com",
             "server_port": 80,
