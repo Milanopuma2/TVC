@@ -189,7 +189,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 20",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
                 "🚩CF | 🔴 | vless | @V2pedia | 0",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 1",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 1",
                 "🚩CF | 🔴 | vless | @V2pedia | 2",
                 "🚩CF | 🔴 | vless | @V2pedia | 3",
                 "🚩CF | 🔴 | vless | @V2pedia | 4",
@@ -737,7 +737,7 @@
                 "🇺🇸US | 🔴 | vless | @melov2ray | 20",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
                 "🚩CF | 🔴 | vless | @V2pedia | 0",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 1",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 1",
                 "🚩CF | 🔴 | vless | @V2pedia | 2",
                 "🚩CF | 🔴 | vless | @V2pedia | 3",
                 "🚩CF | 🔴 | vless | @V2pedia | 4",
@@ -3108,7 +3108,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 1",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2096,
