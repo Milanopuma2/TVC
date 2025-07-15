@@ -110,6 +110,7 @@
                 "🇩🇪DE | 🟢 | vless | @vmessorg | 8",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
+                "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇨🇿CZ | 🔴 | vless | @mehrosaboran | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -125,6 +126,7 @@
                 "🇩🇪DE | 🟢 | vless | @vmessorg | 8",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 14",
                 "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 15",
+                "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
                 "🇨🇿CZ | 🔴 | vless | @mehrosaboran | 6",
                 "❔XX | 🔴 | vless | @vpn_go67 | 20",
                 "❔XX | 🔴 | vless | @vpn_go67 | 21",
@@ -286,6 +288,35 @@
                 "idle_timeout": "15s",
                 "ping_timeout": "15s",
                 "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @proxystore11 | 9",
+            "type": "vless",
+            "server": "vip1.proxystore11.news",
+            "server_port": 2052,
+            "uuid": "22477fe4-249e-4c18-8986-74b0f1f0657e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "vultr.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io",
+                    "short_id": "f8fcb589"
+                }
             }
         },
         {
