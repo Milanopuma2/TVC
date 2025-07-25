@@ -330,16 +330,15 @@ proxies:
   - {"name":"🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11","type":"vless","server":"speedy.mooo.info","port":80,"udp":false,"uuid":"feed2ab0-44da-488f-847b-3f2f42f560ad","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 12","type":"vless","server":"speedy.mooo.info","port":80,"udp":false,"uuid":"424e891c-f623-4f40-a14b-471537e8c6b9","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 13","type":"vless","server":"mci.dl101movis.ir","port":80,"udp":false,"uuid":"9e8c0b71-1e9e-4a4d-9e86-4ea9772ef534","tls":false,"network":"xhttp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | vless | @v2rayngvpn | 0","type":"vless","server":"104.16.243.59","port":443,"udp":false,"uuid":"75fde681-ec64-4654-86fa-30732e8e179c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"NGINX.NSCl.IR","ws-opts":{"path":"/assets","headers":{"host":"nginx.nscl.ir"}}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 2","type":"vless","server":"gr.dnszone.top","port":45500,"udp":false,"uuid":"0577b28a-3c76-422b-bf0e-8f4618ae9054","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇫🇮FI | 🔴 | vless | @v2rayngvpn | 5","type":"vless","server":"77.91.103.216","port":2082,"udp":false,"uuid":"9e769ce1-34be-4e3f-b0a6-823f30eb8f69","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸US | 🔴 | vless | @v2rayngvpn | 7","type":"vless","server":"modern-promise.seotoolsforyou.co.uk","port":80,"udp":false,"uuid":"bd9b0366-e5dd-4665-bd5b-9896bc7327ae","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
-  - {"name":"🇺🇸US | 🔴 | vless | @v2rayngvpn | 9","type":"vless","server":"freexxx.xhamster.biz.id","port":443,"udp":false,"uuid":"aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"freexxx.xhamster.biz.id","ws-opts":{"path":"/Free-CF-Proxy-AE19","headers":{"host":"freexxx.xhamster.biz.id"}}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10","type":"vless","server":"162.19.250.117","port":25921,"udp":false,"uuid":"598d2298-5e1f-4d07-bc4b-6d1949693852","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | vless | @v2rayngvpn | 11","type":"vless","server":"160.153.0.153","port":8443,"udp":false,"uuid":"376734bc-4db8-4317-b451-af0262cb01c7","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"InviNCIble.FAfA20.shOP","ws-opts":{"path":"/KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=2560","headers":{"host":"invincible.fafa20.shop"}}}
-  - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 12","type":"vless","server":"all97-vip.f-sub.com","port":1517,"udp":false,"uuid":"f7f0f020-3153-41b5-854b-304245d7bd0b","tls":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | vless | @v2rayngvpn | 15","type":"vless","server":"104.25.220.177","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/reklaz1FsDrIv7mW?ed=?ed=2560","headers":{"host":"vngsupply.ip-ddns.com"}}}
-  - {"name":"🚩CF | 🔴 | vless | @v2rayngvpn | 20","type":"vless","server":"172.67.65.158","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/Etb1L6YUdZFZuTOr?ed=2560","headers":{"host":"VngSuPpLY.IP-DdnS.com"}}}
+  - {"name":"🚩CF | 🔴 | vless | @v2rayngvpn | 1","type":"vless","server":"104.16.243.59","port":443,"udp":false,"uuid":"75fde681-ec64-4654-86fa-30732e8e179c","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"NGINX.NSCl.IR","ws-opts":{"path":"/assets","headers":{"host":"nginx.nscl.ir"}}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 3","type":"vless","server":"gr.dnszone.top","port":45500,"udp":false,"uuid":"0577b28a-3c76-422b-bf0e-8f4618ae9054","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇫🇮FI | 🔴 | vless | @v2rayngvpn | 6","type":"vless","server":"77.91.103.216","port":2082,"udp":false,"uuid":"9e769ce1-34be-4e3f-b0a6-823f30eb8f69","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2rayngvpn | 8","type":"vless","server":"modern-promise.seotoolsforyou.co.uk","port":80,"udp":false,"uuid":"bd9b0366-e5dd-4665-bd5b-9896bc7327ae","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/"}}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2rayngvpn | 10","type":"vless","server":"freexxx.xhamster.biz.id","port":443,"udp":false,"uuid":"aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"freexxx.xhamster.biz.id","ws-opts":{"path":"/Free-CF-Proxy-AE19","headers":{"host":"freexxx.xhamster.biz.id"}}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11","type":"vless","server":"162.19.250.117","port":25921,"udp":false,"uuid":"598d2298-5e1f-4d07-bc4b-6d1949693852","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | vless | @v2rayngvpn | 12","type":"vless","server":"160.153.0.153","port":8443,"udp":false,"uuid":"376734bc-4db8-4317-b451-af0262cb01c7","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"InviNCIble.FAfA20.shOP","ws-opts":{"path":"/KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=2560","headers":{"host":"invincible.fafa20.shop"}}}
+  - {"name":"🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13","type":"vless","server":"all97-vip.f-sub.com","port":1517,"udp":false,"uuid":"f7f0f020-3153-41b5-854b-304245d7bd0b","tls":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🚩CF | 🔴 | vless | @v2rayngvpn | 16","type":"vless","server":"104.25.220.177","port":8880,"udp":false,"uuid":"e9979910-79d1-4621-a93c-b2a579c44ba7","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/reklaz1FsDrIv7mW?ed=?ed=2560","headers":{"host":"vngsupply.ip-ddns.com"}}}
   - {"name":"🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0","type":"vless","server":"www.speedtest.net","port":80,"udp":false,"uuid":"53fa8faf-ba4b-4322-9c69-a3e5b1555049","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/?ed=2560","headers":{"host":"redfree8mahsang6.redfree8.ir"}}}
   - {"name":"🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 1","type":"vless","server":"irt.oremote.org","port":16103,"udp":false,"uuid":"a7e4e5db-c120-4953-9926-c9e5ed7729b0","tls":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 2","type":"vless","server":"94.101.176.12","port":443,"udp":false,"uuid":"2a54636c-20ab-42cd-b725-f0da347c50e2","tls":false,"network":"tcp","client-fingerprint":"chrome"}
@@ -722,16 +721,15 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11'
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 12'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 13'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 0'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 2'
-      - '🇫🇮FI | 🔴 | vless | @v2rayngvpn | 5'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 7'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 9'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 11'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 12'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 15'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 20'
+      - '🚩CF | 🔴 | vless | @v2rayngvpn | 1'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 3'
+      - '🇫🇮FI | 🔴 | vless | @v2rayngvpn | 6'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 8'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 10'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 12'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13'
+      - '🚩CF | 🔴 | vless | @v2rayngvpn | 16'
       - '🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 1'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 2'
@@ -1114,16 +1112,15 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11'
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 12'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 13'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 0'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 2'
-      - '🇫🇮FI | 🔴 | vless | @v2rayngvpn | 5'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 7'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 9'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 11'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 12'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 15'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 20'
+      - '🚩CF | 🔴 | vless | @v2rayngvpn | 1'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 3'
+      - '🇫🇮FI | 🔴 | vless | @v2rayngvpn | 6'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 8'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 10'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 12'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13'
+      - '🚩CF | 🔴 | vless | @v2rayngvpn | 16'
       - '🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 1'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 2'
@@ -1505,16 +1502,15 @@ proxy-groups:
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 11'
       - '🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 12'
       - '🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 13'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 0'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 2'
-      - '🇫🇮FI | 🔴 | vless | @v2rayngvpn | 5'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 7'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 9'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 10'
-      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 11'
-      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 12'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 15'
-      - '🚩CF | 🔴 | vless | @v2rayngvpn | 20'
+      - '🚩CF | 🔴 | vless | @v2rayngvpn | 1'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 3'
+      - '🇫🇮FI | 🔴 | vless | @v2rayngvpn | 6'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 8'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 10'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 11'
+      - '🇺🇸US | 🔴 | vless | @v2rayngvpn | 12'
+      - '🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13'
+      - '🚩CF | 🔴 | vless | @v2rayngvpn | 16'
       - '🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 0'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 1'
       - '🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 2'
