@@ -130,7 +130,7 @@
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 0",
                 "🇭🇺HU | 🟢 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
-                "🇺🇸US | 🟢 | vless | @vless_vmess | 8",
+                "🇺🇸US | 🟢 | vless | @vless_vmess | 10",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 5",
@@ -202,7 +202,7 @@
                 "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 0",
                 "🇭🇺HU | 🟢 | vless | @v2rayngvpn | 19",
                 "🇩🇪DE | 🟢 | vless | @ShadowProxy66 | 2",
-                "🇺🇸US | 🟢 | vless | @vless_vmess | 8",
+                "🇺🇸US | 🟢 | vless | @vless_vmess | 10",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 2",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 4",
                 "🇩🇪DE | 🟢 | vless | @proxystore11 | 5",
@@ -1018,7 +1018,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @vless_vmess | 8",
+            "tag": "🇺🇸US | 🟢 | vless | @vless_vmess | 10",
             "type": "vless",
             "server": "172.233.174.160",
             "server_port": 80,
