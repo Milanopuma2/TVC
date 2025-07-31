@@ -874,7 +874,7 @@
             "tuic",
             "hy2"
         ],
-        "title": "EUT_VPN خدافظ",
+        "title": null,
         "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/TUICity.jpg"
     },
     "SINABIGO": {
@@ -889,7 +889,7 @@
         "types": [
             "vless"
         ],
-        "title": "V2FETCH",
+        "title": null,
         "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/V2FETCH.jpg"
     },
     "VpnSkyy": {
@@ -943,7 +943,7 @@
         "types": [
             "vmess"
         ],
-        "title": "𝐈𝐒𝐕 | 𝐕𝐏𝐍",
+        "title": null,
         "logo": "https:\/\/raw.githubusercontent.com\/yebekhe\/TVC\/main\/channelsData\/logos\/ISVvpn.jpg"
     },
     "Miner_V2ray": {
