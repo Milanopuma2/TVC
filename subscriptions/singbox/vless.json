@@ -188,6 +188,7 @@
                 "🚩CF | 🔴 | vless | @ARv2ray | 7",
                 "🚩CF | 🔴 | vless | @ARv2ray | 10",
                 "🚩CF | 🔴 | vless | @ARv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 1",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 3",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 4",
@@ -296,7 +297,6 @@
                 "🇳🇱NL | 🟢 | vless | @prrofile_purple | 127",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 128",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 129",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 132",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 133",
@@ -700,6 +700,7 @@
                 "🚩CF | 🔴 | vless | @ARv2ray | 7",
                 "🚩CF | 🔴 | vless | @ARv2ray | 10",
                 "🚩CF | 🔴 | vless | @ARv2ray | 14",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 1",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 3",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 4",
@@ -808,7 +809,6 @@
                 "🇳🇱NL | 🟢 | vless | @prrofile_purple | 127",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 128",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 129",
-                "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 131",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 132",
                 "🚩CF | 🔴 | vless | @prrofile_purple | 133",
@@ -3100,6 +3100,27 @@
                 "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
                 "headers": {
                     "Host": "eDg.SpEeDtEsT2029.CoM"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 18",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "telegram-id-Arfilter",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80",
+                "headers": {
+                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -5503,27 +5524,6 @@
                 "path": "\/fgvtHUpS6R8Rv8s5?ed=2560",
                 "headers": {
                     "Host": "104.16.69.162"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @prrofile_purple | 130",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "telegram-id-Arfilter",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
