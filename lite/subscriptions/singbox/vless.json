@@ -119,10 +119,10 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 4",
@@ -149,7 +149,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
+                "🇨🇿CZ | 🔴 | vless | @v2rayngvpn | 17",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 18",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
@@ -208,10 +209,10 @@
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇺🇸US | 🔴 | vless | @melov2ray | 21",
                 "🇺🇸US | 🔴 | vless | @V2pedia | 8",
-                "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+                "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 10",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
-                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇩🇪DE | 🔴 | vless | @rxv2ray | 15",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 4",
@@ -238,7 +239,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 28",
                 "🇳🇱NL | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
+                "🇨🇿CZ | 🔴 | vless | @v2rayngvpn | 17",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 18",
                 "🇩🇪DE | 🔴 | vless | @FalconPolV2rayNG | 7",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @ShadowProxy66 | 0",
@@ -612,7 +614,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @ARv2ray | 17",
+            "tag": "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
             "type": "vless",
             "server": "172.66.40.99",
             "server_port": 443,
@@ -664,7 +666,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -678,7 +680,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 19",
+            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1233,12 +1235,12 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 23",
+            "tag": "🇨🇿CZ | 🔴 | vless | @v2rayngvpn | 17",
             "type": "vless",
-            "server": "104.18.36.24",
-            "server_port": 443,
-            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
-            "flow": "",
+            "server": "194.182.79.205",
+            "server_port": 33979,
+            "uuid": "fc6ca849-77a7-4157-b5c1-8a63f3c342fe",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
@@ -1247,19 +1249,45 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "server_name": "journalofbigdata.springeropen.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "a_Y7oMduAyyAMIaJ0iboDJevBATphOzjgq_6OvtB8DI",
+                    "short_id": "27a831"
                 }
             },
             "transport": {
+                "type": "grpc",
+                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 18",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "9c942b13-72da-45e4-bdbe-0598679209c5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
                 "type": "ws",
-                "path": "\/proxyip",
+                "path": "\/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT\/www.speedtest.net?ed=2080",
                 "headers": {
-                    "Host": "carlotta.shoorekeeper.cloudns.org"
+                    "Host": "www.speedtest.net"
                 }
             }
         },
