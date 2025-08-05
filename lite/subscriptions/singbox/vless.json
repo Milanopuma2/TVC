@@ -108,8 +108,8 @@
                 "URL-TEST",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 10",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 11",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 10",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 3",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 4",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9",
@@ -150,7 +150,7 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "\/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 152",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 153",
-                "🇨🇦CA | 🔴 | vless | @customv2ray | 32",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 32",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 33",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 25",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 26",
@@ -176,9 +176,10 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 14",
-                "🇫🇮FI | 🟢 | vless | @free1_vpn | 4",
+                "🇫🇮FI | 🟢 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @Capoit | 22",
                 "🇭🇺HU | 🟢 | vless | @Capoit | 23",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 15",
@@ -205,8 +206,8 @@
             "outbounds": [
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 12",
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 13",
-                "❔XX | 🔴 | vless | @Parsashonam | 10",
-                "🇸🇪SE | 🔴 | vless | @Parsashonam | 11",
+                "❔XX | 🔴 | vless | @Parsashonam | 9",
+                "🇸🇪SE | 🔴 | vless | @Parsashonam | 10",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 3",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 4",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9",
@@ -247,7 +248,7 @@
                 "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "\/Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 152",
                 "🇺🇸US | 🔴 | vless | @prrofile_purple | 153",
-                "🇨🇦CA | 🔴 | vless | @customv2ray | 32",
+                "🇺🇸US | 🔴 | vless | @customv2ray | 32",
                 "🇺🇸US | 🔴 | vless | @customv2ray | 33",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 25",
                 "🇺🇸US | 🔴 | vless | @vmessorg | 26",
@@ -273,9 +274,10 @@
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 14",
-                "🇫🇮FI | 🟢 | vless | @free1_vpn | 4",
+                "🇫🇮FI | 🟢 | vless | @free1_vpn | 3",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 6",
-                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
+                "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
                 "🇺🇸US | 🔴 | vless | @Capoit | 22",
                 "🇭🇺HU | 🟢 | vless | @Capoit | 23",
                 "🇩🇪DE | 🔴 | vless | @FreakConfig | 15",
@@ -358,11 +360,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | @Parsashonam | 10",
+            "tag": "❔XX | 🔴 | vless | @Parsashonam | 9",
             "type": "vless",
             "server": "[2a01:4f8:1c1a:dc2b::1]",
             "server_port": 8888,
-            "uuid": "Parsashonam-292",
+            "uuid": "Parsashonam-293",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -372,11 +374,11 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 11",
+            "tag": "🇸🇪SE | 🔴 | vless | @Parsashonam | 10",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
-            "uuid": "Parsashonam-292",
+            "uuid": "Parsashonam-293",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1294,7 +1296,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @customv2ray | 32",
+            "tag": "🇺🇸US | 🔴 | vless | @customv2ray | 32",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1867,7 +1869,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | @free1_vpn | 4",
+            "tag": "🇫🇮FI | 🟢 | vless | @free1_vpn | 3",
             "type": "vless",
             "server": "list.dayhostpro.com",
             "server_port": 14685,
@@ -1910,11 +1912,11 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 11",
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 9",
             "type": "vless",
-            "server": "172.67.65.158",
-            "server_port": 8880,
-            "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
+            "server": "cdnjs.com",
+            "server_port": 443,
+            "uuid": "db400287-fb42-441d-8a76-5624a8a96f49",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1922,11 +1924,52 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "rayan-roof.atena.dpdns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/Etb1L6YUdZFZuTOr?ed=2560",
+                "path": "\/?ed=2560",
                 "headers": {
-                    "Host": "172.67.65.158"
+                    "Host": "rayan-roof.atena.dpdns.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @Outlinev2rayNG | 10",
+            "type": "vless",
+            "server": "web.xhamster.biz.id",
+            "server_port": 443,
+            "uuid": "aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "web.xhamster.biz.id",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Free-CF-Proxy-AT29",
+                "headers": {
+                    "Host": "web.xhamster.biz.id"
                 }
             }
         },
