@@ -200,7 +200,7 @@
                 "🚩CF | 🔴 | vless | @ARv2ray | 10",
                 "🚩CF | 🔴 | vless | @ARv2ray | 14",
                 "🚩CF | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 1",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 1",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 2",
                 "🚩CF | 🔴 | vless | @shh_proxy | 4",
                 "🚩CF | 🔴 | vless | @shh_proxy | 6",
@@ -232,7 +232,7 @@
                 "🇳🇱NL | 🔴 | vless | @rxv2ray | 12",
                 "🚩CF | 🔴 | vless | @rxv2ray | 13",
                 "🚩CF | 🔴 | vless | @rxv2ray | 15",
-                "🇳🇱NL | 🔴 | vless | @rxv2ray | 16",
+                "🇮🇷IR | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🚩CF | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 1",
@@ -705,7 +705,7 @@
                 "🚩CF | 🔴 | vless | @ARv2ray | 10",
                 "🚩CF | 🔴 | vless | @ARv2ray | 14",
                 "🚩CF | 🔴 | vless | @ARv2ray | 17",
-                "🇺🇸US | 🔴 | vless | @shh_proxy | 1",
+                "🇨🇦CA | 🔴 | vless | @shh_proxy | 1",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 2",
                 "🚩CF | 🔴 | vless | @shh_proxy | 4",
                 "🚩CF | 🔴 | vless | @shh_proxy | 6",
@@ -737,7 +737,7 @@
                 "🇳🇱NL | 🔴 | vless | @rxv2ray | 12",
                 "🚩CF | 🔴 | vless | @rxv2ray | 13",
                 "🚩CF | 🔴 | vless | @rxv2ray | 15",
-                "🇳🇱NL | 🔴 | vless | @rxv2ray | 16",
+                "🇮🇷IR | 🔴 | vless | @rxv2ray | 16",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🚩CF | 🔴 | vless | @CUSTOMVPNSERVER | 0",
                 "🇺🇸US | 🔴 | vless | @CUSTOMVPNSERVER | 1",
@@ -3434,7 +3434,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @shh_proxy | 1",
+            "tag": "🇨🇦CA | 🔴 | vless | @shh_proxy | 1",
             "type": "vless",
             "server": "kafshu.ir",
             "server_port": 8080,
@@ -4033,7 +4033,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🔴 | vless | @rxv2ray | 16",
+            "tag": "🇮🇷IR | 🔴 | vless | @rxv2ray | 16",
             "type": "vless",
             "server": "45.131.4.147",
             "server_port": 80,
