@@ -106,25 +106,25 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 12",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 12",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 11",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 4",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 5",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 38",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 39",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 12",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 39",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 8",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 7",
@@ -175,8 +175,9 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
+                "🇨🇦CA | 🔴 | vless | @lrnbymaa | 4",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
+                "🇰🇷KR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 6",
@@ -207,25 +208,25 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 12",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 12",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 11",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 4",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 5",
-                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
                 "🇩🇪DE | 🔴 | vless | @NIM_VPN_ir | 9",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 14",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
-                "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 38",
-                "🇺🇸US | 🔴 | vless | @melov2ray | 39",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 12",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
+                "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
+                "🇨🇦CA | 🔴 | vless | @melov2ray | 39",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
                 "🇺🇸US | 🔴 | vless | @ARv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @shh_proxy | 8",
-                "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+                "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
                 "🇺🇸US | 🔴 | vless | @Lockey_vpn | 19",
                 "🇺🇸US | 🔴 | vless | @rxv2ray | 17",
                 "🇺🇸US | 🔴 | vless | @lightning6 | 7",
@@ -276,8 +277,9 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 1",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
+                "🇨🇦CA | 🔴 | vless | @lrnbymaa | 4",
+                "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
+                "🇰🇷KR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 5",
                 "🇫🇮FI | 🟢 | vless | @free1_vpn | 6",
@@ -324,7 +326,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 12",
             "type": "vless",
             "server": "188.114.98.112",
             "server_port": 2095,
@@ -445,7 +447,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 8",
+            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 8",
             "type": "vless",
             "server": "deep-radio.seotoolsforyou.co.uk",
             "server_port": 80,
@@ -587,7 +589,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -608,7 +610,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @VPNCUSTOMIZE | 5",
+            "tag": "🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 5",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -629,7 +631,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 38",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 38",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -650,7 +652,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 39",
+            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 39",
             "type": "vless",
             "server": "chat.deepseek.com",
             "server_port": 80,
@@ -671,7 +673,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 12",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 12",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -744,7 +746,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @Lockey_vpn | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @Lockey_vpn | 18",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 8880,
@@ -1910,7 +1912,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @lrnbymaa | 4",
+            "tag": "🇨🇦CA | 🔴 | vless | @lrnbymaa | 4",
             "type": "vless",
             "server": "104.21.112.1",
             "server_port": 80,
@@ -1931,17 +1933,45 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
+            "tag": "🇳🇱NL | 🔴 | vless | @ConfigsHUB | 17",
             "type": "vless",
-            "server": "65.109.201.108",
+            "server": "143.47.187.243",
             "server_port": 443,
-            "uuid": "b17ec18e-99af-40af-962b-0ad1b987d740",
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2744security=tls",
+                "headers": {
+                    "Host": "pvg.aghabeiki.homes"
+                }
+            }
+        },
+        {
+            "tag": "🇰🇷KR | 🔴 | vless | @ConfigsHUB | 18",
+            "type": "vless",
+            "server": "130.162.144.85",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2744security=tls",
+                "headers": {
+                    "Host": "pvg.aghabeiki.homes"
+                }
             }
         },
         {
