@@ -37,9 +37,4 @@ trojan://telegram-id-directvpn@13.39.59.229:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.72.122.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 14
 trojan://telegram-id-directvpn@63.176.11.175:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 15
 trojan://telegram-id-directvpn@13.37.253.72:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 16
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.226.194.21:46002#🇨🇳CN | 🔴 | trojan | @ConfigsHUB | 0
-trojan://blue2024@198.41.207.96:443?type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#🚩CF | 🔴 | trojan | @ConfigsHUB | 1
-trojan://blue2024@104.27.65.15:443?type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#🚩CF | 🔴 | trojan | @ConfigsHUB | 2
-trojan://NISHIKUITAN111@190.93.246.217:443#🚩CF | 🔴 | trojan | @ConfigsHUB | 3
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=customer-185-231-206-12.stark-industries.solutions#🇫🇮FI | 🟢 | trojan | @ConfigsHUB | 4
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#🇨🇿CZ | 🟢 | trojan | @iP_CF | 27
