@@ -108,10 +108,7 @@
                 "URL-TEST",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
-                "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 87",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 3",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 14",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 22",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 23",
@@ -128,10 +125,7 @@
             "outbounds": [
                 "🇩🇪DE | 🔴 | vless | @v2_team | 6",
                 "🇩🇪DE | 🔴 | vless | @v2_team | 7",
-                "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 87",
                 "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 3",
-                "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 14",
                 "🇮🇹IT | 🟢 | vless | @Capoit | 22",
                 "🇩🇪DE | 🔴 | vless | @Capoit | 23",
@@ -234,35 +228,6 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @DarkTeam_VPN | 87",
-            "type": "vless",
-            "server": "51.210.103.141",
-            "server_port": 443,
-            "uuid": "615d2800-d402-4b14-97a0-8738cdfddfba",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "office.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇰🇿KZ | 🟢 | vless | @ShadowProxy66 | 3",
             "type": "vless",
             "server": "195.133.8.126",
@@ -288,64 +253,6 @@
                     "enabled": true,
                     "public_key": "oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc",
                     "short_id": "220463"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪DE | 🟢 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "89.58.1.98",
-            "server_port": 44807,
-            "uuid": "9f69c514-7aba-4cb2-88d2-1be504c97061",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ",
-                    "short_id": "6d78523a82d71956"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 19",
-            "type": "vless",
-            "server": "speedtest.net.zula.ir.nobitex.ir.shakhle.ir",
-            "server_port": 39001,
-            "uuid": "15449e06-b519-414a-9e0d-fbb4a0fd2780",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
-                    "short_id": "f23547"
                 }
             }
         },
