@@ -113,7 +113,7 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
-                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 7",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
@@ -177,7 +177,6 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -212,7 +211,7 @@
                 "🇺🇸US | 🔴 | vless | @v2_team | 6",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
                 "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 6",
-                "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 7",
+                "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 7",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 3",
                 "🇮🇷IR | 🔴 | vless | @XsV2ray | 4",
                 "🇫🇷FR | 🔴 | vless | @VlessConfig | 13",
@@ -276,7 +275,6 @@
                 "🇫🇷FR | 🔴 | vless | @VmessProtocol | 4",
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇮🇷IR | 🔴 | vless | @fnet00 | 6",
@@ -486,7 +484,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @NIM_VPN_ir | 7",
+            "tag": "🇺🇸US | 🔴 | vless | @NIM_VPN_ir | 7",
             "type": "vless",
             "server": "still-bar-5702.vpnetwork3567.workers.dev",
             "server_port": 443,
@@ -1897,20 +1895,6 @@
                 "headers": {
                     "Host": "172.66.40.99"
                 }
-            }
-        },
-        {
-            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
-            "type": "vless",
-            "server": "v2shop17.bing-net.com",
-            "server_port": 4917,
-            "uuid": "89b40609-7e4a-4391-9efb-9b6fb7f8fb15",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
