@@ -106,8 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 18",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 19",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 19",
                 "❔XX | 🔴 | vless | @Parsashonam | 18",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 19",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
@@ -157,8 +157,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 14",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13",
-                "🇮🇳IN | 🔴 | vless | @v2rayngvpn | 14",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
@@ -177,7 +177,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
@@ -190,7 +190,8 @@
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 19",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
-                "🇺🇸US | 🔴 | vless | @iP_CF | 20",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 23",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 24",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
@@ -206,8 +207,8 @@
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 18",
-                "🇺🇸US | 🔴 | vless | @EliV2ray | 19",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 18",
+                "🇨🇦CA | 🔴 | vless | @EliV2ray | 19",
                 "❔XX | 🔴 | vless | @Parsashonam | 18",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 19",
                 "🇺🇸US | 🔴 | vless | @v2_team | 7",
@@ -257,8 +258,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 14",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13",
-                "🇮🇳IN | 🔴 | vless | @v2rayngvpn | 14",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇩🇪DE | 🔴 | vless | @ShadowProxy66 | 2",
@@ -277,7 +278,7 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
                 "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 12",
@@ -290,7 +291,8 @@
                 "🇺🇸US | 🔴 | vless | @FreakConfig | 19",
                 "🇺🇸US | 🔴 | vless | @flyv2ray | 3",
                 "🇩🇪DE | 🔴 | vless | @flyv2ray | 4",
-                "🇺🇸US | 🔴 | vless | @iP_CF | 20",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 23",
+                "🇺🇸US | 🔴 | vless | @iP_CF | 24",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 10",
                 "🇺🇸US | 🔴 | vless | @mehrosaboran | 11",
                 "🇩🇪DE | 🔴 | vless | @nofiltering2 | 20",
@@ -322,7 +324,7 @@
             "type": "dns"
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 18",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 18",
             "type": "vless",
             "server": "172.66.46.246",
             "server_port": 443,
@@ -353,7 +355,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @EliV2ray | 19",
+            "tag": "🇨🇦CA | 🔴 | vless | @EliV2ray | 19",
             "type": "vless",
             "server": "188.114.98.112",
             "server_port": 2095,
@@ -1499,11 +1501,11 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @v2rayngvpn | 13",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 13",
             "type": "vless",
-            "server": "sss71534.tas-bazi.com",
+            "server": "172.234.236.56",
             "server_port": 443,
-            "uuid": "aa077dd1-0a53-4313-8800-c9ac79a97003",
+            "uuid": "498de120-ed30-4f7e-b498-da4917465793",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1513,17 +1515,34 @@
             }
         },
         {
-            "tag": "🇮🇳IN | 🔴 | vless | @v2rayngvpn | 14",
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
             "type": "vless",
-            "server": "45.88.183.156",
-            "server_port": 12794,
-            "uuid": "08704c01-7edb-454a-98a2-328ccb9936fa",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "17d43328-bbd2-40df-bd45-c94aeb554e89",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "paGeS.DeV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/\/TELEGRAM_V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS?ed=2560",
+                "headers": {
+                    "Host": "paGeS.DeV"
+                }
             }
         },
         {
@@ -1869,11 +1888,11 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🟢 | vless | @ConfigsHUB | 18",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "eng13.netliberated.org",
-            "server_port": 443,
-            "uuid": "c40cf4b2-c6c6-4d7d-a385-4d95008c0079",
+            "server": "91.107.241.250",
+            "server_port": 6000,
+            "uuid": "330e627f-3752-467a-b0a5-d46d07b5acf9",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1883,7 +1902,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.halfords.com",
+                "server_name": "wiredminds.de",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1892,40 +1911,23 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
+                    "public_key": "aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ",
+                    "short_id": "243e"
                 }
             }
         },
         {
             "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4",
+            "server": "45.82.161.120",
+            "server_port": 19011,
+            "uuid": "644b00bd-f142-4a0c-cc23-0241b2fda502",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "lease-15.access.name.ng",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn",
-                "headers": {
-                    "Host": "lease-15.access.name.ng"
-                }
             }
         },
         {
@@ -2179,7 +2181,38 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 20",
+            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 23",
+            "type": "vless",
+            "server": "104.18.36.24",
+            "server_port": 443,
+            "uuid": "30f2d443-af46-4dd6-83c9-b5e17299ebd2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "carlotta.shoorekeeper.cloudns.org",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/proxyip=zani.yaemiko.ggff.net\/?@ShadowProxy66",
+                "headers": {
+                    "Host": "carlotta.shoorekeeper.cloudns.org"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @iP_CF | 24",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
