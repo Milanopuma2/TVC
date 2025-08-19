@@ -152,8 +152,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 15",
+                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 15",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 16",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -170,6 +170,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🔴 | vless | @free1_vpn | 5",
@@ -245,8 +247,8 @@
                 "🇺🇸US | 🔴 | vless | @vmessorg | 17",
                 "🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 9",
                 "🇩🇪DE | 🔴 | vless | @v2rayNG_Matsuri | 10",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
-                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 15",
+                "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 15",
+                "🇺🇸US | 🔴 | vless | @v2rayngvpn | 16",
                 "🇮🇷IR | 🔴 | vless | @FalconPolV2rayNG | 8",
                 "🇺🇸US | 🔴 | vless | @FalconPolV2rayNG | 9",
                 "🇺🇸US | 🔴 | vless | @v2ray_swhil | 43",
@@ -263,6 +265,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "❔XX | 🔴 | vless | @free1_vpn | 5",
@@ -1394,7 +1398,36 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 14",
+            "tag": "🇩🇪DE | 🟢 | vless | @v2rayngvpn | 15",
+            "type": "vless",
+            "server": "91.99.175.173",
+            "server_port": 1001,
+            "uuid": "57d4fb9d-435a-40b0-951a-c638704ba2e5",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ea.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "PJJAwYggwp2gu5_oXIr_1Q02OM6-DrCCEd0y1NF5vSs",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 16",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -1421,37 +1454,6 @@
                 "path": "\/@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN",
                 "headers": {
                     "Host": "server10.coin.name.ng"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 15",
-            "type": "vless",
-            "server": "104.18.131.54",
-            "server_port": 443,
-            "uuid": "d88937d0-ce43-4bf8-9df6-d632810ba9ff",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "007.xingfu.qzz.io",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "007.xingfu.qzz.io"
                 }
             }
         },
@@ -1766,6 +1768,51 @@
                 "path": "\/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80",
                 "headers": {
                     "Host": "172.66.40.99"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 15",
+            "type": "vless",
+            "server": "sss94870.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 16",
+            "type": "vless",
+            "server": "104.26.0.108",
+            "server_port": 443,
+            "uuid": "3d7dd548-5456-4f28-8019-393fbfab3312",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "app-stg.gopay.co.id.servpn.my.id",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/sg3?ed=2560\/",
+                "headers": {
+                    "Host": "app-stg.gopay.co.id.servpn.my.id"
                 }
             }
         },
