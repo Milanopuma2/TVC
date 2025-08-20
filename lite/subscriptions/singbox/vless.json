@@ -174,7 +174,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
@@ -273,7 +274,8 @@
                 "🇮🇷IR | 🔴 | vless | @SafeNet_Server | 3",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 2",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 3",
-                "🇺🇸US | 🟢 | vless | @ConfigsHUB | 11",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
                 "🇩🇪DE | 🔴 | vless | @proxystore11 | 11",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 12",
                 "🇩🇪DE | 🔴 | vless | @free1_vpn | 4",
@@ -505,7 +507,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 15",
             "type": "vless",
-            "server": "3.64.229.244",
+            "server": "3.67.162.65",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -536,7 +538,7 @@
         {
             "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "18.198.129.207",
+            "server": "3.64.229.244",
             "server_port": 22224,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1492,6 +1494,37 @@
         {
             "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 11",
             "type": "vless",
+            "server": "172.67.74.133",
+            "server_port": 443,
+            "uuid": "3d7dd548-5456-4f28-8019-393fbfab3312",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "app-stg.gopay.co.id.servpn.my.id",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/sg3\/?-JKVPN_TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN",
+                "headers": {
+                    "Host": "app-stg.gopay.co.id.servpn.my.id"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
+            "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
             "uuid": "f644330e-b21f-42f8-af06-36b1613fbe62",
@@ -1517,27 +1550,6 @@
                 "path": "\/hajmi?ed=2560",
                 "headers": {
                     "Host": "zzula.ir"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🔴 | vless | @v2rayngvpn | 12",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2095,
-            "uuid": "f644330e-b21f-42f8-af06-36b1613fbe62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/hajmi?ed=2050",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -1884,11 +1896,25 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @ConfigsHUB | 11",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "104.21.10.227",
+            "server": "91.99.183.30",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "jquery.com",
             "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "uuid": "5da52d2d-1ab8-48d0-8421-8354fd6ce7d3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1898,7 +1924,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ppAL03.yEyESiB146.WorKers.DEv",
+                "server_name": "rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1908,9 +1934,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/MuhCrbkPTOFJDDen?ed=2560",
+                "path": "\/@Rayan_Config",
                 "headers": {
-                    "Host": "ppAL03.yEyESiB146.WorKers.DEv"
+                    "Host": "rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT"
                 }
             }
         },
