@@ -119,11 +119,11 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 4",
                 "❔XX | 🟢 | vless | @XsV2ray | 0",
-                "🇫🇮FI | 🔴 | vless | @melov2ray | 21",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 29",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 37",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 45",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 53",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 61",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 2",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
@@ -153,7 +153,8 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 11",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 0",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 10",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 1",
                 "🇫🇮FI | 🟢 | vless | @Capoit | 8",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 0",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 5",
@@ -202,11 +203,11 @@
                 "❔XX | 🟢 | vless | @NIM_VPN_ir | 3",
                 "🇬🇧GB | 🔴 | vless | @NIM_VPN_ir | 4",
                 "❔XX | 🟢 | vless | @XsV2ray | 0",
-                "🇫🇮FI | 🔴 | vless | @melov2ray | 21",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 29",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 37",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 45",
                 "🇫🇮FI | 🔴 | vless | @melov2ray | 53",
+                "🇫🇮FI | 🔴 | vless | @melov2ray | 61",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 2",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 5",
                 "🇩🇪DE | 🔴 | vless | @CUSTOMVPNSERVER | 8",
@@ -236,7 +237,8 @@
                 "🇩🇪DE | 🟢 | vless | @customv2ray | 34",
                 "❔XX | 🟢 | vless | @v2rayNG_Matsuri | 11",
                 "🇩🇪DE | 🔴 | vless | @v2ray1_ng | 0",
-                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
+                "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 10",
+                "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 1",
                 "🇫🇮FI | 🟢 | vless | @Capoit | 8",
                 "🇺🇸US | 🟢 | vless | @FreakConfig | 0",
                 "🇩🇪DE | 🟢 | vless | @FreakConfig | 5",
@@ -686,7 +688,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 21",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 29",
             "type": "vless",
             "server": "65.109.208.107",
             "server_port": 2083,
@@ -722,7 +724,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 29",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 37",
             "type": "vless",
             "server": "65.109.208.107",
             "server_port": 2083,
@@ -758,7 +760,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 37",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 45",
             "type": "vless",
             "server": "65.109.208.107",
             "server_port": 2083,
@@ -794,7 +796,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 45",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 53",
             "type": "vless",
             "server": "65.109.208.107",
             "server_port": 2083,
@@ -830,7 +832,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 53",
+            "tag": "🇫🇮FI | 🔴 | vless | @melov2ray | 61",
             "type": "vless",
             "server": "65.109.208.107",
             "server_port": 2083,
@@ -1742,7 +1744,43 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 0",
+            "tag": "🇫🇮FI | 🔴 | vless | @ConfigsHUB | 10",
+            "type": "vless",
+            "server": "65.109.218.179",
+            "server_port": 2083,
+            "uuid": "5558694b-d1b7-4060-bf15-39abdf51302c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "khamenei.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8",
+                    "short_id": "54602915a7"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "melov2ray",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇺🇸US | 🟢 | vless | @Outlinev2rayNG | 1",
             "type": "vless",
             "server": "89.116.193.40",
             "server_port": 34045,
